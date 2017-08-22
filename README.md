@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+https://djangogirls.org/spokane
+
 Make movies the same way Ola makes Coding is for Girls
 https://twitter.com/CodingIsForGirl/status/695712398024511490
 https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
