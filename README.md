@@ -26,6 +26,12 @@ DjangoCon Organizers
 <!--
 https://www.defna.org/announcements/2017/5/10/djangocon-us-call-for-venue-proposal-2018-and-2019
 
+Python- Users and Members
+* [Python Members](https://www.python.org/psf/members)
+* [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
+
+https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
+
 https://wiki.python.org/moin/
 https://www.python.org/psf/
 https://github.com/python/psf-community-resources/issues
@@ -39,12 +45,14 @@ https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event
 http://www.python.org/community/irc
 https://www.python.org/community/workshops
 
+https://mail.python.org/mailman/listinfo/group-organizers
+https://github.com/python/community-starter-kit
+
 https://people.djangoproject.com
 https://www.djangoproject.com/community
 https://www.djangoproject.com/foundation/developer-members
 
-https://mail.python.org/mailman/listinfo/group-organizers
-https://github.com/python/community-starter-kit
+https://www.djangoproject.com/fundraising/campaign/django-fellowship
 -->
 
 ## PyLadies and Django Girls
