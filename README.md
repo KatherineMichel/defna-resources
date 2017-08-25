@@ -64,6 +64,7 @@ PyLadies and PyLadies Remote
 * [PyLadies Maintainers GitHub](https://github.com/pyladies/pyladies-maintainers)
 * [PyLadies Remote Twitter](https://twitter.com/pyladiesremote)
 * [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
+* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
 Django Girls
 * [Django Girl](https://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls) 
