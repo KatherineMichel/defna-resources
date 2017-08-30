@@ -138,6 +138,8 @@ Conferences and Meetups
 * [Meetup Topic Python](http://www.meetup.com/topics/python)
 
 <!--
+https://www.papercall.io
+
 https://www.meetup.com/topics/django/us
 https://www.meetup.com/topics/django
 https://www.meetup.com/topics/django/all
@@ -147,6 +149,11 @@ http://lanyrd.com/search/?context=future&q=django
 
 http://lanyrd.com/search/?q=django&type=conference&context=future
 http://lanyrd.com/search/?context=future&q=django&type=conference
+
+http://lanyrd.com/topics/devops
+
+http://lanyrd.com/places/uk
+http://lanyrd.com/places/greater-london
 -->
 
 ## Events and Meetups
@@ -185,6 +192,30 @@ PyData
 
 <!--
 New
+https://gitlab.com/pygotham/2017
+https://2017.pygotham.org/
+https://docs.google.com/forms/d/e/1FAIpQLSen_gu0eSB0qj-DpaNUsPzRBSMzrjtyjMB_0nj8vy3B_16dZg/viewform?c=0&w=1
+https://www.eventbrite.com/e/pygotham-2017-tickets-26532180466
+
+https://www.pycascades.com/speakers
+https://www.papercall.io/pycascades-2018
+https://docs.google.com/forms/d/e/1FAIpQLSeJMNm6XSKtlOQWvsCcEStdm4W9XtqxGYPH20D8AGkmnk8j6A/viewform
+
+http://uk.python.org/news/2017/08/23/pyconuk-keynotes-announced
+https://us.pycon.org/2017/financial-assistance/
+https://us.pycon.org/2017/registration
+https://www.google.com/search?q=pycon+list&oq=pycon+list&gs_l=psy-ab.3..0i7i30k1l2.15712.17082.0.17376.8.7.0.0.0.0.190.602.0j4.4.0....0...1.1.64.psy-ab..5.1.116.-Ey_LFVwAUI | pycon list - Google Search
+
+https://africa.python.org/en/
+https://pyohio.org/schedule/
+https://github.com/pyconau/2018.pycon-au.org
+https://github.com/pyconau2017/website/blob/master/pinaxcon/templates/site_base.html
+https://forms.zohopublic.com/pyconnigeria/form/FinancialAidApplication/formperma/bCd_a4442mMAA_d26BDDeA2ek
+https://inlandnorthwest.tech/
+https://2017.northbaypython.org/ | North Bay Python | Welcome
+https://twitter.com/ps_python | Puget Sound Python (@ps_python) | Twitter
+
+
 https://github.com/pydata/conf_site
 https://github.com/pydelhi/conference
 
