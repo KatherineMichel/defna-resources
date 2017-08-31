@@ -20,6 +20,12 @@ DjangoCon Organizers
 
 <!--
 New
+https://jefftriplett.com/2017/django-talks-id-like-to-see/ | DjangoCon US Talks I’d Like to See: 2017 Edition | Jeff Triplett
+https://twitter.com/djangocon/lists/speakers-2017
+
+
+http://heats.life/blog/2017/08/04/conferences
+
 http://2017.pyconuk.org/diversity-accessibility-inclusion
 
 https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
