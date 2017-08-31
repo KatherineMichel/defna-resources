@@ -89,6 +89,9 @@ Django Girls- Help
 * [Django Girls Store](https://store.djangogirls.org)
 
 <!--
+https://www.flickr.com/photos/djangogirls
+https://organize.djangogirls.org/promotion
+
 http://remote.pyladies.com/resources
 
 https://github.com/audreyr/lapyladies
