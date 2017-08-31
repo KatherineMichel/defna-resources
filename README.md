@@ -20,6 +20,8 @@ DjangoCon Organizers
 
 <!--
 New
+http://2017.pyconuk.org/diversity-accessibility-inclusion
+
 https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
 https://github.com/python/psf-community-resources/issues
 https://github.com/jspittman/psf-community-resources/blob/master/meetup-usergroup-cheatsheet.md
