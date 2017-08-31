@@ -19,19 +19,6 @@ DjangoCon Organizers
 * [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
 
 <!--
-New
-https://jefftriplett.com/2017/django-talks-id-like-to-see/ | DjangoCon US Talks I’d Like to See: 2017 Edition | Jeff Triplett
-https://twitter.com/djangocon/lists/speakers-2017
-
-
-http://heats.life/blog/2017/08/04/conferences
-
-http://2017.pyconuk.org/diversity-accessibility-inclusion
-
-https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
-https://github.com/python/psf-community-resources/issues
-https://github.com/jspittman/psf-community-resources/blob/master/meetup-usergroup-cheatsheet.md
-
 Python- Users and Members
 * [Python Software Foundation Members](https://www.python.org/psf/members)
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
@@ -55,6 +42,15 @@ https://www.python.org/community/workshops
 
 https://mail.python.org/mailman/listinfo/group-organizers
 https://github.com/python/community-starter-kit
+
+http://pyfound.blogspot.com/2017/07/welcome-new-board-members.html
+https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
+https://github.com/python/psf-community-resources/issues
+https://github.com/jspittman/psf-community-resources/blob/master/meetup-usergroup-cheatsheet.md
+
+https://www.python.org/events/
+
+https://mail.python.org/mailman/listinfo/group-organizers
 
 https://people.djangoproject.com
 https://www.djangoproject.com/community
@@ -145,15 +141,16 @@ https://github.com/nodejs/Intl
 
 Conferences and Meetups
 * [Lanyrd](http://lanyrd.com)
+* [PaperCall](https://www.papercall.io)
 * [Meetup Topic Django](https://www.meetup.com/topics/django)
 * [Meetup Topic Python](http://www.meetup.com/topics/python)
 
 <!--
-https://www.papercall.io
-
 https://www.meetup.com/topics/django/us
 https://www.meetup.com/topics/django
 https://www.meetup.com/topics/django/all
+
+http://lanyrd.com/2017/
 
 http://lanyrd.com/search/?context=future&q=python
 http://lanyrd.com/search/?context=future&q=django
@@ -206,7 +203,28 @@ PyData
 * [PyData Spain GitHub](https://github.com/python-spain)
 
 <!--
+Python Events
+https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
+https://python-conferences.slack.com/messages/@slackbot/
+https://python-confs-slack-invites.herokuapp.com/invite
+
+http://heats.life/blog/2017/08/04/conferences
+DjangoCon US Talks I’d Like to See: 2017 Edition | Jeff Triplett
+https://jefftriplett.com/2017/django-talks-id-like-to-see
+https://twitter.com/djangocon/lists/speakers-2017
+
+Daniele for Cardiff, Baptiste for Budapest, Iacopo for Florence, Erik for DUTH
+
+http://2017.pyconuk.org/diversity-accessibility-inclusion
+
 New
+https://slack.pyohio.org/
+https://www.eventbrite.com/e/pyohio-2017-tickets-33066656259
+https://pyohio.org/schedule/
+
+https://github.com/pydata/conf_site
+
+https://github.com/PyGotham/pygotham
 https://gitlab.com/pygotham/2017
 https://2017.pygotham.org/
 https://docs.google.com/forms/d/e/1FAIpQLSen_gu0eSB0qj-DpaNUsPzRBSMzrjtyjMB_0nj8vy3B_16dZg/viewform?c=0&w=1
@@ -215,37 +233,27 @@ https://www.eventbrite.com/e/pygotham-2017-tickets-26532180466
 https://www.pycascades.com/speakers
 https://www.papercall.io/pycascades-2018
 https://docs.google.com/forms/d/e/1FAIpQLSeJMNm6XSKtlOQWvsCcEStdm4W9XtqxGYPH20D8AGkmnk8j6A/viewform
+http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
 
 http://uk.python.org/news/2017/08/23/pyconuk-keynotes-announced
 https://us.pycon.org/2017/financial-assistance/
 https://us.pycon.org/2017/registration
 https://www.google.com/search?q=pycon+list&oq=pycon+list&gs_l=psy-ab.3..0i7i30k1l2.15712.17082.0.17376.8.7.0.0.0.0.190.602.0j4.4.0....0...1.1.64.psy-ab..5.1.116.-Ey_LFVwAUI | pycon list - Google Search
 
-https://africa.python.org/en/
-https://pyohio.org/schedule/
-https://github.com/pyconau/2018.pycon-au.org
-https://github.com/pyconau2017/website/blob/master/pinaxcon/templates/site_base.html
-https://forms.zohopublic.com/pyconnigeria/form/FinancialAidApplication/formperma/bCd_a4442mMAA_d26BDDeA2ek
 https://inlandnorthwest.tech/
 https://2017.northbaypython.org/ | North Bay Python | Welcome
 https://twitter.com/ps_python | Puget Sound Python (@ps_python) | Twitter
+https://github.com/pynashorg/pynashorg.github.com
 
-
-https://github.com/pydata/conf_site
+https://africa.python.org/en/
+https://github.com/pyconau/2018.pycon-au.org
+https://github.com/pyconau2017/website/blob/master/pinaxcon/templates/site_base.html
+https://forms.zohopublic.com/pyconnigeria/form/FinancialAidApplication/formperma/bCd_a4442mMAA_d26BDDeA2ek
 https://github.com/pydelhi/conference
-
+http://il.pycon.org/2016/about/speakers.html
+https://ep2016.europython.eu
 https://github.com/EuroPython/epcon
 https://za.pycon.org
-
-https://github.com/pynashorg/pynashorg.github.com
-https://2017.pygotham.org/registration
-https://gitlab.com/pygotham/2017
-https://github.com/PyGotham/pygotham
-
-http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
-
-https://ep2016.europython.eu
-http://il.pycon.org/2016/about/speakers.html
 -->
 
 #### Mentors 
