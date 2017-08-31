@@ -1,21 +1,16 @@
 # DEFNA Resources
 
-<!--
-Make movies the same way Ola makes Coding is for Girls
-https://twitter.com/CodingIsForGirl/status/695712398024511490
-https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
-https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
-
-Make movies the same way Ola makes Coding is for Girls
-https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
-http://www.apple.com/mac/imovie
--->
-
 DEFNA (Django Events Foundation North America)
 * [DEFNA Website](https://www.defna.org)
 * [DEFNA GitHub](https://github.com/DEFNA)
 * [DEFNA Foundation GitHub](https://github.com/DEFNA/foundation)
 * [DEFNA Website? GitHub](https://github.com/DEFNA/defna.org)
+
+<!--
+https://www.defna.org/announcements/2017/5/10/djangocon-us-call-for-venue-proposal-2018-and-2019
+https://www.defna.org/announcements/2016/7/20/defna-phase-ii
+https://www.defna.org/announcements/2017/7/25/the-joys-of-catering-part-1-tickets-sold-does-not-equal-catering-count
+-->
 
 501(c)(3)
 * [501(c)(3)](https://en.wikipedia.org/wiki/501(c)(3)_organization)
@@ -24,23 +19,28 @@ DjangoCon Organizers
 * [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
 
 <!--
-https://www.defna.org/announcements/2017/5/10/djangocon-us-call-for-venue-proposal-2018-and-2019
+New
+https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
+https://github.com/python/psf-community-resources/issues
+https://github.com/jspittman/psf-community-resources/blob/master/meetup-usergroup-cheatsheet.md
 
 Python- Users and Members
-* [Python Members](https://www.python.org/psf/members)
+* [Python Software Foundation Members](https://www.python.org/psf/members)
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
+
+https://www.python.org/psf/grants/
 
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
 
 https://wiki.python.org/moin/
 https://www.python.org/psf/
 https://github.com/python/psf-community-resources/issues
+StartingYourUsersGroup - Python Wiki
 https://wiki.python.org/moin/StartingYourUsersGroup
 https://wiki.python.org/moin/LocalUserGroups
 https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event
-
-* [Python Members](https://www.python.org/psf/members)
-* [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
+https://www.python.org/psf/committees/
+https://www.python.org/psf/committees/#grants-work-group
 
 http://www.python.org/community/irc
 https://www.python.org/community/workshops
@@ -168,6 +168,10 @@ DjangoCon
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
 * [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
 * [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
+
+<!--
+https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
+-->
 
 PyCon North America
 * [PyCascades GitHub](https://github.com/pycascades) and [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com)
