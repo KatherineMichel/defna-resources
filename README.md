@@ -203,6 +203,9 @@ PyData
 * [PyData Spain GitHub](https://github.com/python-spain)
 
 <!--
+https://github.com/baybridgepython/baybridgepython.org
+https://2017.northbaypython.org
+
 Python Events
 https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
 https://python-conferences.slack.com/messages/@slackbot/
