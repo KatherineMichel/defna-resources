@@ -1,5 +1,5 @@
 # DEFNA Resources
-
+  
 DEFNA (Django Events Foundation North America)
 * [DEFNA Website](https://www.defna.org)
 * [DEFNA GitHub](https://github.com/DEFNA)
@@ -166,6 +166,15 @@ PyCon
 * [PyCon Website GitHub](https://github.com/PyCon/pycon)
 * [PyCon UK GitHub](https://github.com/PyconUK)
 
+<!--
+http://2017.pyconuk.org/pydata
+http://2017.pyconuk.org/django-girls
+http://uk.python.org/news/2017/08/23/pyconuk-keynotes-announced
+https://us.pycon.org/2017
+https://www.google.com/search?q=pycon+list&oq=pycon+list&gs_l=psy-ab.3..0i7i30k1l2.15712.17082.0.17376.8.7.0.0.0.0.190.602.0j4.4.0....0...1.1.64.psy-ab..5.1.116.-Ey_LFVwAUI | pycon list - Google Search
+http://2017.pyconuk.org/diversity-accessibility-inclusion
+-->
+
 DjangoCon
 * [DjangoCon U.S.](http://www.djangocon.us), [DjangoCon GitHub](https://github.com/djangocon), and [DjangoCon E.U.](https://djangocon.eu) 
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
@@ -176,12 +185,15 @@ DjangoCon
 https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
 -->
 
-PyCon North America
+Python Conferences North America
 * [PyCascades GitHub](https://github.com/pycascades) and [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com)
 * [PyBay GitHub](https://github.com/pybay)
+* [North Bay Python Website](https://2017.northbaypython.org)
+* [Bay Bridge Python GitHub](https://github.com/baybridgepython) and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
 * [PyGotham GitHub](https://github.com/PyGotham)
-* [PyNash GitHub](https://github.com/pynashorg)
+* [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
 * [PyOhio GitHub](https://github.com/pyohio)
+* [Puget Sound Python Twitter](https://twitter.com/ps_python)
 
 PyCon International
 * [EuroPython 2017 Website](https://ep2017.europython.eu) and [EuroPython GitHub](https://github.com/EuroPython) 
@@ -198,9 +210,6 @@ PyData
 * [PyData Spain GitHub](https://github.com/python-spain)
 
 <!--
-https://github.com/baybridgepython/baybridgepython.org
-https://2017.northbaypython.org
-
 Python Events
 https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
 https://python-conferences.slack.com/messages/@slackbot/
@@ -212,8 +221,6 @@ https://jefftriplett.com/2017/django-talks-id-like-to-see
 https://twitter.com/djangocon/lists/speakers-2017
 
 Daniele for Cardiff, Baptiste for Budapest, Iacopo for Florence, Erik for DUTH
-
-http://2017.pyconuk.org/diversity-accessibility-inclusion
 
 New
 https://slack.pyohio.org/
@@ -233,15 +240,7 @@ https://www.papercall.io/pycascades-2018
 https://docs.google.com/forms/d/e/1FAIpQLSeJMNm6XSKtlOQWvsCcEStdm4W9XtqxGYPH20D8AGkmnk8j6A/viewform
 http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
 
-http://uk.python.org/news/2017/08/23/pyconuk-keynotes-announced
-https://us.pycon.org/2017/financial-assistance/
-https://us.pycon.org/2017/registration
-https://www.google.com/search?q=pycon+list&oq=pycon+list&gs_l=psy-ab.3..0i7i30k1l2.15712.17082.0.17376.8.7.0.0.0.0.190.602.0j4.4.0....0...1.1.64.psy-ab..5.1.116.-Ey_LFVwAUI | pycon list - Google Search
-
 https://inlandnorthwest.tech/
-https://2017.northbaypython.org/ | North Bay Python | Welcome
-https://twitter.com/ps_python | Puget Sound Python (@ps_python) | Twitter
-https://github.com/pynashorg/pynashorg.github.com
 
 https://pycon.ng Pycon Nigeria
 https://africa.python.org/en/
