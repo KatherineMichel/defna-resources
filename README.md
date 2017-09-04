@@ -248,6 +248,7 @@ https://2017.northbaypython.org/ | North Bay Python | Welcome
 https://twitter.com/ps_python | Puget Sound Python (@ps_python) | Twitter
 https://github.com/pynashorg/pynashorg.github.com
 
+https://pycon.ng Pycon Nigeria
 https://africa.python.org/en/
 https://github.com/pyconau/2018.pycon-au.org
 https://github.com/pyconau2017/website/blob/master/pinaxcon/templates/site_base.html
