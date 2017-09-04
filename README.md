@@ -150,18 +150,13 @@ https://www.meetup.com/topics/django/us
 https://www.meetup.com/topics/django
 https://www.meetup.com/topics/django/all
 
-http://lanyrd.com/2017/
+http://lanyrd.com/topics/devops
 
 http://lanyrd.com/search/?context=future&q=python
 http://lanyrd.com/search/?context=future&q=django
 
 http://lanyrd.com/search/?q=django&type=conference&context=future
 http://lanyrd.com/search/?context=future&q=django&type=conference
-
-http://lanyrd.com/topics/devops
-
-http://lanyrd.com/places/uk
-http://lanyrd.com/places/greater-london
 -->
 
 ## Events and Meetups
