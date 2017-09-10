@@ -19,6 +19,9 @@ DjangoCon Organizers
 * [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
 
 <!--
+https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
+https://www.python.org/psf/
+
 Python- Users and Members
 * [Python Software Foundation Members](https://www.python.org/psf/members)
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
@@ -28,7 +31,6 @@ https://www.python.org/psf/grants/
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
 
 https://wiki.python.org/moin/
-https://www.python.org/psf/
 https://github.com/python/psf-community-resources/issues
 StartingYourUsersGroup - Python Wiki
 https://wiki.python.org/moin/StartingYourUsersGroup
