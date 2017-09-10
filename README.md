@@ -90,6 +90,10 @@ https://github.com/search?utf8=%E2%9C%93&q=pyladies&type=
 https://en.wikipedia.org/wiki/PyLadies
 https://trello.com/b/zOQw7mVl/website
 
+PyLadies Events
+https://gist.github.com/econchick
+https://gist.github.com/econchick/e060f3c632b92dd8f55d0338d7758680
+
 https://www.flickr.com/photos/djangogirls
 https://organize.djangogirls.org/promotion
 
@@ -215,6 +219,13 @@ PyData
 * [PyData Spain GitHub](https://github.com/python-spain)
 
 <!--
+https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
+https://2017.pygotham.org/talks/ | Accepted Talks - PyGotham 2017
+https://2017.pycon.ca/ | PyCon Canada 2017
+https://www.meetup.com/pydata_seattle | PyData Seattle (Bellevue, WA) | Meetup
+https://www.youtube.com/user/PyDataTV/playlists | PyData - YouTube
+pygotham youtube - Google Search
+
 Python Events
 https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
 https://python-conferences.slack.com/messages/@slackbot/
