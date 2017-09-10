@@ -85,7 +85,10 @@ Django Girls- Help
 * [Django Girls Store](https://store.djangogirls.org)
 
 <!--
+http://www.pyladies.com/locations/
 https://github.com/search?utf8=%E2%9C%93&q=pyladies&type=
+https://en.wikipedia.org/wiki/PyLadies
+https://trello.com/b/zOQw7mVl/website
 
 https://www.flickr.com/photos/djangogirls
 https://organize.djangogirls.org/promotion
