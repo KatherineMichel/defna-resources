@@ -1,5 +1,31 @@
 # DEFNA Resources
-  
+
+<!--
+https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question/ | DjangoCon 2017 Videos are up and a question! : django
+
+https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
+https://atom509.wordpress.com/about/ | About | ATOM
+https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
+
+https://2017.northbaypython.org/program/call-for-proposals | North Bay Python | Call for Proposals
+https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
+https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
+
+http://2017.pyconuk.org/ | PyCon UK 2017
+https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
+
+https://2017.pygotham.org/ | PyGotham 2017
+
+https://2017.pycon.ca/venue/ | PyCon Canada 2017
+https://docs.google.com/forms/d/e/1FAIpQLSdR9XCk_UZTE1lLFGvDy1uIJlXieDJym8dQEDtUN3hqD_Vjow/viewform | PyCon Canada 2017 Financial Aid Application
+
+http://pycon.blogspot.com/2017/09/pycon-2018-launches-new-site.html | The PyCon Blog: PyCon 2018 Launches New Site, Sponsorship Search
+
+https://www.pycascades.com/news/4-speaker-announcement-guido-van-rossum/ | Speaker Announcement: Guido van Rossum - PyCascades
+
+https://twitter.com/flpycon/status/905437957066240000 | Florida PyCon on Twitter: "Shiny new website with speakers and more details added! Adding more speakers and information as it is confirmed. 🍊🐍 https://t.co/SB50AjSpLf"
+-->
+
 DEFNA (Django Events Foundation North America)
 * [DEFNA Website](https://www.defna.org)
 * [DEFNA GitHub](https://github.com/DEFNA)
@@ -35,7 +61,7 @@ https://github.com/python/psf-community-resources/issues
 StartingYourUsersGroup - Python Wiki
 https://wiki.python.org/moin/StartingYourUsersGroup
 https://wiki.python.org/moin/LocalUserGroups
-https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event
+https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event | PythonEventsCalendar - Python Wiki
 https://www.python.org/psf/committees/
 https://www.python.org/psf/committees/#grants-work-group
 
