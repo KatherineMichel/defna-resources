@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+http://pycon.blogspot.com/2017/09/pycon-2018-launches-new-site.html | The PyCon Blog: PyCon 2018 Launches New Site, Sponsorship Search
+
 https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question/ | DjangoCon 2017 Videos are up and a question! : django
 
 https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
