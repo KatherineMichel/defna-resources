@@ -1,33 +1,5 @@
 # DEFNA Resources
 
-<!--
-http://pycon.blogspot.com/2017/09/pycon-2018-launches-new-site.html | The PyCon Blog: PyCon 2018 Launches New Site, Sponsorship Search
-
-https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question/ | DjangoCon 2017 Videos are up and a question! : django
-
-https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
-https://atom509.wordpress.com/about/ | About | ATOM
-https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
-
-https://2017.northbaypython.org/program/call-for-proposals | North Bay Python | Call for Proposals
-https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
-https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
-
-http://2017.pyconuk.org/ | PyCon UK 2017
-https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
-
-https://2017.pygotham.org/ | PyGotham 2017
-
-https://2017.pycon.ca/venue/ | PyCon Canada 2017
-https://docs.google.com/forms/d/e/1FAIpQLSdR9XCk_UZTE1lLFGvDy1uIJlXieDJym8dQEDtUN3hqD_Vjow/viewform | PyCon Canada 2017 Financial Aid Application
-
-http://pycon.blogspot.com/2017/09/pycon-2018-launches-new-site.html | The PyCon Blog: PyCon 2018 Launches New Site, Sponsorship Search
-
-https://www.pycascades.com/news/4-speaker-announcement-guido-van-rossum/ | Speaker Announcement: Guido van Rossum - PyCascades
-
-https://twitter.com/flpycon/status/905437957066240000 | Florida PyCon on Twitter: "Shiny new website with speakers and more details added! Adding more speakers and information as it is confirmed. 🍊🐍 https://t.co/SB50AjSpLf"
--->
-
 DEFNA (Django Events Foundation North America)
 * [DEFNA Website](https://www.defna.org)
 * [DEFNA GitHub](https://github.com/DEFNA)
@@ -38,6 +10,14 @@ DEFNA (Django Events Foundation North America)
 https://www.defna.org/announcements/2017/5/10/djangocon-us-call-for-venue-proposal-2018-and-2019
 https://www.defna.org/announcements/2016/7/20/defna-phase-ii
 https://www.defna.org/announcements/2017/7/25/the-joys-of-catering-part-1-tickets-sold-does-not-equal-catering-count
+
+https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question/ | DjangoCon 2017 Videos are up and a question! : django
+
+https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
+https://atom509.wordpress.com/about/ | About | ATOM
+https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
+
+https://djangogirls.org/spokane
 -->
 
 501(c)(3)
@@ -206,12 +186,18 @@ PyCon
 * [PyCon UK GitHub](https://github.com/PyconUK)
 
 <!--
+https://us.pycon.org/2018
+http://pycon.blogspot.com/2017/09/pycon-2018-launches-new-site.html | The PyCon Blog: PyCon 2018 Launches New Site, Sponsorship Search
+
+http://2017.pyconuk.org/ | PyCon UK 2017
 http://2017.pyconuk.org/pydata
 http://2017.pyconuk.org/django-girls
 http://uk.python.org/news/2017/08/23/pyconuk-keynotes-announced
 https://us.pycon.org/2017
 https://www.google.com/search?q=pycon+list&oq=pycon+list&gs_l=psy-ab.3..0i7i30k1l2.15712.17082.0.17376.8.7.0.0.0.0.190.602.0j4.4.0....0...1.1.64.psy-ab..5.1.116.-Ey_LFVwAUI | pycon list - Google Search
 http://2017.pyconuk.org/diversity-accessibility-inclusion
+
+https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
 -->
 
 DjangoCon
@@ -250,8 +236,7 @@ PyData
 
 <!--
 https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
-https://2017.pygotham.org/talks/ | Accepted Talks - PyGotham 2017
-https://2017.pycon.ca/ | PyCon Canada 2017
+
 https://www.meetup.com/pydata_seattle | PyData Seattle (Bellevue, WA) | Meetup
 https://www.youtube.com/user/PyDataTV/playlists | PyData - YouTube
 pygotham youtube - Google Search
@@ -268,23 +253,34 @@ https://twitter.com/djangocon/lists/speakers-2017
 
 Daniele for Cardiff, Baptiste for Budapest, Iacopo for Florence, Erik for DUTH
 
-New
+https://2017.northbaypython.org/program/call-for-proposals | North Bay Python | Call for Proposals
+https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
+https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
+
+https://2017.pycon.ca | PyCon Canada 2017
+https://2017.pycon.ca/venue | PyCon Canada 2017
+https://docs.google.com/forms/d/e/1FAIpQLSdR9XCk_UZTE1lLFGvDy1uIJlXieDJym8dQEDtUN3hqD_Vjow/viewform | PyCon Canada 2017 Financial Aid Application
+
+https://github.com/PyGotham/pygotham
+https://gitlab.com/pygotham/2017
+https://2017.pygotham.org/talks/ | Accepted Talks - PyGotham 2017
+https://2017.pygotham.org/
+https://docs.google.com/forms/d/e/1FAIpQLSen_gu0eSB0qj-DpaNUsPzRBSMzrjtyjMB_0nj8vy3B_16dZg/viewform?c=0&w=1
+https://www.eventbrite.com/e/pygotham-2017-tickets-26532180466
+
+https://www.pycascades.com/news/4-speaker-announcement-guido-van-rossum
+https://www.pycascades.com/speakers
+https://www.papercall.io/pycascades-2018
+https://docs.google.com/forms/d/e/1FAIpQLSeJMNm6XSKtlOQWvsCcEStdm4W9XtqxGYPH20D8AGkmnk8j6A/viewform
+http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
+
 https://slack.pyohio.org/
 https://www.eventbrite.com/e/pyohio-2017-tickets-33066656259
 https://pyohio.org/schedule/
 
 https://github.com/pydata/conf_site
 
-https://github.com/PyGotham/pygotham
-https://gitlab.com/pygotham/2017
-https://2017.pygotham.org/
-https://docs.google.com/forms/d/e/1FAIpQLSen_gu0eSB0qj-DpaNUsPzRBSMzrjtyjMB_0nj8vy3B_16dZg/viewform?c=0&w=1
-https://www.eventbrite.com/e/pygotham-2017-tickets-26532180466
-
-https://www.pycascades.com/speakers
-https://www.papercall.io/pycascades-2018
-https://docs.google.com/forms/d/e/1FAIpQLSeJMNm6XSKtlOQWvsCcEStdm4W9XtqxGYPH20D8AGkmnk8j6A/viewform
-http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
+https://twitter.com/flpycon/status/905437957066240000 | Florida PyCon on Twitter: "Shiny new website with speakers and more details added! Adding more speakers and information as it is confirmed. 🍊🐍 https://t.co/SB50AjSpLf"
 
 https://inlandnorthwest.tech/
 
