@@ -18,6 +18,9 @@ https://atom509.wordpress.com/about/ | About | ATOM
 https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
 
 https://djangogirls.org/spokane
+
+https://2016.djangocon.us/diversity/ | Diversity
+https://2015.djangocon.us/schedule/presentation/72/ | Presentation: How to Practice Inclusion and Benefit Django | DjangoCon in Austin, TX
 -->
 
 501(c)(3)
@@ -121,6 +124,9 @@ https://github.com/socalpyladies/socalpyladies.github.io
 http://socalpyladies.github.io/
 https://github.com/PanPacificPyLadiesConf/PPPCwebsite
 https://github.com/DutchDjangoAssociation/djangovereniging.nl
+
+https://djangogirls.org/2016-2017/ | Django Girls Impact Report 2016-2017
+https://organize.djangogirls.org/attendees/index.html | Page Not Found · GitBook
 
 http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
 
