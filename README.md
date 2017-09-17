@@ -27,8 +27,11 @@ DjangoCon Organizers
 * [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
 
 <!--
+https://twitter.com/drnikki/status/908465327234629632 | nikki stevens on Twitter: "Python increased female speakers from 1% to 40% in 5 years. <3 <3 <3 <3 @pyladies @djangogirls major change agents in this. #OSSummit"
+
 https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
 https://www.python.org/psf/
+https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2017 | PythonSoftwareFoundation/BoardCandidates2017 - Python Wiki
 
 Python- Users and Members
 * [Python Software Foundation Members](https://www.python.org/psf/members)
@@ -292,6 +295,8 @@ https://github.com/pydata/conf_site
 https://twitter.com/flpycon/status/905437957066240000 | Florida PyCon on Twitter: "Shiny new website with speakers and more details added! Adding more speakers and information as it is confirmed. 🍊🐍 https://t.co/SB50AjSpLf"
 
 https://inlandnorthwest.tech/
+
+https://github.com/pyconau/2018.pycon-au.org | pyconau/2018.pycon-au.org
 
 https://pycon.ng Pycon Nigeria
 https://africa.python.org/en/
