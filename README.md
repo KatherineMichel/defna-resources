@@ -261,6 +261,7 @@ https://2017.pycon.ca | PyCon Canada 2017
 https://2017.pycon.ca/venue | PyCon Canada 2017
 https://docs.google.com/forms/d/e/1FAIpQLSdR9XCk_UZTE1lLFGvDy1uIJlXieDJym8dQEDtUN3hqD_Vjow/viewform | PyCon Canada 2017 Financial Aid Application
 
+https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me Offer Coaching to First-Time PyGotham Speakers
 https://github.com/PyGotham/pygotham
 https://gitlab.com/pygotham/2017
 https://2017.pygotham.org/talks/ | Accepted Talks - PyGotham 2017
@@ -277,6 +278,10 @@ http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=
 https://slack.pyohio.org/
 https://www.eventbrite.com/e/pyohio-2017-tickets-33066656259
 https://pyohio.org/schedule/
+
+https://www.papercall.io/pytexas-2017 | PaperCall.io - PyTexas 2017
+
+https://www.pytennessee.org/account/login/?next=/dashboard/%3Futm_content%3Dbuffer5a9d3%26utm_medium%3Dsocial%26utm_source%3Dtwitter.com%26utm_campaign%3Dbuffer | PyTennessee | Log in
 
 https://github.com/pydata/conf_site
 
