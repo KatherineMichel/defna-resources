@@ -186,6 +186,10 @@ PyCon
 * [PyCon UK GitHub](https://github.com/PyconUK)
 
 <!--
+https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i57.1604j0j7&sourceid=chrome&ie=UTF-8 | list of pycons - Google Search
+https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list around PyCon · Scrunch
+https://twitter.com/mpirnat/status/729835027106762752?lang=en
+
 https://us.pycon.org/2018
 http://pycon.blogspot.com/2017/09/pycon-2018-launches-new-site.html | The PyCon Blog: PyCon 2018 Launches New Site, Sponsorship Search
 
