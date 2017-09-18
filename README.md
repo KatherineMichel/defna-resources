@@ -248,6 +248,10 @@ PyData
 * [PyData Spain GitHub](https://github.com/python-spain)
 
 <!--
+https://github.com/pythonsd | San Diego Python
+https://channel9.msdn.com/Events/PyData/Seattle2017
+
+https://github.com/glasnt/pyconau-test
 https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
 
 https://www.meetup.com/pydata_seattle | PyData Seattle (Bellevue, WA) | Meetup
