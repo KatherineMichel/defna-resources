@@ -220,6 +220,10 @@ DjangoCon
 * [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
 
 <!--
+http://dc18.cutebit.de/ | DjangoCon Europe 2018
+https://up.cutebit.de/HdwRFjub/+inline | djangoA4
+https://github.com/rixx/djangocon-europe-18-blog/tree/master/css | djangocon-europe-18-blog/css at master · rixx/djangocon-europe-18-blog
+
 https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
 -->
 
@@ -298,6 +302,7 @@ https://pyohio.org/schedule/
 
 https://www.papercall.io/pytexas-2017 | PaperCall.io - PyTexas 2017
 
+https://www.pytennessee.org/ | PyTennessee | Welcome
 https://www.pytennessee.org/account/login/?next=/dashboard/%3Futm_content%3Dbuffer5a9d3%26utm_medium%3Dsocial%26utm_source%3Dtwitter.com%26utm_campaign%3Dbuffer | PyTennessee | Log in
 
 https://github.com/pydata/conf_site
@@ -308,6 +313,7 @@ https://inlandnorthwest.tech/
 
 https://github.com/pyconau/2018.pycon-au.org | pyconau/2018.pycon-au.org
 
+http://2018.geopython.net/ | GeoPython 2018
 https://pycon.ng Pycon Nigeria
 https://africa.python.org/en/
 https://github.com/pyconau/2018.pycon-au.org
