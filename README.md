@@ -30,6 +30,9 @@ DjangoCon Organizers
 * [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
 
 <!--
+https://www.python.org/psf/donations/2017-q3-drive/ | Donation & Membership Drive | Python.org
+http://pyfound.blogspot.com/2017/09/improving-python-and-expanding-access.html | Python Software Foundation News: Improving Python and Expanding Access: How the PSF Uses Your Donation
+
 https://twitter.com/drnikki/status/908465327234629632 | nikki stevens on Twitter: "Python increased female speakers from 1% to 40% in 5 years. <3 <3 <3 <3 @pyladies @djangogirls major change agents in this. #OSSummit"
 
 https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
