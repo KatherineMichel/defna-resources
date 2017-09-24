@@ -17,7 +17,7 @@ https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
 https://atom509.wordpress.com/about/ | About | ATOM
 https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
 
-https://djangogirls.org/spokane
+https://djangogirls.org/spokane/ | Django Girls Spokane
 
 https://2016.djangocon.us/diversity/ | Diversity
 https://2015.djangocon.us/schedule/presentation/72/ | Presentation: How to Practice Inclusion and Benefit Django | DjangoCon in Austin, TX
