@@ -7,6 +7,8 @@ DEFNA (Django Events Foundation North America)
 * [DEFNA Website? GitHub](https://github.com/DEFNA/defna.org)
 
 <!--
+https://dev.to/binarycodess/women-in-tech-we-need-you
+
 https://www.defna.org/announcements/2017/5/10/djangocon-us-call-for-venue-proposal-2018-and-2019
 https://www.defna.org/announcements/2016/7/20/defna-phase-ii
 https://www.defna.org/announcements/2017/7/25/the-joys-of-catering-part-1-tickets-sold-does-not-equal-catering-count
@@ -223,6 +225,9 @@ DjangoCon
 * [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
 
 <!--
+https://djangoconus2017.herokuapp.com/
+https://djangoconus.slack.com
+
 http://dc18.cutebit.de/ | DjangoCon Europe 2018
 https://up.cutebit.de/HdwRFjub/+inline | djangoA4
 https://github.com/rixx/djangocon-europe-18-blog/tree/master/css | djangocon-europe-18-blog/css at master · rixx/djangocon-europe-18-blog
