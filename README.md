@@ -1,5 +1,38 @@
 # DEFNA Resources
 
+<!--
+New
+https://us.pycon.org/2018/speaking/ | Speak at PyCon | PyCon 2018 in Cleveland, Ohio
+
+https://github.com/python/psfmemberdotorg | python/psfmemberdotorg
+https://www.python.org/psf/membership/ | PSF Membership FAQ | Python Software Foundation
+
+http://pyfound.blogspot.com/2017/09/improving-python-and-expanding-access.html | Python Software Foundation News: Improving Python and Expanding Access: How the PSF Uses Your Donation
+https://www.python.org/psf/membership/#what-does-it-mean-to-be-a-member-of-the-psf | PSF Membership FAQ | Python Software Foundation
+
+http://lmorillas.github.io/python_events/ | Python Events
+https://surveys.jetbrains.com/s3/c12-python-developers-survey-2017 | Python Developers Survey 2017
+
+47% talks women
+https://2017.djangocon.us/news/proposal-statistics/
+
+https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/
+https://2016.djangocon.us/blog/2016/07/19/thank-you-diversity-sponsors/
+https://2016.djangocon.us/blog/2016/07/12/django-fellow-sprint/
+https://2016.djangocon.us/blog/2016/07/06/announcing-our-keynote-speakers/
+https://2016.djangocon.us/blog/2016/07/01/thank-you-eldarion-eldarion-cloud/
+https://2016.djangocon.us/blog/2016/06/22/day-1-orientation/
+https://2016.djangocon.us/blog/2016/06/21/meet-organizers/
+https://2016.djangocon.us/blog/2016/06/14/child-care-djangocon-us/
+https://2016.djangocon.us/blog/2016/06/09/how-we-allocated-financial-aid/
+https://2016.djangocon.us/blog/2016/06/07/assisted-listening-devices/
+40% talks by women
+https://2016.djangocon.us/blog/2016/05/30/early-bird-ticket-warning/
+
+30% talks by women
+https://2015.djangocon.us/blog/2015/07/20/proposal-stats/
+-->
+
 DEFNA (Django Events Foundation North America)
 * [DEFNA Website](https://www.defna.org)
 * [DEFNA GitHub](https://github.com/DEFNA)
@@ -288,7 +321,7 @@ https://twitter.com/djangocon/lists/speakers-2017
 
 Daniele for Cardiff, Baptiste for Budapest, Iacopo for Florence, Erik for DUTH
 
-https://2017.northbaypython.org/program/call-for-proposals | North Bay Python | Call for Proposals
+https://2017.northbaypython.org/program/call-for-proposals#mentorship
 https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
 https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
 
@@ -311,6 +344,7 @@ https://www.papercall.io/pytexas-2017 | PaperCall.io - PyTexas 2017
 https://www.pytennessee.org/ | PyTennessee | Welcome
 https://www.pytennessee.org/account/login/?next=/dashboard/%3Futm_content%3Dbuffer5a9d3%26utm_medium%3Dsocial%26utm_source%3Dtwitter.com%26utm_campaign%3Dbuffer | PyTennessee | Log in
 
+https://www.meetup.com/pro/pydata/?platform=hootsuite#landingSearch | PyData | Meetup Pro
 https://github.com/pydata/conf_site
 
 https://twitter.com/flpycon/status/905437957066240000 | Florida PyCon on Twitter: "Shiny new website with speakers and more details added! Adding more speakers and information as it is confirmed. 🍊🐍 https://t.co/SB50AjSpLf"
