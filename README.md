@@ -13,6 +13,9 @@ https://www.python.org/psf/membership/#what-does-it-mean-to-be-a-member-of-the-p
 http://lmorillas.github.io/python_events/ | Python Events
 https://surveys.jetbrains.com/s3/c12-python-developers-survey-2017 | Python Developers Survey 2017
 
+http://pyfound.blogspot.com/2012/03/user-groups-psf-can-help-cover-your.html | Python Software Foundation News: User groups: the PSF can help cover your meetup.com fees
+http://kit.pyladies.com/en/latest/prospective/ | Prospective Organizers — PyLadies Organizer Handbook
+
 47% talks women
 https://2017.djangocon.us/news/proposal-statistics/
 
@@ -282,6 +285,8 @@ Python Conferences North America
 
 <!--
 https://github.com/PyGotham/pygotham
+https://twitter.com/PyGotham/status/916768617869598720 | PyGotham on Twitter: "Next year, #PyGotham will take place October 5-7!"
+https://late.am/post/2017/09/25/pygotham-talk-voting-retrospective.html | PyGotham Talk Voting Retrospective « late.am
 -->
 
 PyCon International
@@ -340,6 +345,7 @@ https://www.eventbrite.com/e/pyohio-2017-tickets-33066656259
 https://pyohio.org/schedule/
 
 https://www.papercall.io/pytexas-2017 | PaperCall.io - PyTexas 2017
+https://www.meetup.com/python-web-houston/ | PyWeb Houston (Houston, TX) | Meetup
 
 https://www.pytennessee.org/ | PyTennessee | Welcome
 https://www.pytennessee.org/account/login/?next=/dashboard/%3Futm_content%3Dbuffer5a9d3%26utm_medium%3Dsocial%26utm_source%3Dtwitter.com%26utm_campaign%3Dbuffer | PyTennessee | Log in
