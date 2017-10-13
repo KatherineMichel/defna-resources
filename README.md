@@ -225,6 +225,7 @@ DjangoCon
 * [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
 
 <!--
+https://www.djangounderthehood.com
 https://djangoconus2017.herokuapp.com/
 https://djangoconus.slack.com
 
@@ -236,22 +237,18 @@ https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volu
 -->
 
 Python Conferences North America
+* [PyCanada](https://2017.pycon.ca) and [PyCanada GitHub](https://github.com/pyconca)
 * [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades) and [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com)
 * [PyBay GitHub](https://github.com/pybay)
 * [North Bay Python Website](https://2017.northbaypython.org)
 * [Bay Bridge Python GitHub](https://github.com/baybridgepython) and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
-* [PyGotham GitHub](https://github.com/PyGotham)
+* [PyGotham Website GitLab](https://gitlab.com/pygotham/2017) and [PyGotham GitHub](https://github.com/PyGotham)
 * [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
 * [PyOhio GitHub](https://github.com/pyohio)
 * [Puget Sound Python Twitter](https://twitter.com/ps_python)
 
 <!--
-PyGotham GitLab
-PyCon Nigera
-PyCon Canada
-https://github.com/pyconca
-https://2017.northbaypython.org
-https://www.djangounderthehood.com
+https://github.com/PyGotham/pygotham
 -->
 
 PyCon International
@@ -295,15 +292,7 @@ https://2017.northbaypython.org/program/call-for-proposals | North Bay Python | 
 https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
 https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
 
-https://2017.pycon.ca | PyCon Canada 2017
-https://2017.pycon.ca/venue | PyCon Canada 2017
-https://docs.google.com/forms/d/e/1FAIpQLSdR9XCk_UZTE1lLFGvDy1uIJlXieDJym8dQEDtUN3hqD_Vjow/viewform | PyCon Canada 2017 Financial Aid Application
-
 https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me Offer Coaching to First-Time PyGotham Speakers
-https://github.com/PyGotham/pygotham
-https://gitlab.com/pygotham/2017
-https://2017.pygotham.org/talks/ | Accepted Talks - PyGotham 2017
-https://2017.pygotham.org/
 https://docs.google.com/forms/d/e/1FAIpQLSen_gu0eSB0qj-DpaNUsPzRBSMzrjtyjMB_0nj8vy3B_16dZg/viewform?c=0&w=1
 https://www.eventbrite.com/e/pygotham-2017-tickets-26532180466
 
