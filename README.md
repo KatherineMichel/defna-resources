@@ -236,7 +236,7 @@ https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volu
 -->
 
 Python Conferences North America
-* [PyCascades GitHub](https://github.com/pycascades) and [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com)
+* [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades) and [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com)
 * [PyBay GitHub](https://github.com/pybay)
 * [North Bay Python Website](https://2017.northbaypython.org)
 * [Bay Bridge Python GitHub](https://github.com/baybridgepython) and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
@@ -244,6 +244,15 @@ Python Conferences North America
 * [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
 * [PyOhio GitHub](https://github.com/pyohio)
 * [Puget Sound Python Twitter](https://twitter.com/ps_python)
+
+<!--
+PyGotham GitLab
+PyCon Nigera
+PyCon Canada
+https://github.com/pyconca
+https://2017.northbaypython.org
+https://www.djangounderthehood.com
+-->
 
 PyCon International
 * [EuroPython 2017 Website](https://ep2017.europython.eu) and [EuroPython GitHub](https://github.com/EuroPython) 
