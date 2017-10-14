@@ -176,6 +176,8 @@ Conferences and Meetups
 * [Meetup Topic Python](http://www.meetup.com/topics/python)
 
 <!--
+http://lanyrd.com/topics/devops
+
 https://github.com/pythonkc
 
 https://www.python.org/events/
@@ -184,8 +186,6 @@ http://lmorillas.github.io/python_events/ | Python Events
 https://www.meetup.com/topics/django/us
 https://www.meetup.com/topics/django
 https://www.meetup.com/topics/django/all
-
-http://lanyrd.com/topics/devops
 
 http://lanyrd.com/search/?context=future&q=python
 http://lanyrd.com/search/?context=future&q=django
