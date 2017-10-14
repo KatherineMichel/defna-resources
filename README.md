@@ -32,17 +32,39 @@ Python- Users and Members
 * [Python Software Foundation Members](https://www.python.org/psf/members)
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
-
-
-
 <!--
 https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
 https://www.python.org/psf/
+
+Board and Committees
+http://pyfound.blogspot.com/2017/07/welcome-new-board-members.html
+https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
+https://www.python.org/psf/committees/
+
+https://wiki.python.org/moin/
+https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
+https://github.com/python/psf-community-resources/issues
 
 Grants
 https://www.python.org/psf/grants/
 http://pyfound.blogspot.com/2012/03/user-groups-psf-can-help-cover-your.html | Python Software Foundation News: User groups: the PSF can help cover your meetup.com fees
 http://kit.pyladies.com/en/latest/prospective/ | Prospective Organizers — PyLadies Organizer Handbook
+https://www.python.org/psf/committees/#grants-work-group
+
+StartingYourUsersGroup - Python Wiki
+https://wiki.python.org/moin/StartingYourUsersGroup
+https://wiki.python.org/moin/LocalUserGroups
+https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event | PythonEventsCalendar - Python Wiki
+
+http://www.python.org/community/irc
+https://www.python.org/community/workshops
+
+https://mail.python.org/mailman/listinfo/group-organizers
+https://github.com/python/community-starter-kit
+
+https://github.com/jspittman/psf-community-resources/blob/master/meetup-usergroup-cheatsheet.md
+
+https://mail.python.org/mailman/listinfo/group-organizers
 
 PSF Drive
 http://pyfound.blogspot.com/2017/09/improving-python-and-expanding-access.html | Python Software Foundation News: Improving Python and Expanding Access: How the PSF Uses Your Donation
@@ -57,41 +79,6 @@ https://github.com/python/psfmemberdotorg | python/psfmemberdotorg
 
 https://surveys.jetbrains.com/s3/c12-python-developers-survey-2017 | Python Developers Survey 2017
 -->
-
-
-
-<!--
-
-
-https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
-
-https://wiki.python.org/moin/
-https://github.com/python/psf-community-resources/issues
-StartingYourUsersGroup - Python Wiki
-https://wiki.python.org/moin/StartingYourUsersGroup
-https://wiki.python.org/moin/LocalUserGroups
-https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event | PythonEventsCalendar - Python Wiki
-https://www.python.org/psf/committees/
-https://www.python.org/psf/committees/#grants-work-group
-
-http://www.python.org/community/irc
-https://www.python.org/community/workshops
-
-https://mail.python.org/mailman/listinfo/group-organizers
-https://github.com/python/community-starter-kit
-
-
-http://pyfound.blogspot.com/2017/07/welcome-new-board-members.html
-https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
-https://github.com/python/psf-community-resources/issues
-https://github.com/jspittman/psf-community-resources/blob/master/meetup-usergroup-cheatsheet.md
-
-https://mail.python.org/mailman/listinfo/group-organizers
-
-https://github.com/pythonkc
--->
-
-
 
 ## PyLadies and Django Girls
 
@@ -189,6 +176,8 @@ Conferences and Meetups
 * [Meetup Topic Python](http://www.meetup.com/topics/python)
 
 <!--
+https://github.com/pythonkc
+
 https://www.python.org/events/
 http://lmorillas.github.io/python_events/ | Python Events
 
