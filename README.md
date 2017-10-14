@@ -9,8 +9,6 @@ DEFNA (Django Events Foundation North America)
 <!--
 https://www.defna.org/announcements
 
-https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question/ | DjangoCon 2017 Videos are up and a question! : django
-
 https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
 https://atom509.wordpress.com/about/ | About | ATOM
 https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
@@ -33,13 +31,16 @@ Python- Users and Members
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
-https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
-https://www.python.org/psf/
+PSF People, Event Speakers
 
 Board and Committees
 http://pyfound.blogspot.com/2017/07/welcome-new-board-members.html
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
 https://www.python.org/psf/committees/
+
+
+https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
+https://www.python.org/psf/
 
 https://wiki.python.org/moin/
 https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
@@ -176,8 +177,6 @@ Conferences and Meetups
 * [Meetup Topic Python](http://www.meetup.com/topics/python)
 
 <!--
-http://lanyrd.com/topics/devops
-
 https://github.com/pythonkc
 
 https://www.python.org/events/
@@ -186,6 +185,8 @@ http://lmorillas.github.io/python_events/ | Python Events
 https://www.meetup.com/topics/django/us
 https://www.meetup.com/topics/django
 https://www.meetup.com/topics/django/all
+
+http://lanyrd.com/topics/devops
 
 http://lanyrd.com/search/?context=future&q=python
 http://lanyrd.com/search/?context=future&q=django
@@ -222,17 +223,22 @@ http://2017.pyconuk.org/diversity-accessibility-inclusion
 https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
 -->
 
-DjangoCon
+DjangoCon US
 * [DjangoCon U.S.](http://www.djangocon.us), [DjangoCon GitHub](https://github.com/djangocon), and [DjangoCon E.U.](https://djangocon.eu) 
+* [DjangoCon US 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.us)
+* [DjangoCon US 2017 Website](https://2017.djangocon.us/) and [DjangoCon US 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.us)
+
+DjangoCon US 2017 Feedback
+* ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
+
+DjangoCon Europe
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
 * [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
-* [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
+
+Django Under the Hood
+* [Django Under the Hood](https://www.djangounderthehood.com), [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
 
 <!--
-https://github.com/djangocon/2018.djangocon.us | djangocon/2018.djangocon.us: The DjangoCon US 2018 conference website
-https://github.com/djangocon/2017.djangocon.us/ | djangocon/2017.djangocon.us: The DjangoCon US 2017 conference website
-
-https://www.djangounderthehood.com
 https://djangoconus2017.herokuapp.com/
 https://djangoconus.slack.com
 
