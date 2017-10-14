@@ -2,6 +2,8 @@
 
 <!--
 New
+https://github.com/erikr/lessobviouschecklist | erikr/lessobviouschecklist: The Less Obvious Conference Checklist
+
 https://github.com/djangocon/2018.djangocon.us | djangocon/2018.djangocon.us: The DjangoCon US 2018 conference website
 https://github.com/djangocon/2017.djangocon.us/ | djangocon/2017.djangocon.us: The DjangoCon US 2017 conference website
 https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question/ | DjangoCon 2017 Videos are up and a question! : django
