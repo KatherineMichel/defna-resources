@@ -2,22 +2,44 @@
 
 DEFNA (Django Events Foundation North America)
 * [DEFNA Website](https://www.defna.org)
+* [DEFNA Announcements](https://www.defna.org/announcements)
 * [DEFNA GitHub](https://github.com/DEFNA)
 * [DEFNA Foundation GitHub](https://github.com/DEFNA/foundation)
 * [DEFNA Website? GitHub](https://github.com/DEFNA/defna.org)
 
 <!--
-https://www.defna.org/announcements
+Other
+https://www.djangoproject.com/community
+https://www.djangoproject.com/fundraising
+-->
 
-https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
-https://atom509.wordpress.com/about/ | About | ATOM
-https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
+Python Software Foundation (PSF) and Django Software Foundation (DSF) People
+* [PSF Members](https://www.python.org/psf/members)
+* [PSF Committees](https://www.python.org/psf/committees)
+* [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
+
+<!--
+https://us.pycon.org/2017/keynote-speakers
+https://us.pycon.org/2017/schedule/talks/list
+https://us.pycon.org/2017/schedule/talks
+https://us.pycon.org/2017/schedule/tutorials
+https://us.pycon.org/2016/events/keynotes
+https://us.pycon.org/2016/schedule/talks
+https://us.pycon.org/2016/schedule/tutorials
+https://us.pycon.org/2015/schedule/talks/list
+https://us.pycon.org/2015/schedule/talks
+https://us.pycon.org/2015/schedule/tutorials/list
+
+https://us.pycon.org/2014/schedule/talks
+https://us.pycon.org/2013/schedule/talks
+https://us.pycon.org/2012/schedule
+https://us.pycon.org/2011/schedule
+
+PSF Board
+http://pyfound.blogspot.com/2017/07/welcome-new-board-members.html
+https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
 
 https://people.djangoproject.com
-https://www.djangoproject.com/community
-https://www.djangoproject.com/foundation/developer-members
-
-https://www.djangoproject.com/fundraising/campaign/django-fellowship
 -->
 
 501(c)(3)
@@ -26,18 +48,11 @@ https://www.djangoproject.com/fundraising/campaign/django-fellowship
 DjangoCon Organizers
 * [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
 
-Python- Users and Members
-* [Python Software Foundation Members](https://www.python.org/psf/members)
+Python- Members
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
 PSF People, Event Speakers
-
-Board and Committees
-http://pyfound.blogspot.com/2017/07/welcome-new-board-members.html
-https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
-https://www.python.org/psf/committees/
-
 
 https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
 https://www.python.org/psf/
@@ -168,32 +183,7 @@ https://github.com/nodejs/evangelism
 https://github.com/nodejs/Intl
 -->
 
-## Finding Events
-
-Conferences and Meetups
-* [Lanyrd](http://lanyrd.com)
-* [PaperCall](https://www.papercall.io)
-* [Meetup Topic Django](https://www.meetup.com/topics/django)
-* [Meetup Topic Python](http://www.meetup.com/topics/python)
-
-<!--
-https://github.com/pythonkc
-
-https://www.python.org/events/
-http://lmorillas.github.io/python_events/ | Python Events
-
-https://www.meetup.com/topics/django/us
-https://www.meetup.com/topics/django
-https://www.meetup.com/topics/django/all
-
-http://lanyrd.com/topics/devops
-
-http://lanyrd.com/search/?context=future&q=python
-http://lanyrd.com/search/?context=future&q=django
-
-http://lanyrd.com/search/?q=django&type=conference&context=future
-http://lanyrd.com/search/?context=future&q=django&type=conference
--->
+## See- Finding Events
 
 ## Events and Meetups
 
@@ -239,6 +229,10 @@ Django Under the Hood
 * [Django Under the Hood](https://www.djangounderthehood.com), [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
 
 <!--
+https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
+https://atom509.wordpress.com/about/ | About | ATOM
+https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
+
 https://djangoconus2017.herokuapp.com/
 https://djangoconus.slack.com
 
