@@ -1,5 +1,32 @@
 # DEFNA Resources
 
+<!--
+## Benchmarking
+
+Benchmarking
+* [Node Foundation GitHub](https://github.com/nodejs)
+* [Node Foundation Events](https://nodejs.org/en/get-involved/events)
+* [Mikeal Rogers](http://mikealrogers.com/) and [Mikeal Rogers GitHub](https://github.com/mikeal)
+
+Related Organizations
+Case Studies
+Best Practices
+
+https://nodejs.org/en/get-involved
+
+https://github.com/nodejs/community-committee
+https://github.com/nodejs/community-events
+
+https://github.com/nodejs/board
+https://github.com/nodejs/benchmarking
+https://github.com/nodejs/education
+https://github.com/nodejs/code-and-learn
+https://github.com/nodejs/collaboration
+https://github.com/nodejs/summit
+https://github.com/nodejs/evangelism
+https://github.com/nodejs/Intl
+-->
+
 DEFNA (Django Events Foundation North America)
 * [DEFNA Website](https://www.defna.org)
 * [DEFNA Announcements](https://www.defna.org/announcements)
@@ -7,56 +34,22 @@ DEFNA (Django Events Foundation North America)
 * [DEFNA Foundation GitHub](https://github.com/DEFNA/foundation)
 * [DEFNA Website? GitHub](https://github.com/DEFNA/defna.org)
 
-<!--
-Other
-https://www.djangoproject.com/community
-https://www.djangoproject.com/fundraising
--->
+501(c)(3)
+* [501(c)(3) Wikipedia](https://en.wikipedia.org/wiki/501(c)(3)_organization)
+
+Python Software Foundation (PSF)
+* [PSF](https://www.python.org/psf) and [PSF Twitter](https://twitter.com/ThePSF)
 
 Python Software Foundation (PSF) and Django Software Foundation (DSF) People
 * [PSF Members](https://www.python.org/psf/members)
 * [PSF Committees](https://www.python.org/psf/committees)
 * [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
 
-<!--
-https://us.pycon.org/2017/keynote-speakers
-https://us.pycon.org/2017/schedule/talks/list
-https://us.pycon.org/2017/schedule/talks
-https://us.pycon.org/2017/schedule/tutorials
-https://us.pycon.org/2016/events/keynotes
-https://us.pycon.org/2016/schedule/talks
-https://us.pycon.org/2016/schedule/tutorials
-https://us.pycon.org/2015/schedule/talks/list
-https://us.pycon.org/2015/schedule/talks
-https://us.pycon.org/2015/schedule/tutorials/list
-
-https://us.pycon.org/2014/schedule/talks
-https://us.pycon.org/2013/schedule/talks
-https://us.pycon.org/2012/schedule
-https://us.pycon.org/2011/schedule
-
-PSF Board
-http://pyfound.blogspot.com/2017/07/welcome-new-board-members.html
-https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
-
-https://people.djangoproject.com
--->
-
-501(c)(3)
-* [501(c)(3)](https://en.wikipedia.org/wiki/501(c)(3)_organization)
-
-DjangoCon Organizers
-* [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
-
 Python- Members
-* [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
+* [PSF Membership FAQ](https://www.python.org/psf/membership)
+* [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
-PSF People, Event Speakers
-
-https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
-https://www.python.org/psf/
-
 https://wiki.python.org/moin/
 https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
 https://github.com/python/psf-community-resources/issues
@@ -87,100 +80,10 @@ http://pyfound.blogspot.com/2017/09/improving-python-and-expanding-access.html |
 https://www.python.org/psf/membership/#what-does-it-mean-to-be-a-member-of-the-psf | PSF Membership FAQ | Python Software Foundation
 https://www.python.org/psf/donations/2017-q3-drive/ | Donation & Membership Drive | Python.org
 
-Membership
-https://www.python.org/psf/membership/ | PSF Membership FAQ | Python Software Foundation
-
 Member Site
 https://github.com/python/psfmemberdotorg | python/psfmemberdotorg
 
 https://surveys.jetbrains.com/s3/c12-python-developers-survey-2017 | Python Developers Survey 2017
--->
-
-## PyLadies and Django Girls
-
-PyLadies and PyLadies Remote
-* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
-* [PyLadies Website GitHub](https://github.com/pyladies/pyladies)
-* [PyLadies Blog GitHub](https://github.com/pyladies/pyladies-blog)
-* [PyLadies Maintainers GitHub](https://github.com/pyladies/pyladies-maintainers)
-* [PyLadies Remote Twitter](https://twitter.com/pyladiesremote)
-* [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
-* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
-
-Django Girls
-* [Django Girl](https://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls) 
-
-Django Girls- Events and Cities
-* [Django Girls Events](https://djangogirls.org/events)
-* [Django Girls London](https://djangogirls.org/london)
-* [Django Girls Kansas City](https://djangogirls.org/kansascity)
-
-Django Girls- Help
-* [Django Girls Organize](http://organize.djangogirls.org)  
-* [Django Girls Coach](http://coach.djangogirls.org)  
-* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
-* [Django Girls Store](https://store.djangogirls.org)
-
-<!--
-https://djangogirls.org/2016-2017/ | Django Girls Impact Report 2016-2017
-https://organize.djangogirls.org/attendees/index.html | Page Not Found · GitBook
-
-https://www.flickr.com/photos/djangogirls
-https://organize.djangogirls.org/promotion
-
-DjangoGirls/PyCon
-* [DjangoGirls/PyCon](https://djangogirls.org/pycon)
-
-https://djangogirls.org/pyconuk2016
-
-https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
-
-http://www.pyladies.com/locations/
-https://github.com/search?utf8=%E2%9C%93&q=pyladies&type=
-https://en.wikipedia.org/wiki/PyLadies
-https://trello.com/b/zOQw7mVl/website
-
-PyLadies Events
-https://gist.github.com/econchick
-https://gist.github.com/econchick/e060f3c632b92dd8f55d0338d7758680
-
-http://remote.pyladies.com/resources
-
-https://github.com/audreyr/lapyladies
-
-https://github.com/PyLadies-Boston/PyLadies-Boston-Meetups
-
-https://github.com/socalpyladies/socalpyladies.github.io
-http://socalpyladies.github.io/
-https://github.com/PanPacificPyLadiesConf/PPPCwebsite
-https://github.com/DutchDjangoAssociation/djangovereniging.nl
--->
-
-## Benchmarking
-
-Benchmarking
-* [Node Foundation GitHub](https://github.com/nodejs)
-* [Node Foundation Events](https://nodejs.org/en/get-involved/events)
-* [Mikeal Rogers](http://mikealrogers.com/) and [Mikeal Rogers GitHub](https://github.com/mikeal)
-
-<!--
-Related Organizations
-Case Studies
-Best Practices
-
-https://nodejs.org/en/get-involved
-
-https://github.com/nodejs/community-committee
-https://github.com/nodejs/community-events
-
-https://github.com/nodejs/board
-https://github.com/nodejs/benchmarking
-https://github.com/nodejs/education
-https://github.com/nodejs/code-and-learn
-https://github.com/nodejs/collaboration
-https://github.com/nodejs/summit
-https://github.com/nodejs/evangelism
-https://github.com/nodejs/Intl
 -->
 
 ## See- Finding Events
@@ -189,7 +92,9 @@ https://github.com/nodejs/Intl
 
 PyCon
 * [PyCon](http://www.pycon.org) and [PyCon GitHub](https://github.com/PyCon)
+* [PyCon 2018 Website](https://us.pycon.org/2018)
 * [PyCon Website GitHub](https://github.com/PyCon/pycon)
+* [PyCon 2017 Website](https://us.pycon.org/2017)
 * [PyCon UK GitHub](https://github.com/PyconUK)
 
 <!--
@@ -199,14 +104,11 @@ https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i
 https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list around PyCon · Scrunch
 https://twitter.com/mpirnat/status/729835027106762752?lang=en
 
-https://us.pycon.org/2018
-http://pycon.blogspot.com/2017/09/pycon-2018-launches-new-site.html | The PyCon Blog: PyCon 2018 Launches New Site, Sponsorship Search
 
-http://2017.pyconuk.org/ | PyCon UK 2017
+http://2017.pyconuk.org
 http://2017.pyconuk.org/pydata
 http://2017.pyconuk.org/django-girls
 http://uk.python.org/news/2017/08/23/pyconuk-keynotes-announced
-https://us.pycon.org/2017
 https://www.google.com/search?q=pycon+list&oq=pycon+list&gs_l=psy-ab.3..0i7i30k1l2.15712.17082.0.17376.8.7.0.0.0.0.190.602.0j4.4.0....0...1.1.64.psy-ab..5.1.116.-Ey_LFVwAUI | pycon list - Google Search
 http://2017.pyconuk.org/diversity-accessibility-inclusion
 
@@ -217,6 +119,9 @@ DjangoCon US
 * [DjangoCon U.S.](http://www.djangocon.us), [DjangoCon GitHub](https://github.com/djangocon), and [DjangoCon E.U.](https://djangocon.eu) 
 * [DjangoCon US 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.us)
 * [DjangoCon US 2017 Website](https://2017.djangocon.us/) and [DjangoCon US 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.us)
+
+DjangoCon Organizers
+* [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
 
 DjangoCon US 2017 Feedback
 * ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
@@ -240,34 +145,6 @@ http://dc18.cutebit.de/ | DjangoCon Europe 2018
 https://up.cutebit.de/HdwRFjub/+inline | djangoA4
 https://github.com/rixx/djangocon-europe-18-blog/tree/master/css | djangocon-europe-18-blog/css at master · rixx/djangocon-europe-18-blog
 https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
-
-Diversity
-
-https://dev.to/binarycodess/women-in-tech-we-need-you
-https://github.com/erikr/lessobviouschecklist | erikr/lessobviouschecklist: The Less Obvious Conference Checklist
-https://twitter.com/drnikki/status/908465327234629632 | nikki stevens on Twitter: "Python increased female speakers from 1% to 40% in 5 years. <3 <3 <3 <3 @pyladies @djangogirls major change agents in this. #OSSummit"
-
-47% talks women
-https://2017.djangocon.us/news/proposal-statistics/
-
-https://2016.djangocon.us/diversity/ | Diversity
-https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/
-https://2016.djangocon.us/blog/2016/07/19/thank-you-diversity-sponsors/
-https://2016.djangocon.us/blog/2016/07/12/django-fellow-sprint/
-https://2016.djangocon.us/blog/2016/07/06/announcing-our-keynote-speakers/
-https://2016.djangocon.us/blog/2016/07/01/thank-you-eldarion-eldarion-cloud/
-https://2016.djangocon.us/blog/2016/06/22/day-1-orientation/
-https://2016.djangocon.us/blog/2016/06/21/meet-organizers/
-https://2016.djangocon.us/blog/2016/06/14/child-care-djangocon-us/
-https://2016.djangocon.us/blog/2016/06/09/how-we-allocated-financial-aid/
-https://2016.djangocon.us/blog/2016/06/07/assisted-listening-devices/
-40% talks by women
-https://2016.djangocon.us/blog/2016/05/30/early-bird-ticket-warning/
-
-https://2015.djangocon.us/schedule/presentation/72/ | Presentation: How to Practice Inclusion and Benefit Django | DjangoCon in Austin, TX
-
-30% talks by women
-https://2015.djangocon.us/blog/2015/07/20/proposal-stats/
 -->
 
 Python Conferences North America
@@ -368,6 +245,96 @@ http://il.pycon.org/2016/about/speakers.html
 https://ep2016.europython.eu
 https://github.com/EuroPython/epcon
 https://za.pycon.org
+-->
+
+## PyLadies and Django Girls
+
+PyLadies and PyLadies Remote
+* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
+* [PyLadies Website GitHub](https://github.com/pyladies/pyladies)
+* [PyLadies Blog GitHub](https://github.com/pyladies/pyladies-blog)
+* [PyLadies Maintainers GitHub](https://github.com/pyladies/pyladies-maintainers)
+* [PyLadies Remote Twitter](https://twitter.com/pyladiesremote)
+* [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
+* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
+
+Django Girls
+* [Django Girl](https://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls) 
+
+Django Girls- Events and Cities
+* [Django Girls Events](https://djangogirls.org/events)
+* [Django Girls London](https://djangogirls.org/london)
+* [Django Girls Kansas City](https://djangogirls.org/kansascity)
+
+Django Girls- Help
+* [Django Girls Organize](http://organize.djangogirls.org)  
+* [Django Girls Coach](http://coach.djangogirls.org)  
+* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
+* [Django Girls Store](https://store.djangogirls.org)
+
+<!--
+https://djangogirls.org/2016-2017/ | Django Girls Impact Report 2016-2017
+https://organize.djangogirls.org/attendees/index.html | Page Not Found · GitBook
+
+https://www.flickr.com/photos/djangogirls
+https://organize.djangogirls.org/promotion
+
+DjangoGirls/PyCon
+* [DjangoGirls/PyCon](https://djangogirls.org/pycon)
+
+https://djangogirls.org/pyconuk2016
+
+https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
+
+http://www.pyladies.com/locations/
+https://github.com/search?utf8=%E2%9C%93&q=pyladies&type=
+https://en.wikipedia.org/wiki/PyLadies
+https://trello.com/b/zOQw7mVl/website
+
+PyLadies Events
+https://gist.github.com/econchick
+https://gist.github.com/econchick/e060f3c632b92dd8f55d0338d7758680
+
+http://remote.pyladies.com/resources
+
+https://github.com/audreyr/lapyladies
+
+https://github.com/PyLadies-Boston/PyLadies-Boston-Meetups
+
+https://github.com/socalpyladies/socalpyladies.github.io
+http://socalpyladies.github.io/
+https://github.com/PanPacificPyLadiesConf/PPPCwebsite
+https://github.com/DutchDjangoAssociation/djangovereniging.nl
+-->
+
+<!--
+Diversity
+
+https://dev.to/binarycodess/women-in-tech-we-need-you
+https://github.com/erikr/lessobviouschecklist | erikr/lessobviouschecklist: The Less Obvious Conference Checklist
+https://twitter.com/drnikki/status/908465327234629632 | nikki stevens on Twitter: "Python increased female speakers from 1% to 40% in 5 years. <3 <3 <3 <3 @pyladies @djangogirls major change agents in this. #OSSummit"
+
+47% talks women
+https://2017.djangocon.us/news/proposal-statistics/
+
+https://2016.djangocon.us/diversity/ | Diversity
+https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/
+https://2016.djangocon.us/blog/2016/07/19/thank-you-diversity-sponsors/
+https://2016.djangocon.us/blog/2016/07/12/django-fellow-sprint/
+https://2016.djangocon.us/blog/2016/07/06/announcing-our-keynote-speakers/
+https://2016.djangocon.us/blog/2016/07/01/thank-you-eldarion-eldarion-cloud/
+https://2016.djangocon.us/blog/2016/06/22/day-1-orientation/
+https://2016.djangocon.us/blog/2016/06/21/meet-organizers/
+https://2016.djangocon.us/blog/2016/06/14/child-care-djangocon-us/
+https://2016.djangocon.us/blog/2016/06/09/how-we-allocated-financial-aid/
+https://2016.djangocon.us/blog/2016/06/07/assisted-listening-devices/
+40% talks by women
+https://2016.djangocon.us/blog/2016/05/30/early-bird-ticket-warning/
+
+https://2015.djangocon.us/schedule/presentation/72/ | Presentation: How to Practice Inclusion and Benefit Django | DjangoCon in Austin, TX
+
+30% talks by women
+https://2015.djangocon.us/blog/2015/07/20/proposal-stats/
 -->
 
 #### Mentors 
