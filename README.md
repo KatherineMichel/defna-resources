@@ -34,6 +34,11 @@ DEFNA (Django Events Foundation North America)
 * [DEFNA Foundation GitHub](https://github.com/DEFNA/foundation)
 * [DEFNA Website? GitHub](https://github.com/DEFNA/defna.org)
 
+<!--
+https://www.djangoproject.com/community
+https://www.djangoproject.com/fundraising
+-->
+
 501(c)(3)
 * [501(c)(3) Wikipedia](https://en.wikipedia.org/wiki/501(c)(3)_organization)
 
