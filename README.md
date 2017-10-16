@@ -31,6 +31,7 @@ https://twitter.com/MylesBorins/status/908061827443064832 | sMyle on Twitter: "W
 https://github.com/nodejs/community-committee/issues/111
 https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
 https://github.com/nodejs/getting-started | nodejs/getting-started: Getting started in Node.js!
+https://medium.com/@nodejs/whats-it-like-being-on-the-node-js-foundation-board-of-directors-f9456b8b7c4d#.dcviqsox5 | What’s It Like Being on the Node.js Foundation Board of Directors? – Medium
 -->
 
 DEFNA (Django Events Foundation North America)
