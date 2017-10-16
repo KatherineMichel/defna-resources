@@ -263,6 +263,8 @@ PyLadies and PyLadies Remote
 * [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
 * [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
+djangogirls twitter list - Google Search
+
 Django Girls
 * [Django Girl](https://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls) 
 
@@ -282,7 +284,7 @@ https://djangogirls.org/2016-2017/ | Django Girls Impact Report 2016-2017
 https://organize.djangogirls.org/attendees/index.html | Page Not Found · GitBook
 
 https://www.flickr.com/photos/djangogirls
-https://organize.djangogirls.org/promotion
+https://organize.djangogirls.org/promotion/ | Promotion · Django Girls: Organizer's Guide
 
 DjangoGirls/PyCon
 * [DjangoGirls/PyCon](https://djangogirls.org/pycon)
