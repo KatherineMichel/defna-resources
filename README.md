@@ -25,6 +25,12 @@ https://github.com/nodejs/collaboration
 https://github.com/nodejs/summit
 https://github.com/nodejs/evangelism
 https://github.com/nodejs/Intl
+
+https://github.com/tc39/proposals
+https://twitter.com/MylesBorins/status/908061827443064832 | sMyle on Twitter: "With that I am the new @nodejs TSC Director I look forward to representing the committee on the Board of Directors. Thank you."
+https://github.com/nodejs/community-committee/issues/111
+https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
+https://github.com/nodejs/getting-started | nodejs/getting-started: Getting started in Node.js!
 -->
 
 DEFNA (Django Events Foundation North America)
