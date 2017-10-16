@@ -150,8 +150,9 @@ https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
 https://atom509.wordpress.com/about/ | About | ATOM
 https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
 
-https://djangoconus2017.herokuapp.com/
 https://djangoconus.slack.com
+https://djangoconus2017.herokuapp.com/
+https://djangoconus2017.slack.com DjangoConUS2017 Slack
 
 http://dc18.cutebit.de/ | DjangoCon Europe 2018
 https://up.cutebit.de/HdwRFjub/+inline | djangoA4
