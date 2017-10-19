@@ -1,37 +1,9 @@
 # DEFNA Resources
 
 <!--
-## Benchmarking
-
-Benchmarking
-* [Node Foundation GitHub](https://github.com/nodejs)
-* [Node Foundation Events](https://nodejs.org/en/get-involved/events)
-* [Mikeal Rogers](http://mikealrogers.com/) and [Mikeal Rogers GitHub](https://github.com/mikeal)
-
-Related Organizations
-Case Studies
-Best Practices
-
-https://nodejs.org/en/get-involved
-
-https://github.com/nodejs/community-committee
-https://github.com/nodejs/community-events
-
-https://github.com/nodejs/board
-https://github.com/nodejs/benchmarking
-https://github.com/nodejs/education
-https://github.com/nodejs/code-and-learn
-https://github.com/nodejs/collaboration
-https://github.com/nodejs/summit
-https://github.com/nodejs/evangelism
-https://github.com/nodejs/Intl
-
-https://github.com/tc39/proposals
-https://twitter.com/MylesBorins/status/908061827443064832 | sMyle on Twitter: "With that I am the new @nodejs TSC Director I look forward to representing the committee on the Board of Directors. Thank you."
-https://github.com/nodejs/community-committee/issues/111
-https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
-https://github.com/nodejs/getting-started | nodejs/getting-started: Getting started in Node.js!
-https://medium.com/@nodejs/whats-it-like-being-on-the-node-js-foundation-board-of-directors-f9456b8b7c4d#.dcviqsox5 | What’s It Like Being on the Node.js Foundation Board of Directors? – Medium
+https://www.meetup.com/PyLadiesLondon
+http://www.pythonmagazine.com
+https://twitter.com/betswaliszewski | Betsy Waliszewski (@betswaliszewski) | Twitter
 -->
 
 DEFNA (Django Events Foundation North America)
@@ -95,6 +67,8 @@ https://www.python.org/psf/donations/2017-q3-drive/ | Donation & Membership Driv
 Member Site
 https://github.com/python/psfmemberdotorg | python/psfmemberdotorg
 
+https://mail.python.org/mailman/listinfo/diversity-private | Diversity-Private Info Page
+
 https://surveys.jetbrains.com/s3/c12-python-developers-survey-2017 | Python Developers Survey 2017
 -->
 
@@ -110,12 +84,13 @@ PyCon
 * [PyCon UK GitHub](https://github.com/PyconUK)
 
 <!--
+https://us.pycon.org/2018/dashboard/ | Dashboard | PyCon 2018 in Cleveland, Ohio
 https://us.pycon.org/2018/speaking/ | Speak at PyCon | PyCon 2018 in Cleveland, Ohio
+https://us.pycon.org/2017/financial-assistance/ | https://us.pycon.org/2017/financial-assistance/
 
 https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i57.1604j0j7&sourceid=chrome&ie=UTF-8 | list of pycons - Google Search
 https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list around PyCon · Scrunch
 https://twitter.com/mpirnat/status/729835027106762752?lang=en
-
 
 http://2017.pyconuk.org
 http://2017.pyconuk.org/pydata
@@ -350,6 +325,42 @@ https://2015.djangocon.us/schedule/presentation/72/ | Presentation: How to Pract
 
 30% talks by women
 https://2015.djangocon.us/blog/2015/07/20/proposal-stats/
+
+https://2017.pygotham.org/2017/10/11/code-of-conduct-transparency/ | Code of conduct transparency report - PyGotham 2017
+-->
+
+<!--
+## Benchmarking
+
+Benchmarking
+* [Node Foundation GitHub](https://github.com/nodejs)
+* [Node Foundation Events](https://nodejs.org/en/get-involved/events)
+* [Mikeal Rogers](http://mikealrogers.com/) and [Mikeal Rogers GitHub](https://github.com/mikeal)
+
+Related Organizations
+Case Studies
+Best Practices
+
+https://nodejs.org/en/get-involved
+
+https://github.com/nodejs/community-committee
+https://github.com/nodejs/community-events
+
+https://github.com/nodejs/board
+https://github.com/nodejs/benchmarking
+https://github.com/nodejs/education
+https://github.com/nodejs/code-and-learn
+https://github.com/nodejs/collaboration
+https://github.com/nodejs/summit
+https://github.com/nodejs/evangelism
+https://github.com/nodejs/Intl
+
+https://github.com/tc39/proposals
+https://twitter.com/MylesBorins/status/908061827443064832 | sMyle on Twitter: "With that I am the new @nodejs TSC Director I look forward to representing the committee on the Board of Directors. Thank you."
+https://github.com/nodejs/community-committee/issues/111
+https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
+https://github.com/nodejs/getting-started | nodejs/getting-started: Getting started in Node.js!
+https://medium.com/@nodejs/whats-it-like-being-on-the-node-js-foundation-board-of-directors-f9456b8b7c4d#.dcviqsox5 | What’s It Like Being on the Node.js Foundation Board of Directors? – Medium
 -->
 
 #### Mentors 
