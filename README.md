@@ -84,6 +84,9 @@ PyCon
 * [PyCon UK GitHub](https://github.com/PyconUK)
 
 <!--
+https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
+https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
+
 https://us.pycon.org/2018/dashboard/ | Dashboard | PyCon 2018 in Cleveland, Ohio
 https://us.pycon.org/2018/speaking/ | Speak at PyCon | PyCon 2018 in Cleveland, Ohio
 https://us.pycon.org/2017/financial-assistance/ | https://us.pycon.org/2017/financial-assistance/
@@ -218,6 +221,7 @@ https://github.com/pydata/conf_site
 
 https://twitter.com/flpycon/status/905437957066240000 | Florida PyCon on Twitter: "Shiny new website with speakers and more details added! Adding more speakers and information as it is confirmed. 🍊🐍 https://t.co/SB50AjSpLf"
 
+http://baybridgepython.org/ | The Bridge to Python across the Bay | Bay Bridge Python
 https://inlandnorthwest.tech/
 
 https://github.com/pyconau/2018.pycon-au.org | pyconau/2018.pycon-au.org
