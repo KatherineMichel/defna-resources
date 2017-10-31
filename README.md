@@ -34,6 +34,8 @@ Python- Members
 * [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
+http://pyfound.blogspot.com/2017/10/psfs-october-board-meeting.html | Python Software Foundation News: PSF's October Board Meeting
+
 https://wiki.python.org/moin/
 https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
 https://github.com/python/psf-community-resources/issues
@@ -89,6 +91,8 @@ https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/
 
 https://us.pycon.org/2018/dashboard/ | Dashboard | PyCon 2018 in Cleveland, Ohio
 https://us.pycon.org/2018/speaking/ | Speak at PyCon | PyCon 2018 in Cleveland, Ohio
+https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
+https://pycon.blogspot.com/2017/10/pycon-opens-financial-aid-applications.html | PyCon Opens Financial Aid Applications
 https://us.pycon.org/2017/financial-assistance/ | https://us.pycon.org/2017/financial-assistance/
 
 https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i57.1604j0j7&sourceid=chrome&ie=UTF-8 | list of pycons - Google Search
