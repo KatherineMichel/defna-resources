@@ -1,7 +1,6 @@
 # DEFNA Resources
 
 <!--
-https://www.meetup.com/PyLadiesLondon
 http://www.pythonmagazine.com
 https://twitter.com/betswaliszewski | Betsy Waliszewski (@betswaliszewski) | Twitter
 -->
@@ -111,7 +110,7 @@ https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Inte
 
 DjangoCon US
 * [DjangoCon U.S.](http://www.djangocon.us), [DjangoCon GitHub](https://github.com/djangocon), and [DjangoCon E.U.](https://djangocon.eu) 
-* [DjangoCon US 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.us)
+* [DjangoCon US 2018 Website](https://2018.djangocon.us) and [DjangoCon US 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.us)
 * [DjangoCon US 2017 Website](https://2017.djangocon.us/) and [DjangoCon US 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.us)
 
 DjangoCon Organizers
@@ -168,12 +167,15 @@ PyCon International
 * [Python Philippines GitHub](https://github.com/pythonph)
 
 PyData
-* [PyData](http://pydata.org) 
+* [PyData](http://pydata.org) and [PyData GitHub](https://github.com/pydata)
 * [PyData Berlin](https://github.com/pydataberlin)
 * [PyData London](http://london.pydata.org) and [PyData London GitHub](https://github.com/PyDataLondon)
 * [PyData Spain GitHub](https://github.com/python-spain)
 
 <!--
+https://twitter.com/pydata?lang=en | PyData (@PyData) | Twitter
+https://www.meetup.com/pro/pydata | PyData | Meetup Pro
+
 https://github.com/pythonsd | San Diego Python
 https://channel9.msdn.com/Events/PyData/Seattle2017
 
@@ -283,6 +285,8 @@ DjangoGirls/PyCon
 https://djangogirls.org/pyconuk2016
 
 https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
+
+https://www.meetup.com/PyLadiesLondon
 
 http://www.pyladies.com/locations/
 https://github.com/search?utf8=%E2%9C%93&q=pyladies&type=
