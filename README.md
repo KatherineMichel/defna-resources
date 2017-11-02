@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+https://www.meetup.com/nycpython/ | The New York Python Meetup Group (New York, NY) | Meetup
+
 http://melissacollom.com/info/ | About — Melissa Collom
 https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me Offer Professional Coaching to PyGotham Speakers
 
