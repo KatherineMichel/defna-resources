@@ -1,6 +1,9 @@
 # DEFNA Resources
 
 <!--
+http://melissacollom.com/info/ | About — Melissa Collom
+https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me Offer Professional Coaching to PyGotham Speakers
+
 http://www.pythonmagazine.com
 https://twitter.com/betswaliszewski | Betsy Waliszewski (@betswaliszewski) | Twitter
 -->
