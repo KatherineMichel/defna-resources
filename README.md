@@ -134,6 +134,7 @@ Daniele for Cardiff, Baptiste for Budapest, Iacopo for Florence, Erik for DUTH
 http://heats.life/blog/2017/08/04/conferences
 DjangoCon US Talks I’d Like to See: 2017 Edition | Jeff Triplett
 https://jefftriplett.com/2017/django-talks-id-like-to-see
+https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8 | DjangoCon Talks Ideas
 https://twitter.com/djangocon/lists/speakers-2017
 
 https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
