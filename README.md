@@ -28,6 +28,8 @@ Python- Members
 * [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
+https://twitter.com/ThePSF/status/919971234250502144 | Python Software on Twitter: "The PSF Board of Directors meeting in Chicago - group dinner last night before the start of business! https://t.co/YWg10gSH6m"
+
 http://pyfound.blogspot.com/2017/10/psfs-october-board-meeting.html | Python Software Foundation News: PSF's October Board Meeting
 
 https://wiki.python.org/moin/
