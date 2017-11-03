@@ -246,6 +246,8 @@ PyData
 https://twitter.com/pydata?lang=en | PyData (@PyData) | Twitter
 https://www.meetup.com/pro/pydata | PyData | Meetup Pro
 
+https://pydata.org/nyc2017/diversity-inclusion/diversity-scholarships/ | Diversity Scholarships
+
 https://channel9.msdn.com/Events/PyData/Seattle2017
 https://www.meetup.com/pydata_seattle | PyData Seattle (Bellevue, WA) | Meetup
 https://www.youtube.com/user/PyDataTV/playlists | PyData - YouTube
