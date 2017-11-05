@@ -1,5 +1,9 @@
 # DEFNA Resources
 
+<!--
+https://twitter.com/stroopwafelsoc | Scrt Stroopwafel soc (@stroopwafelsoc) | Twitter
+-->
+
 DEFNA (Django Events Foundation North America)
 * [DEFNA Website](https://www.defna.org)
 * [DEFNA Announcements](https://www.defna.org/announcements)
