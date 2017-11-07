@@ -1,6 +1,11 @@
 # DEFNA Resources
 
 <!--
+http://blog.djangogirls.org
+http://blog.djangogirls.org/submit
+http://blog.djangogirls.org/post/137825610883/about-your-django-story
+https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
+
 https://twitter.com/stroopwafelsoc | Scrt Stroopwafel soc (@stroopwafelsoc) | Twitter
 -->
 
@@ -33,6 +38,9 @@ Python- Members
 
 <!--
 https://twitter.com/ThePSF/status/919971234250502144 | Python Software on Twitter: "The PSF Board of Directors meeting in Chicago - group dinner last night before the start of business! https://t.co/YWg10gSH6m"
+
+http://pyfound.blogspot.com
+http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
 
 http://pyfound.blogspot.com/2017/10/psfs-october-board-meeting.html | Python Software Foundation News: PSF's October Board Meeting
 http://pyfound.blogspot.com/2017/11/eric-floehr-community-service-award-3rd.html | Python Software Foundation News: Eric Floehr, Community Service Award 3rd Quarter 2017 Recipient
