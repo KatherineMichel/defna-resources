@@ -2,6 +2,7 @@
 
 <!--
 http://djangoconus2017.herokuapp.com/ | Join DjangoConUS2017 on Slack!
+https://github.com/avinassh/slackipy | avinassh/slackipy: Automate user invites to your Slack channel!
 
 https://github.com/python-organizers | Python Organizers
 
