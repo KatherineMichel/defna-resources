@@ -1,6 +1,14 @@
 # DEFNA Resources
 
 <!--
+http://djangoconus2017.herokuapp.com/ | Join DjangoConUS2017 on Slack!
+
+https://github.com/python-organizers | Python Organizers
+
+https://www.djangoproject.com/foundation/prizes/ | Django Software Foundation Prizes | Django
+
+https://github.com/python/pythondotorg/graphs/contributors | Contributors to python/pythondotorg
+
 http://blog.djangogirls.org
 http://blog.djangogirls.org/submit
 http://blog.djangogirls.org/post/137825610883/about-your-django-story
