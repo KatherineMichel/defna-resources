@@ -1,6 +1,10 @@
 # DEFNA Resources
 
 <!--
+https://twitter.com/simonw/status/929022177432690689 | Simon Willison on Twitter: "Hardest part of running tutorials has always been ensuring everyone has a functioning dev environment. Anyone tried telling people “install… https://t.co/RTofV5opwN"
+
+https://www.eventbrite.co.uk/e/djugl-tickets-25951107461 | DJUGL Tickets, Tue, 28 Jun 2016 at 19:00 | Eventbrite
+
 http://djangoconus2017.herokuapp.com/ | Join DjangoConUS2017 on Slack!
 https://github.com/avinassh/slackipy | avinassh/slackipy: Automate user invites to your Slack channel!
 
