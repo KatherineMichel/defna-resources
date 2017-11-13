@@ -214,6 +214,7 @@ https://www.eventbrite.com/e/pygotham-2017-tickets-26532180466
 https://2017.northbaypython.org/program/call-for-proposals#mentorship
 https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
 https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
+https://2017.northbaypython.org/attend/accessibility-and-accommodations | North Bay Python | Accessibility and Accommodations
 
 http://baybridgepython.org/ | The Bridge to Python across the Bay | Bay Bridge Python
 
