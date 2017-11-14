@@ -14,9 +14,6 @@ https://www.djangoproject.com/foundation/prizes/ | Django Software Foundation Pr
 
 https://github.com/python/pythondotorg/graphs/contributors | Contributors to python/pythondotorg
 
-http://blog.djangogirls.org
-http://blog.djangogirls.org/submit
-http://blog.djangogirls.org/post/137825610883/about-your-django-story
 https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
 
 https://twitter.com/stroopwafelsoc | Scrt Stroopwafel soc (@stroopwafelsoc) | Twitter
@@ -315,6 +312,10 @@ Django Girls- Help
 * [Django Girls Store](https://store.djangogirls.org)
 
 <!--
+http://blog.djangogirls.org
+http://blog.djangogirls.org/submit
+http://blog.djangogirls.org/post/137825610883/about-your-django-story
+
 https://djangogirls.org/2016-2017/ | Django Girls Impact Report 2016-2017
 https://organize.djangogirls.org/attendees/index.html | Page Not Found · GitBook
 
