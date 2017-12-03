@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+https://github.com/mxsasha/lessobviouschecklist | mxsasha/lessobviouschecklist: The Less Obvious Conference Checklist
+
 https://twitter.com/simonw/status/929022177432690689 | Simon Willison on Twitter: "Hardest part of running tutorials has always been ensuring everyone has a functioning dev environment. Anyone tried telling people “install… https://t.co/RTofV5opwN"
 
 https://www.eventbrite.co.uk/e/djugl-tickets-25951107461 | DJUGL Tickets, Tue, 28 Jun 2016 at 19:00 | Eventbrite
@@ -9,14 +11,6 @@ http://djangoconus2017.herokuapp.com/ | Join DjangoConUS2017 on Slack!
 https://github.com/avinassh/slackipy | avinassh/slackipy: Automate user invites to your Slack channel!
 
 https://github.com/python-organizers | Python Organizers
-
-https://www.djangoproject.com/foundation/prizes/ | Django Software Foundation Prizes | Django
-
-https://github.com/python/pythondotorg/graphs/contributors | Contributors to python/pythondotorg
-
-https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
-
-https://twitter.com/stroopwafelsoc | Scrt Stroopwafel soc (@stroopwafelsoc) | Twitter
 -->
 
 DEFNA (Django Events Foundation North America)
@@ -25,11 +19,6 @@ DEFNA (Django Events Foundation North America)
 * [DEFNA GitHub](https://github.com/DEFNA)
 * [DEFNA Foundation GitHub](https://github.com/DEFNA/foundation)
 * [DEFNA Website? GitHub](https://github.com/DEFNA/defna.org)
-
-<!--
-https://www.djangoproject.com/community
-https://www.djangoproject.com/fundraising
--->
 
 501(c)(3)
 * [501(c)(3) Wikipedia](https://en.wikipedia.org/wiki/501(c)(3)_organization)
@@ -46,6 +35,11 @@ Python Software Foundation (PSF) and Django Software Foundation (DSF) People
 Python- Members
 * [PSF Membership FAQ](https://www.python.org/psf/membership)
 * [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
+
+Django Project
+* [Django Project Community](https://www.djangoproject.com/community)
+* [Django Project Fundraising](https://www.djangoproject.com/fundraising)
+* [Django Project Prizes](https://www.djangoproject.com/foundation/prizes)
 
 <!--
 https://docs.google.com/forms/d/e/1FAIpQLSdvHEGCFA5AaUQEn41KBz6AhZDVkTi5uHi3gCS_yRo4eVpw1w/viewform | Join the Pycon Program Committee
@@ -158,6 +152,8 @@ Django Under the Hood
 * [Django Under the Hood](https://www.djangounderthehood.com), [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
 
 <!--
+https://twitter.com/stroopwafelsoc | Scrt Stroopwafel soc (@stroopwafelsoc) | Twitter
+
 Daniele for Cardiff, Baptiste for Budapest, Iacopo for Florence, Erik for DUTH
 
 http://heats.life/blog/2017/08/04/conferences
