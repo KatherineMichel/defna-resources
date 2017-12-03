@@ -41,19 +41,23 @@ Python Software Foundation (PSF) and Django Software Foundation (DSF) People
 * [PSF Members](https://www.python.org/psf/members)
 * [PSF Committees](https://www.python.org/psf/committees)
 * [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
+* [DSF Individual Members](https://www.djangoproject.com/foundation/individual-members)
 
 Python- Members
 * [PSF Membership FAQ](https://www.python.org/psf/membership)
 * [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
+https://docs.google.com/forms/d/e/1FAIpQLSdvHEGCFA5AaUQEn41KBz6AhZDVkTi5uHi3gCS_yRo4eVpw1w/viewform | Join the Pycon Program Committee
+
+http://legacy.python.org/psf/members
+
 https://twitter.com/ThePSF/status/919971234250502144 | Python Software on Twitter: "The PSF Board of Directors meeting in Chicago - group dinner last night before the start of business! https://t.co/YWg10gSH6m"
 
 http://pyfound.blogspot.com
 http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
-
+http://pyfound.blogspot.com/2017/12/the-psfs-grant-program-policies-and.html | Python Software Foundation News: The PSF’s Grant Program Policies and Preferences
 http://pyfound.blogspot.com/2017/10/psfs-october-board-meeting.html | Python Software Foundation News: PSF's October Board Meeting
-http://pyfound.blogspot.com/2017/11/eric-floehr-community-service-award-3rd.html | Python Software Foundation News: Eric Floehr, Community Service Award 3rd Quarter 2017 Recipient
 
 https://wiki.python.org/moin/
 https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
@@ -82,7 +86,6 @@ https://mail.python.org/mailman/listinfo/group-organizers
 
 PSF Drive
 http://pyfound.blogspot.com/2017/09/improving-python-and-expanding-access.html | Python Software Foundation News: Improving Python and Expanding Access: How the PSF Uses Your Donation
-https://www.python.org/psf/membership/#what-does-it-mean-to-be-a-member-of-the-psf | PSF Membership FAQ | Python Software Foundation
 https://www.python.org/psf/donations/2017-q3-drive/ | Donation & Membership Drive | Python.org
 
 Member Site
@@ -171,9 +174,10 @@ https://djangoconus.slack.com
 https://djangoconus2017.herokuapp.com/
 https://djangoconus2017.slack.com DjangoConUS2017 Slack
 
+https://2018.djangocon.eu/grants/ | DjangoCon Europe 2018
 http://dc18.cutebit.de/ | DjangoCon Europe 2018
 https://up.cutebit.de/HdwRFjub/+inline | djangoA4
-https://github.com/rixx/djangocon-europe-18-blog/tree/master/css | djangocon-europe-18-blog/css at master · rixx/djangocon-europe-18-blog
+https://github.com/rixx/djangocon-europe-18-blog | rixx/djangocon-europe-18-blog
 https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
 -->
 
