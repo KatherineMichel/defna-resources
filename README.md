@@ -9,8 +9,6 @@ https://www.eventbrite.co.uk/e/djugl-tickets-25951107461 | DJUGL Tickets, Tue, 2
 
 http://djangoconus2017.herokuapp.com/ | Join DjangoConUS2017 on Slack!
 https://github.com/avinassh/slackipy | avinassh/slackipy: Automate user invites to your Slack channel!
-
-https://github.com/python-organizers | Python Organizers
 -->
 
 DEFNA (Django Events Foundation North America)
@@ -19,6 +17,10 @@ DEFNA (Django Events Foundation North America)
 * [DEFNA GitHub](https://github.com/DEFNA)
 * [DEFNA Foundation GitHub](https://github.com/DEFNA/foundation)
 * [DEFNA Website? GitHub](https://github.com/DEFNA/defna.org)
+
+<!--
+https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website | Call for Proposals for DjangoCon 2018 Website! — Django Events Foundation North America
+-->
 
 501(c)(3)
 * [501(c)(3) Wikipedia](https://en.wikipedia.org/wiki/501(c)(3)_organization)
@@ -31,22 +33,28 @@ Python Software Foundation (PSF) and Django Software Foundation (DSF) People
 * [PSF Committees](https://www.python.org/psf/committees)
 * [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
 * [DSF Individual Members](https://www.djangoproject.com/foundation/individual-members)
+* [DSF Corporate Members](https://www.djangoproject.com/foundation/corporate-members)
 
 Python- Members
 * [PSF Membership FAQ](https://www.python.org/psf/membership)
 * [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 Django Project
-* [Django Project Community](https://www.djangoproject.com/community)
-* [Django Project Fundraising](https://www.djangoproject.com/fundraising)
-* [Django Project Prizes](https://www.djangoproject.com/foundation/prizes)
+* [DSF Community](https://www.djangoproject.com/community)
+* [DSF Fundraising](https://www.djangoproject.com/fundraising)
+* [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
 
 <!--
+https://www.djangoproject.com/weblog/2017/nov/16/django-fellow-applicants/ | DSF calls for applicants for a Django Fellow | Weblog | Django
+
 https://docs.google.com/forms/d/e/1FAIpQLSdvHEGCFA5AaUQEn41KBz6AhZDVkTi5uHi3gCS_yRo4eVpw1w/viewform | Join the Pycon Program Committee
 
 http://legacy.python.org/psf/members
 
 https://twitter.com/ThePSF/status/919971234250502144 | Python Software on Twitter: "The PSF Board of Directors meeting in Chicago - group dinner last night before the start of business! https://t.co/YWg10gSH6m"
+
+https://www.python.org/psf/committees/ | Workgroups of the Python Software Foundation | Python Software Foundation
+https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
 
 http://pyfound.blogspot.com
 http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
@@ -105,6 +113,9 @@ PyCon
 
 <!--
 Python Events
+https://github.com/python-organizers | Python Organizers
+https://github.com/python-organizers/conferences/blob/master/2018.csv | conferences/2018.csv at master · python-organizers/conferences
+
 https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
 https://python-conferences.slack.com/messages/@slackbot/
 https://python-confs-slack-invites.herokuapp.com/invite
@@ -183,7 +194,7 @@ Python Conferences- Canada
 
 Python Conferences- Bay Area
 * [PyBay GitHub](https://github.com/pybay)
-* [North Bay Python Website](https://2017.northbaypython.org)
+* [North Bay Python Website](https://2017.northbaypython.org) and [North Bay Python Website GitHub](https://github.com/northbaypython/website)
 * [Bay Bridge Python GitHub](https://github.com/baybridgepython) and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
 
 Python Conferences and Meetups- New York
@@ -212,6 +223,9 @@ https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me O
 https://docs.google.com/forms/d/e/1FAIpQLSen_gu0eSB0qj-DpaNUsPzRBSMzrjtyjMB_0nj8vy3B_16dZg/viewform?c=0&w=1
 https://www.eventbrite.com/e/pygotham-2017-tickets-26532180466
 
+Other Events in Wiki
+https://2017.northbaypython.org/wiki/ | North Bay Python Wiki - North Bay Python Wiki
+https://2017.northbaypython.org/attend/business-case | North Bay Python | How to Pitch Your Manager
 https://2017.northbaypython.org/program/call-for-proposals#mentorship
 https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
 https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
@@ -258,6 +272,7 @@ https://github.com/pyconau2017/website/blob/master/pinaxcon/templates/site_base.
 https://forms.zohopublic.com/pyconnigeria/form/FinancialAidApplication/formperma/bCd_a4442mMAA_d26BDDeA2ek
 https://github.com/pydelhi/conference
 http://il.pycon.org/2016/about/speakers.html
+http://www.europython-society.org/post/167520379525/europython-2018-location-and-dates | EuroPython Society — EuroPython 2018: Location and Dates
 https://ep2016.europython.eu
 https://github.com/EuroPython/epcon
 https://za.pycon.org
