@@ -1,6 +1,9 @@
 # DEFNA Resources
 
 <!--
+http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
+http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ | The Pac-Man Rule at Conferences — Eric Holscher - Surfing in Kansas
+
 https://github.com/mxsasha/lessobviouschecklist | mxsasha/lessobviouschecklist: The Less Obvious Conference Checklist
 
 https://twitter.com/simonw/status/929022177432690689 | Simon Willison on Twitter: "Hardest part of running tutorials has always been ensuring everyone has a functioning dev environment. Anyone tried telling people “install… https://t.co/RTofV5opwN"
@@ -45,6 +48,11 @@ Django Project
 * [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
 
 <!--
+https://twitter.com/evildmp?lang=en | Daniele Procida (@evildmp) | Twitter
+
+https://www.djangoproject.com/weblog/ | News & Events | Django
+https://www.djangoproject.com/weblog/2016/aug/17/welcome-new-DSF-members/ | Welcome to the new members of the Django Software Foundation | Weblog | Django
+https://www.djangoproject.com/weblog/2017/dec/07/what-its-like-to-serve-dsf-board/ | What it's like to serve on the DSF Board | Weblog | Django
 https://www.djangoproject.com/weblog/2017/nov/16/django-fellow-applicants/ | DSF calls for applicants for a Django Fellow | Weblog | Django
 
 https://docs.google.com/forms/d/e/1FAIpQLSdvHEGCFA5AaUQEn41KBz6AhZDVkTi5uHi3gCS_yRo4eVpw1w/viewform | Join the Pycon Program Committee
@@ -148,6 +156,11 @@ DjangoCon US
 * [DjangoCon U.S.](http://www.djangocon.us), [DjangoCon GitHub](https://github.com/djangocon), and [DjangoCon E.U.](https://djangocon.eu) 
 * [DjangoCon US 2018 Website](https://2018.djangocon.us) and [DjangoCon US 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.us)
 * [DjangoCon US 2017 Website](https://2017.djangocon.us/) and [DjangoCon US 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.us)
+
+<!--
+https://twitter.com/JoniTrythall/following | People followed by Joni Trythall (@JoniTrythall) | Twitter
+https://2017.djangocon.us/news/conference-wrap-up/ | DjangoCon US 2017: It’s a Wrap! | DjangoCon US
+-->
 
 DjangoCon Organizers
 * [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
