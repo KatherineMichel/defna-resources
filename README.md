@@ -219,6 +219,7 @@ Python Conferences- More
 * [Puget Sound Python Twitter](https://twitter.com/ps_python)
 
 <!--
+http://pycascades-slack.herokuapp.com/ | Join PyCascades on Slack!
 https://www.pycascades.com/news/4-speaker-announcement-guido-van-rossum
 https://www.pycascades.com/speakers
 https://www.papercall.io/pycascades-2018
@@ -257,6 +258,7 @@ https://pyohio.org/schedule/
 https://www.papercall.io/pytexas-2017 | PaperCall.io - PyTexas 2017
 https://www.meetup.com/python-web-houston/ | PyWeb Houston (Houston, TX) | Meetup
 
+https://www.pytennessee.org/schedule | PyTennessee | Conference Schedule
 https://www.pytennessee.org/ | PyTennessee | Welcome
 https://www.pytennessee.org/account/login/?next=/dashboard/%3Futm_content%3Dbuffer5a9d3%26utm_medium%3Dsocial%26utm_source%3Dtwitter.com%26utm_campaign%3Dbuffer | PyTennessee | Log in
 
@@ -272,22 +274,26 @@ PyCon International
 * [Python Philippines GitHub](https://github.com/pythonph)
 
 <!--
+http://2018.geopython.net/ | GeoPython 2018
+
 https://github.com/glasnt/pyconau-test
 https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
 
+http://2018.pycon-au.org/news/cfst-open/ | PyCon AU 2018 | Call for Specialist Tracks is now open!
 https://github.com/pyconau/2018.pycon-au.org | pyconau/2018.pycon-au.org
-
-http://2018.geopython.net/ | GeoPython 2018
-https://pycon.ng Pycon Nigeria
-https://africa.python.org/en/
-https://github.com/pyconau/2018.pycon-au.org
 https://github.com/pyconau2017/website/blob/master/pinaxcon/templates/site_base.html
-https://forms.zohopublic.com/pyconnigeria/form/FinancialAidApplication/formperma/bCd_a4442mMAA_d26BDDeA2ek
-https://github.com/pydelhi/conference
-http://il.pycon.org/2016/about/speakers.html
 http://www.europython-society.org/post/167520379525/europython-2018-location-and-dates | EuroPython Society — EuroPython 2018: Location and Dates
 https://ep2016.europython.eu
 https://github.com/EuroPython/epcon
+
+http://il.pycon.org/2016/about/speakers.html
+
+https://github.com/pydelhi/conference
+
+https://africa.python.org/en/
+https://na.pycon.org/en/accommodation/ | Accommodation & travel - PyCon Namibia 2018
+https://www.youtube.com/channel/UCXq7L06VgQ04xFHFG_qFh5A/videos?disable_polymer=1 | PYCON Nigeria - YouTube
+https://pycon.ng Pycon Nigeria
 https://za.pycon.org
 -->
 
