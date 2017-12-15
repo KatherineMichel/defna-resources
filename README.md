@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
+
 http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
 http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ | The Pac-Man Rule at Conferences — Eric Holscher - Surfing in Kansas
 
