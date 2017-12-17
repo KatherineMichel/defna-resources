@@ -281,6 +281,7 @@ http://2018.geopython.net/ | GeoPython 2018
 https://github.com/glasnt/pyconau-test
 https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
 
+https://github.com/djangocon/2018.djangocon.com.au
 http://2018.pycon-au.org/news/cfst-open/ | PyCon AU 2018 | Call for Specialist Tracks is now open!
 https://github.com/pyconau/2018.pycon-au.org | pyconau/2018.pycon-au.org
 https://github.com/pyconau2017/website/blob/master/pinaxcon/templates/site_base.html
