@@ -1,6 +1,18 @@
 # DEFNA Resources
 
 <!--
+https://pydata-conference-management.readthedocs.io/en/latest/
+
+https://www.youtube.com/user/PyDataTV/playlists | PyData - YouTube
+pygotham youtube - Google Search
+
+https://www.pycascades.com/news/4-speaker-announcement-guido-van-rossum
+https://www.pycascades.com/speakers
+https://pyohio.org/schedule/
+https://www.pytennessee.org/schedule | PyTennessee | Conference Schedule
+http://il.pycon.org/2016/about/speakers.html
+https://www.youtube.com/channel/UCXq7L06VgQ04xFHFG_qFh5A/videos?disable_polymer=1 | PYCON Nigeria - YouTube
+
 https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
 
 http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
@@ -22,10 +34,6 @@ DEFNA (Django Events Foundation North America)
 * [DEFNA GitHub](https://github.com/DEFNA)
 * [DEFNA Foundation GitHub](https://github.com/DEFNA/foundation)
 * [DEFNA Website? GitHub](https://github.com/DEFNA/defna.org)
-
-<!--
-https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website | Call for Proposals for DjangoCon 2018 Website! — Django Events Foundation North America
--->
 
 501(c)(3)
 * [501(c)(3) Wikipedia](https://en.wikipedia.org/wiki/501(c)(3)_organization)
@@ -170,6 +178,9 @@ DjangoCon Organizers
 DjangoCon US 2017 Feedback
 * ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
 
+DjangoCon Australia
+* [DjangoCon Australia 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.com.au)
+
 DjangoCon Europe
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
 * [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
@@ -178,6 +189,8 @@ Django Under the Hood
 * [Django Under the Hood](https://www.djangounderthehood.com), [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
 
 <!--
+https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
+
 https://twitter.com/stroopwafelsoc | Scrt Stroopwafel soc (@stroopwafelsoc) | Twitter
 
 Daniele for Cardiff, Baptiste for Budapest, Iacopo for Florence, Erik for DUTH
@@ -205,32 +218,30 @@ https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volu
 
 Python Conferences- Canada
 * [PyCanada](https://2017.pycon.ca) and [PyCanada GitHub](https://github.com/pyconca)
-* [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades) and [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com)
+* [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades), [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com), and [PyCascades Slack](http://pycascades-slack.herokuapp.com)
 
-Python Conferences- Bay Area
+Python Conferences- Bay Area and California
 * [PyBay GitHub](https://github.com/pybay)
 * [North Bay Python Website](https://2017.northbaypython.org) and [North Bay Python Website GitHub](https://github.com/northbaypython/website)
-* [Bay Bridge Python GitHub](https://github.com/baybridgepython) and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
+* [Bay Bridge Python](http://baybridgepython.org), [Bay Bridge Python GitHub](https://github.com/baybridgepython), and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
+* [San Diego Python GitHub](https://github.com/pythonsd)
 
 Python Conferences and Meetups- New York
-* [PyGotham Website GitLab](https://gitlab.com/pygotham/2017) and [PyGotham GitHub](https://github.com/PyGotham)
+* [The New York Python Meetup Group](https://www.meetup.com/nycpython)
+* [PyGotham GitHub](https://github.com/PyGotham), [PyGotham Website GitHub](https://github.com/PyGotham/pygotham), [PyGotham Website GitLab](https://gitlab.com/pygotham/2017) and 
 
 Python Conferences- More
+* [Florida PyCon](http://flpy.org) and [Florida PyCon Twitter](https://twitter.com/flpycon)
 * [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
-* [PyOhio GitHub](https://github.com/pyohio)
-* [Puget Sound Python Twitter](https://twitter.com/ps_python)
+* [PyOhio GitHub](https://github.com/pyohio) and [PyOhio Slack](https://slack.pyohio.org)
+* [PyTennessee](https://www.pytennessee.org)
+* [PyTexas](https://www.pytexas.org)
+* [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
+* [Puget Sound Python Twitter](https://twitter.com/ps_python) and [Puget Sound Python Slack](http://pugetsoundpython-slack.herokuapp.com)
 
 <!--
-http://pycascades-slack.herokuapp.com/ | Join PyCascades on Slack!
-https://www.pycascades.com/news/4-speaker-announcement-guido-van-rossum
-https://www.pycascades.com/speakers
-https://www.papercall.io/pycascades-2018
-https://docs.google.com/forms/d/e/1FAIpQLSeJMNm6XSKtlOQWvsCcEStdm4W9XtqxGYPH20D8AGkmnk8j6A/viewform
 http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
 
-https://www.meetup.com/nycpython/ | The New York Python Meetup Group (New York, NY) | Meetup
-
-https://github.com/PyGotham/pygotham
 https://twitter.com/PyGotham/status/916768617869598720 | PyGotham on Twitter: "Next year, #PyGotham will take place October 5-7!"
 https://late.am/post/2017/09/25/pygotham-talk-voting-retrospective.html | PyGotham Talk Voting Retrospective « late.am
 
@@ -247,77 +258,47 @@ https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | B
 https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
 https://2017.northbaypython.org/attend/accessibility-and-accommodations | North Bay Python | Accessibility and Accommodations
 
-http://baybridgepython.org/ | The Bridge to Python across the Bay | Bay Bridge Python
-
-https://github.com/pythonsd | San Diego Python
-
 https://inlandnorthwest.tech/
-
-https://slack.pyohio.org/
-https://www.eventbrite.com/e/pyohio-2017-tickets-33066656259
-https://pyohio.org/schedule/
-
-https://www.papercall.io/pytexas-2017 | PaperCall.io - PyTexas 2017
-https://www.meetup.com/python-web-houston/ | PyWeb Houston (Houston, TX) | Meetup
-
-https://www.pytennessee.org/schedule | PyTennessee | Conference Schedule
-https://www.pytennessee.org/ | PyTennessee | Welcome
-https://www.pytennessee.org/account/login/?next=/dashboard/%3Futm_content%3Dbuffer5a9d3%26utm_medium%3Dsocial%26utm_source%3Dtwitter.com%26utm_campaign%3Dbuffer | PyTennessee | Log in
-
-https://twitter.com/flpycon/status/905437957066240000 | Florida PyCon on Twitter: "Shiny new website with speakers and more details added! Adding more speakers and information as it is confirmed. 🍊🐍 https://t.co/SB50AjSpLf"
 -->
 
-PyCon International
-* [EuroPython 2017 Website](https://ep2017.europython.eu) and [EuroPython GitHub](https://github.com/EuroPython) 
+PyCon International- Europe
+* [EuroPython Society](http://www.europython-society.org)
+* [EuroPython 2017 Website](https://ep2017.europython.eu), [EuroPython GitHub](https://github.com/EuroPython), and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
+* [Python Italia GitHub](https://github.com/pythonitalia) and [Python Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
+
+PyCon International- Australia
 * [PyCon AU](https://pycon-au.org) and [PyCon AU GitHub](https://github.com/pyconau)
-* [PyCon AU 2017 Website](https://2017.pycon-au.org)
-* [PyCon AU 2018 Website GitHub](https://github.com/pyconau/2018.pycon-au.org)
-* [Python Italia GitHub](https://github.com/pythonitalia)
+* [PyCon AU 2017 Website](https://2017.pycon-au.org) and [PyCon AU 2017 Website GitHub](https://github.com/pyconau2017)
+* [PyCon AU 2018 Website](http://2018.pycon-au.org) and [PyCon AU 2018 Website GitHub](https://github.com/pyconau/2018.pycon-au.org)
+
+PyCon International- Middle East and Asia
+* [PyDelhi GitHub](https://github.com/pydelhi) and [PyDelhi Website GitHub](https://github.com/pydelhi/conference)
+* [PyCon Israel](http://il.pycon.org)
+* [PyCon Pakistan Facebook](https://www.facebook.com/PyConPakistan)
 * [Python Philippines GitHub](https://github.com/pythonph)
 
+PyCon International- Africa
+* [Python Africa](https://africa.python.org)
+* [PyCon Namibia](https://na.pycon.org)
+* [Pycon Nigeria](https://pycon.ng)
+* [PyConZA](https://za.pycon.org)
+
 <!--
-http://2018.geopython.net/ | GeoPython 2018
-
 https://github.com/glasnt/pyconau-test
-https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
-
-https://github.com/djangocon/2018.djangocon.com.au
-http://2018.pycon-au.org/news/cfst-open/ | PyCon AU 2018 | Call for Specialist Tracks is now open!
-https://github.com/pyconau/2018.pycon-au.org | pyconau/2018.pycon-au.org
-https://github.com/pyconau2017/website/blob/master/pinaxcon/templates/site_base.html
-http://www.europython-society.org/post/167520379525/europython-2018-location-and-dates | EuroPython Society — EuroPython 2018: Location and Dates
-https://ep2016.europython.eu
-https://github.com/EuroPython/epcon
-
-http://il.pycon.org/2016/about/speakers.html
-
-https://github.com/pydelhi/conference
-
-https://africa.python.org/en/
-https://na.pycon.org/en/accommodation/ | Accommodation & travel - PyCon Namibia 2018
-https://www.youtube.com/channel/UCXq7L06VgQ04xFHFG_qFh5A/videos?disable_polymer=1 | PYCON Nigeria - YouTube
-https://pycon.ng Pycon Nigeria
-https://za.pycon.org
 -->
 
-PyData
-* [PyData](http://pydata.org) and [PyData GitHub](https://github.com/pydata)
+GeoPython and PyData
+* [GeoPython 2018](http://2018.geopython.net)
+* [PyData](http://pydata.org), [PyData Twitter](https://twitter.com/pydata), and [PyData GitHub](https://github.com/pydata)
+* [PyData Meetup](https://www.meetup.com/pro/pydata)
+* [PyData Seattle Meetup](https://www.meetup.com/pydata_seattle)
 * [PyData Berlin](https://github.com/pydataberlin)
 * [PyData London](http://london.pydata.org) and [PyData London GitHub](https://github.com/PyDataLondon)
 * [PyData Spain GitHub](https://github.com/python-spain)
 
 <!--
-https://twitter.com/pydata?lang=en | PyData (@PyData) | Twitter
-https://www.meetup.com/pro/pydata | PyData | Meetup Pro
-
 https://pydata.org/nyc2017/diversity-inclusion/diversity-scholarships/ | Diversity Scholarships
 
-https://channel9.msdn.com/Events/PyData/Seattle2017
-https://www.meetup.com/pydata_seattle | PyData Seattle (Bellevue, WA) | Meetup
-https://www.youtube.com/user/PyDataTV/playlists | PyData - YouTube
-pygotham youtube - Google Search
-
-https://www.meetup.com/pro/pydata/?platform=hootsuite#landingSearch | PyData | Meetup Pro
 https://github.com/pydata/conf_site
 -->
 
