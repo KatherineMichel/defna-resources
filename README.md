@@ -62,18 +62,16 @@ https://twitter.com/evildmp?lang=en | Daniele Procida (@evildmp) | Twitter
 
 https://www.djangoproject.com/weblog/ | News & Events | Django
 https://www.djangoproject.com/weblog/2016/aug/17/welcome-new-DSF-members/ | Welcome to the new members of the Django Software Foundation | Weblog | Django
-https://www.djangoproject.com/weblog/2017/dec/07/what-its-like-to-serve-dsf-board/ | What it's like to serve on the DSF Board | Weblog | Django
-https://www.djangoproject.com/weblog/2017/nov/16/django-fellow-applicants/ | DSF calls for applicants for a Django Fellow | Weblog | Django
 
 https://docs.google.com/forms/d/e/1FAIpQLSdvHEGCFA5AaUQEn41KBz6AhZDVkTi5uHi3gCS_yRo4eVpw1w/viewform | Join the Pycon Program Committee
 
 http://legacy.python.org/psf/members
 
-https://twitter.com/ThePSF/status/919971234250502144 | Python Software on Twitter: "The PSF Board of Directors meeting in Chicago - group dinner last night before the start of business! https://t.co/YWg10gSH6m"
-
 https://www.python.org/psf/committees/ | Workgroups of the Python Software Foundation | Python Software Foundation
 https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
 
+https://www.python.org
+https://www.python.org/psf
 http://pyfound.blogspot.com
 http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
 http://pyfound.blogspot.com/2017/12/the-psfs-grant-program-policies-and.html | Python Software Foundation News: The PSF’s Grant Program Policies and Preferences
@@ -99,14 +97,6 @@ https://www.python.org/community/workshops
 
 https://mail.python.org/mailman/listinfo/group-organizers
 https://github.com/python/community-starter-kit
-
-https://github.com/jspittman/psf-community-resources/blob/master/meetup-usergroup-cheatsheet.md
-
-https://mail.python.org/mailman/listinfo/group-organizers
-
-PSF Drive
-http://pyfound.blogspot.com/2017/09/improving-python-and-expanding-access.html | Python Software Foundation News: Improving Python and Expanding Access: How the PSF Uses Your Donation
-https://www.python.org/psf/donations/2017-q3-drive/ | Donation & Membership Drive | Python.org
 
 Member Site
 https://github.com/python/psfmemberdotorg | python/psfmemberdotorg
