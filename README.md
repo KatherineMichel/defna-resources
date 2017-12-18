@@ -135,8 +135,8 @@ https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list ar
 https://twitter.com/mpirnat/status/729835027106762752?lang=en
 
 http://2017.pyconuk.org
+PyData Track
 http://2017.pyconuk.org/pydata
-http://2017.pyconuk.org/django-girls
 http://uk.python.org/news/2017/08/23/pyconuk-keynotes-announced
 https://www.google.com/search?q=pycon+list&oq=pycon+list&gs_l=psy-ab.3..0i7i30k1l2.15712.17082.0.17376.8.7.0.0.0.0.190.602.0j4.4.0....0...1.1.64.psy-ab..5.1.116.-Ey_LFVwAUI | pycon list - Google Search
 http://2017.pyconuk.org/diversity-accessibility-inclusion
