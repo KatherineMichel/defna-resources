@@ -39,11 +39,12 @@ DEFNA (Django Events Foundation North America)
 * [501(c)(3) Wikipedia](https://en.wikipedia.org/wiki/501(c)(3)_organization)
 
 Python Software Foundation (PSF)
-* [PSF](https://www.python.org/psf) and [PSF Twitter](https://twitter.com/ThePSF)
+* [PSF](https://www.python.org/psf), [PSF Blogspot](http://pyfound.blogspot.com), [PSF Twitter](https://twitter.com/ThePSF)
+* [Legacy PSF Website](http://legacy.python.org)
 
 Python Software Foundation (PSF) and Django Software Foundation (DSF) People
 * [PSF Members](https://www.python.org/psf/members)
-* [PSF Committees](https://www.python.org/psf/committees)
+* [PSF Committees/Workgroups](https://www.python.org/psf/committees)
 * [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
 * [DSF Individual Members](https://www.djangoproject.com/foundation/individual-members)
 * [DSF Corporate Members](https://www.djangoproject.com/foundation/corporate-members)
@@ -58,34 +59,23 @@ Django Project
 * [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
 
 <!--
-https://twitter.com/evildmp?lang=en | Daniele Procida (@evildmp) | Twitter
-
 https://www.djangoproject.com/weblog/ | News & Events | Django
 https://www.djangoproject.com/weblog/2016/aug/17/welcome-new-DSF-members/ | Welcome to the new members of the Django Software Foundation | Weblog | Django
 
 https://docs.google.com/forms/d/e/1FAIpQLSdvHEGCFA5AaUQEn41KBz6AhZDVkTi5uHi3gCS_yRo4eVpw1w/viewform | Join the Pycon Program Committee
 
-http://legacy.python.org/psf/members
-
-https://www.python.org/psf/committees/ | Workgroups of the Python Software Foundation | Python Software Foundation
-https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
-
-https://www.python.org
-https://www.python.org/psf
-http://pyfound.blogspot.com
-http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
-http://pyfound.blogspot.com/2017/12/the-psfs-grant-program-policies-and.html | Python Software Foundation News: The PSF’s Grant Program Policies and Preferences
-http://pyfound.blogspot.com/2017/10/psfs-october-board-meeting.html | Python Software Foundation News: PSF's October Board Meeting
-
-https://wiki.python.org/moin/
-https://wiki.python.org/moin/FrontPage | FrontPage - Python Wiki
-https://github.com/python/psf-community-resources/issues
-
 Grants
+http://pyfound.blogspot.com/2017/12/the-psfs-grant-program-policies-and.html | Python Software Foundation News: The PSF’s Grant Program Policies and Preferences
 https://www.python.org/psf/grants/
 http://pyfound.blogspot.com/2012/03/user-groups-psf-can-help-cover-your.html | Python Software Foundation News: User groups: the PSF can help cover your meetup.com fees
 http://kit.pyladies.com/en/latest/prospective/ | Prospective Organizers — PyLadies Organizer Handbook
 https://www.python.org/psf/committees/#grants-work-group
+
+
+Python Wiki
+https://wiki.python.org/moin/
+
+https://github.com/python/psf-community-resources/issues
 
 StartingYourUsersGroup - Python Wiki
 https://wiki.python.org/moin/StartingYourUsersGroup
@@ -95,6 +85,7 @@ https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event | PythonEv
 http://www.python.org/community/irc
 https://www.python.org/community/workshops
 
+https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
 https://mail.python.org/mailman/listinfo/group-organizers
 https://github.com/python/community-starter-kit
 
@@ -106,6 +97,7 @@ https://mail.python.org/mailman/listinfo/diversity-private | Diversity-Private I
 https://surveys.jetbrains.com/s3/c12-python-developers-survey-2017 | Python Developers Survey 2017
 
 https://twitter.com/betswaliszewski | Betsy Waliszewski (@betswaliszewski) | Twitter
+https://twitter.com/evildmp?lang=en | Daniele Procida (@evildmp) | Twitter
 -->
 
 ## See- Finding Events
