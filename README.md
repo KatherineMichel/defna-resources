@@ -6,13 +6,6 @@ https://pydata-conference-management.readthedocs.io/en/latest/
 https://www.youtube.com/user/PyDataTV/playlists | PyData - YouTube
 pygotham youtube - Google Search
 
-https://www.pycascades.com/news/4-speaker-announcement-guido-van-rossum
-https://www.pycascades.com/speakers
-https://pyohio.org/schedule/
-https://www.pytennessee.org/schedule | PyTennessee | Conference Schedule
-http://il.pycon.org/2016/about/speakers.html
-https://www.youtube.com/channel/UCXq7L06VgQ04xFHFG_qFh5A/videos?disable_polymer=1 | PYCON Nigeria - YouTube
-
 https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
 
 http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
