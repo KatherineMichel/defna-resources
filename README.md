@@ -57,6 +57,8 @@ https://www.djangoproject.com/weblog/2016/aug/17/welcome-new-DSF-members/ | Welc
 
 https://docs.google.com/forms/d/e/1FAIpQLSdvHEGCFA5AaUQEn41KBz6AhZDVkTi5uHi3gCS_yRo4eVpw1w/viewform | Join the Pycon Program Committee
 
+https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
+
 Grants
 http://pyfound.blogspot.com/2017/12/the-psfs-grant-program-policies-and.html | Python Software Foundation News: The PSF’s Grant Program Policies and Preferences
 https://www.python.org/psf/grants/
@@ -194,6 +196,11 @@ https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volu
 Python Conferences- Canada
 * [PyCanada](https://2017.pycon.ca) and [PyCanada GitHub](https://github.com/pyconca)
 * [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades), [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com), and [PyCascades Slack](http://pycascades-slack.herokuapp.com)
+
+<!--
+https://github.com/pycascades/welcome-wagon-2018
+http://pycascades-welcome-wagon.readthedocs.io/ | PyCascades Welcome Wagon — welcome-wagon-2018 release documentation
+-->
 
 Python Conferences- Bay Area and California
 * [PyBay GitHub](https://github.com/pybay)
