@@ -196,11 +196,7 @@ https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volu
 Python Conferences- Canada
 * [PyCanada](https://2017.pycon.ca) and [PyCanada GitHub](https://github.com/pyconca)
 * [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades), [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com), and [PyCascades Slack](http://pycascades-slack.herokuapp.com)
-
-<!--
-https://github.com/pycascades/welcome-wagon-2018
-http://pycascades-welcome-wagon.readthedocs.io/ | PyCascades Welcome Wagon — welcome-wagon-2018 release documentation
--->
+* [PyCascades Welcome Wagon 2018 Read the Docs](http://pycascades-welcome-wagon.readthedocs.io) and [PyCascades Welcome Wagon 2018 GitHub](https://github.com/pycascades/welcome-wagon-2018)
 
 Python Conferences- Bay Area and California
 * [PyBay GitHub](https://github.com/pybay)
