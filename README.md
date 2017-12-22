@@ -248,6 +248,7 @@ PyCon International- Australia
 
 PyCon International- Middle East and Asia
 * [PyDelhi GitHub](https://github.com/pydelhi) and [PyDelhi Website GitHub](https://github.com/pydelhi/conference)
+* [Pune PyCon GitHub](https://github.com/PyConPune/pune.pycon.org)
 * [PyCon Israel](http://il.pycon.org)
 * [PyCon Pakistan Facebook](https://www.facebook.com/PyConPakistan)
 * [Python Philippines GitHub](https://github.com/pythonph)
@@ -260,6 +261,7 @@ PyCon International- Africa
 
 <!--
 https://github.com/glasnt/pyconau-test
+http://2018.pycon-au.org/news/call-for-sponsorship/ | PyCon AU 2018 | Call for Sponsors
 -->
 
 GeoPython and PyData
@@ -322,6 +324,7 @@ https://djangogirls.org/pyconuk2016
 
 https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
 
+https://www.meetup.com/NYC-PyLadies
 https://www.meetup.com/PyLadiesLondon
 
 http://www.pyladies.com/locations/
