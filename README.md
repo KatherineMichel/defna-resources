@@ -120,6 +120,7 @@ https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/
 
 https://us.pycon.org/2018/dashboard/ | Dashboard | PyCon 2018 in Cleveland, Ohio
 https://us.pycon.org/2018/speaking/ | Speak at PyCon | PyCon 2018 in Cleveland, Ohio
+https://us.pycon.org/2018/speaking/talks/ | Proposing a Talk | PyCon 2018 in Cleveland, Ohio
 https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
 https://pycon.blogspot.com/2017/10/pycon-opens-financial-aid-applications.html | PyCon Opens Financial Aid Applications
 https://us.pycon.org/2017/financial-assistance/ | https://us.pycon.org/2017/financial-assistance/
