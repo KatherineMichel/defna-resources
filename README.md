@@ -56,6 +56,7 @@ https://www.djangoproject.com/weblog/ | News & Events | Django
 https://www.djangoproject.com/weblog/2016/aug/17/welcome-new-DSF-members/ | Welcome to the new members of the Django Software Foundation | Weblog | Django
 
 https://docs.google.com/forms/d/e/1FAIpQLSdvHEGCFA5AaUQEn41KBz6AhZDVkTi5uHi3gCS_yRo4eVpw1w/viewform | Join the Pycon Program Committee
+https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/viewform | PSF Managing/Contributing Membership Self-Certification
 
 https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
 
