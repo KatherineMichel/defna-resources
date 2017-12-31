@@ -275,6 +275,7 @@ GeoPython and PyData
 * [PyData Meetup](https://www.meetup.com/pro/pydata)
 * [PyData Seattle Meetup](https://www.meetup.com/pydata_seattle)
 * [PyData Berlin](https://github.com/pydataberlin)
+* [PyData Edinburgh](https://twitter.com/PyDataEdinburgh)
 * [PyData London](http://london.pydata.org) and [PyData London GitHub](https://github.com/PyDataLondon)
 * [PyData Spain GitHub](https://github.com/python-spain)
 
