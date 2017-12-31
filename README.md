@@ -52,6 +52,8 @@ Django Project
 * [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
 
 <!--
+http://pyfound.blogspot.com/2017/12/python-software-foundation-fellow.html | Python Software Foundation News: Python Software Foundation Fellow Members for Q4 2017
+
 https://www.djangoproject.com/weblog/ | News & Events | Django
 https://www.djangoproject.com/weblog/2016/aug/17/welcome-new-DSF-members/ | Welcome to the new members of the Django Software Foundation | Weblog | Django
 
