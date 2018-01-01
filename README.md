@@ -51,6 +51,9 @@ Django Project
 * [DSF Fundraising](https://www.djangoproject.com/fundraising)
 * [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
 
+Django Software Foundation Individual Membership
+* [Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
+
 <!--
 http://pyfound.blogspot.com/2017/12/python-software-foundation-fellow.html | Python Software Foundation News: Python Software Foundation Fellow Members for Q4 2017
 
