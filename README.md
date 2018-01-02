@@ -391,40 +391,6 @@ https://2015.djangocon.us/blog/2015/07/20/proposal-stats/
 https://2017.pygotham.org/2017/10/11/code-of-conduct-transparency/ | Code of conduct transparency report - PyGotham 2017
 -->
 
-<!--
-## Benchmarking
-
-Benchmarking
-* [Node Foundation GitHub](https://github.com/nodejs)
-* [Node Foundation Events](https://nodejs.org/en/get-involved/events)
-* [Mikeal Rogers](http://mikealrogers.com/) and [Mikeal Rogers GitHub](https://github.com/mikeal)
-
-Related Organizations
-Case Studies
-Best Practices
-
-https://nodejs.org/en/get-involved
-
-https://github.com/nodejs/community-committee
-https://github.com/nodejs/community-events
-
-https://github.com/nodejs/board
-https://github.com/nodejs/benchmarking
-https://github.com/nodejs/education
-https://github.com/nodejs/code-and-learn
-https://github.com/nodejs/collaboration
-https://github.com/nodejs/summit
-https://github.com/nodejs/evangelism
-https://github.com/nodejs/Intl
-
-https://github.com/tc39/proposals
-https://twitter.com/MylesBorins/status/908061827443064832 | sMyle on Twitter: "With that I am the new @nodejs TSC Director I look forward to representing the committee on the Board of Directors. Thank you."
-https://github.com/nodejs/community-committee/issues/111
-https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
-https://github.com/nodejs/getting-started | nodejs/getting-started: Getting started in Node.js!
-https://medium.com/@nodejs/whats-it-like-being-on-the-node-js-foundation-board-of-directors-f9456b8b7c4d#.dcviqsox5 | What’s It Like Being on the Node.js Foundation Board of Directors? – Medium
--->
-
 #### Mentors 
 
 Python and Django Conferences- Proposal Examples
