@@ -1,6 +1,10 @@
 # DEFNA Resources
 
 <!--
+https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/ | HOWTO design a code of conduct for your community | Ada Initiative
+http://confcodeofconduct.com/ | Conference Code of Conduct
+http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy | Conference anti-harassment/Policy | Geek Feminism Wiki | FANDOM powered by Wikia
+
 https://pydata-conference-management.readthedocs.io/en/latest/
 
 https://www.youtube.com/user/PyDataTV/playlists | PyData - YouTube
