@@ -167,7 +167,7 @@ DjangoCon US 2017 Feedback
 * ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
 
 DjangoCon Australia
-* [DjangoCon Australia 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.com.au)
+* [DjangoCon Australia 2018 Website](http://2018.djangocon.com.au) and [DjangoCon Australia 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.com.au)
 
 DjangoCon Europe
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
