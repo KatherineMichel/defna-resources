@@ -255,6 +255,10 @@ PyCon International- Europe
 * [EuroPython 2017 Website](https://ep2017.europython.eu), [EuroPython GitHub](https://github.com/EuroPython), and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
 * [Python Italia GitHub](https://github.com/pythonitalia) and [Python Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
 
+<!--
+https://www.pycon.it/en/ | Home · PyCon Nove · Firenze, 19-22 Aprile 2018
+-->
+
 PyCon International- Australia
 * [PyCon AU](https://pycon-au.org) and [PyCon AU GitHub](https://github.com/pyconau)
 * [PyCon AU 2017 Website](https://2017.pycon-au.org) and [PyCon AU 2017 Website GitHub](https://github.com/pyconau2017)
