@@ -117,6 +117,8 @@ PyCon
 * [PyCon UK GitHub](https://github.com/PyconUK)
 
 <!--
+https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
+
 Python Events
 https://github.com/python-organizers | Python Organizers
 https://github.com/python-organizers/conferences/blob/master/2018.csv | conferences/2018.csv at master · python-organizers/conferences
