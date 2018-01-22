@@ -210,6 +210,7 @@ Python Conferences- Canada
 * [PyCanada](https://2017.pycon.ca) and [PyCanada GitHub](https://github.com/pyconca)
 * [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades), [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com), and [PyCascades Slack](http://pycascades-slack.herokuapp.com)
 * [PyCascades Welcome Wagon 2018 Read the Docs](http://pycascades-welcome-wagon.readthedocs.io) and [PyCascades Welcome Wagon 2018 GitHub](https://github.com/pycascades/welcome-wagon-2018)
+* [PyCascades Code of Conduct Hotline](https://github.com/cache-rules/coc-hotline)
 
 Python Conferences- Bay Area and California
 * [PyBay GitHub](https://github.com/pybay)
@@ -219,12 +220,12 @@ Python Conferences- Bay Area and California
 
 Python Conferences and Meetups- New York
 * [The New York Python Meetup Group](https://www.meetup.com/nycpython)
-* [PyGotham GitHub](https://github.com/PyGotham), [PyGotham Website GitHub](https://github.com/PyGotham/pygotham), [PyGotham Website GitLab](https://gitlab.com/pygotham/2017) and 
+* [PyGotham GitHub](https://github.com/PyGotham), [PyGotham Website GitHub](https://github.com/PyGotham/pygotham), [PyGotham Website GitLab](https://gitlab.com/pygotham/2017)
 
 Python Conferences- More
 * [Florida PyCon](http://flpy.org) and [Florida PyCon Twitter](https://twitter.com/flpycon)
 * [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
-* [PyOhio GitHub](https://github.com/pyohio) and [PyOhio Slack](https://slack.pyohio.org)
+* [PyOhio GitHub](https://github.com/pyohio), [PyOhio Website GitHub](https://github.com/pyohio/pyohio-website), and [PyOhio Slack](https://slack.pyohio.org)
 * [PyTennessee](https://www.pytennessee.org)
 * [PyTexas](https://www.pytexas.org)
 * [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
