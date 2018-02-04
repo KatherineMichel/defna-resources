@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+https://docs.google.com/forms/d/e/1FAIpQLSdJaRgJqja8VFqGlRDpgOMExZ-moz7nT4xIUtnvGz1RvRUyIA/viewform | Conference Sponsorship Matchmaking
+
 https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/ | HOWTO design a code of conduct for your community | Ada Initiative
 http://confcodeofconduct.com/ | Conference Code of Conduct
 http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy | Conference anti-harassment/Policy | Geek Feminism Wiki | FANDOM powered by Wikia
@@ -14,6 +16,7 @@ https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / R
 
 http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
 http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ | The Pac-Man Rule at Conferences — Eric Holscher - Surfing in Kansas
+https://twitter.com/kaler/status/957327947064426496 | Parveen Kaler on Twitter: "Idea: A “Please Join Us” sticker/magnet that you can stick on your laptop when you’re at a coffee shop table that has empty seats."
 
 https://github.com/mxsasha/lessobviouschecklist | mxsasha/lessobviouschecklist: The Less Obvious Conference Checklist
 
@@ -59,6 +62,11 @@ Django Software Foundation Individual Membership
 * [Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
 
 <!--
+http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
+
+https://www.python.org/community/awards/psf-awards/#december-2017 | PSF Community Service Awards | Python.org
+https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
+
 http://pyfound.blogspot.com/2017/12/python-software-foundation-fellow.html | Python Software Foundation News: Python Software Foundation Fellow Members for Q4 2017
 
 https://www.djangoproject.com/weblog/ | News & Events | Django
@@ -66,8 +74,6 @@ https://www.djangoproject.com/weblog/2016/aug/17/welcome-new-DSF-members/ | Welc
 
 https://docs.google.com/forms/d/e/1FAIpQLSdvHEGCFA5AaUQEn41KBz6AhZDVkTi5uHi3gCS_yRo4eVpw1w/viewform | Join the Pycon Program Committee
 https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/viewform | PSF Managing/Contributing Membership Self-Certification
-
-https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
 
 Grants
 http://pyfound.blogspot.com/2017/12/the-psfs-grant-program-policies-and.html | Python Software Foundation News: The PSF’s Grant Program Policies and Preferences
