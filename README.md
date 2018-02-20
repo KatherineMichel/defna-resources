@@ -1,7 +1,12 @@
 # DEFNA Resources
 
 <!--
+https://blog.europython.eu/post/170649247077/europython-2018-getting-ready | EuroPython Blog — EuroPython 2018: Getting ready
+
 https://docs.google.com/forms/d/e/1FAIpQLSdJaRgJqja8VFqGlRDpgOMExZ-moz7nT4xIUtnvGz1RvRUyIA/viewform | Conference Sponsorship Matchmaking
+
+https://github.com/akaptur/pycon-proposals | akaptur/pycon-proposals: A repository of past PyCon proposals, both accepted and rejected
+http://akaptur.com/blog/2014/09/11/rejected-pycon-proposals/ | Rejected PyCon Proposals - Allison Kaptur
 
 https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/ | HOWTO design a code of conduct for your community | Ada Initiative
 http://confcodeofconduct.com/ | Conference Code of Conduct
@@ -14,6 +19,7 @@ pygotham youtube - Google Search
 
 https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
 
+http://ericholscher.com/blog/2018/feb/13/conference-mentorship/ | Conference Mentorship — Eric Holscher - Surfing in Kansas
 http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
 http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ | The Pac-Man Rule at Conferences — Eric Holscher - Surfing in Kansas
 https://twitter.com/kaler/status/957327947064426496 | Parveen Kaler on Twitter: "Idea: A “Please Join Us” sticker/magnet that you can stick on your laptop when you’re at a coffee shop table that has empty seats."
@@ -62,6 +68,8 @@ Django Software Foundation Individual Membership
 * [Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
 
 <!--
+https://www.djangoproject.com/weblog/2018/jan/22/2017-malcolm-tredinnick-prize-claude-paroz/ | 2017 Malcolm Tredinnick Memorial Prize awarded to Claude Paroz | Weblog | Django
+
 http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
 
 https://www.python.org/community/awards/psf-awards/#december-2017 | PSF Community Service Awards | Python.org
@@ -125,6 +133,9 @@ PyCon
 <!--
 https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
 
+https://www.python.org/psf/sponsorship/sponsors/ | Python Software Foundation Sponsors | Python.org
+https://us.pycon.org/2018/sponsors/ | About PyCon Sponsors | PyCon 2018 in Cleveland, Ohio
+
 Python Events
 https://github.com/python-organizers | Python Organizers
 https://github.com/python-organizers/conferences/blob/master/2018.csv | conferences/2018.csv at master · python-organizers/conferences
@@ -136,9 +147,6 @@ https://python-confs-slack-invites.herokuapp.com/invite
 https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
 https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
 
-https://us.pycon.org/2018/dashboard/ | Dashboard | PyCon 2018 in Cleveland, Ohio
-https://us.pycon.org/2018/speaking/ | Speak at PyCon | PyCon 2018 in Cleveland, Ohio
-https://us.pycon.org/2018/speaking/talks/ | Proposing a Talk | PyCon 2018 in Cleveland, Ohio
 https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
 https://pycon.blogspot.com/2017/10/pycon-opens-financial-aid-applications.html | PyCon Opens Financial Aid Applications
 https://us.pycon.org/2017/financial-assistance/ | https://us.pycon.org/2017/financial-assistance/
@@ -222,11 +230,11 @@ Python Conferences- Bay Area and California
 * [PyBay GitHub](https://github.com/pybay)
 * [North Bay Python Website](https://2017.northbaypython.org) and [North Bay Python Website GitHub](https://github.com/northbaypython/website)
 * [Bay Bridge Python](http://baybridgepython.org), [Bay Bridge Python GitHub](https://github.com/baybridgepython), and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
-* [San Diego Python GitHub](https://github.com/pythonsd)
+* [San Diego Python GitHub](http://www.pythonsd.org) and [San Diego Python GitHub](https://github.com/pythonsd)
 
 Python Conferences and Meetups- New York
 * [The New York Python Meetup Group](https://www.meetup.com/nycpython)
-* [PyGotham GitHub](https://github.com/PyGotham), [PyGotham Website GitHub](https://github.com/PyGotham/pygotham), [PyGotham Website GitLab](https://gitlab.com/pygotham/2017)
+* [PyGotham Website 2018](https://2018.pygotham.org), [PyGotham GitHub](https://github.com/PyGotham), [PyGotham Website GitHub](https://github.com/PyGotham/pygotham), [PyGotham Website GitLab 2017](https://gitlab.com/pygotham/2017)
 
 Python Conferences- More
 * [Florida PyCon](http://flpy.org) and [Florida PyCon Twitter](https://twitter.com/flpycon)
@@ -262,7 +270,9 @@ https://inlandnorthwest.tech/
 PyCon International- Europe
 * [EuroPython Society](http://www.europython-society.org)
 * [EuroPython 2017 Website](https://ep2017.europython.eu), [EuroPython GitHub](https://github.com/EuroPython), and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
-* [Python Italia Website](https://www.pycon.it), [Python Italia GitHub](https://github.com/pythonitalia), and [Python Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
+* [PyCon Italia Website](https://www.pycon.it), [Python Italia GitHub](https://github.com/pythonitalia), and [PyCon Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
+* [PyCon CZ Website](https://cz.pycon.org)
+* [PyCon Slovakia 2018 Website](https://2018.pycon.sk/sk/)
 
 PyCon International- Australia
 * [PyCon AU](https://pycon-au.org) and [PyCon AU GitHub](https://github.com/pyconau)
@@ -296,6 +306,7 @@ GeoPython and PyData
 * [PyData Edinburgh](https://twitter.com/PyDataEdinburgh)
 * [PyData London](http://london.pydata.org) and [PyData London GitHub](https://github.com/PyDataLondon)
 * [PyData Spain GitHub](https://github.com/python-spain)
+* [SciPy 2018 Website](https://scipy2018.scipy.org)
 
 <!--
 https://pydata.org/nyc2017/diversity-inclusion/diversity-scholarships/ | Diversity Scholarships
