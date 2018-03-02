@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+https://github.com/python-organizers/conferences/blob/master/2018.csv
+
 https://blog.europython.eu/post/170649247077/europython-2018-getting-ready | EuroPython Blog — EuroPython 2018: Getting ready
 
 https://docs.google.com/forms/d/e/1FAIpQLSdJaRgJqja8VFqGlRDpgOMExZ-moz7nT4xIUtnvGz1RvRUyIA/viewform | Conference Sponsorship Matchmaking
