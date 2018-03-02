@@ -178,3 +178,124 @@ https://pydata.org/nyc2017/diversity-inclusion/diversity-scholarships/ | Diversi
 
 https://github.com/pydata/conf_site
 -->
+
+## PyLadies and Django Girls
+
+PyLadies and PyLadies Remote
+* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
+* [PyLadies Website GitHub](https://github.com/pyladies/pyladies)
+* [PyLadies Blog GitHub](https://github.com/pyladies/pyladies-blog)
+* [PyLadies Maintainers GitHub](https://github.com/pyladies/pyladies-maintainers)
+* [PyLadies Remote Twitter](https://twitter.com/pyladiesremote)
+* [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
+* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
+
+djangogirls twitter list - Google Search
+
+Django Girls
+* [Django Girl](https://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls) 
+
+Django Girls- Events and Cities
+* [Django Girls Events](https://djangogirls.org/events)
+* [Django Girls London](https://djangogirls.org/london)
+* [Django Girls Kansas City](https://djangogirls.org/kansascity)
+
+Django Girls- Help
+* [Django Girls Organize](http://organize.djangogirls.org)  
+* [Django Girls Coach](http://coach.djangogirls.org)  
+* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
+* [Django Girls Store](https://store.djangogirls.org)
+
+<!--
+http://blog.djangogirls.org
+http://blog.djangogirls.org/submit
+http://blog.djangogirls.org/post/137825610883/about-your-django-story
+
+https://djangogirls.org/2016-2017/ | Django Girls Impact Report 2016-2017
+https://organize.djangogirls.org/attendees/index.html | Page Not Found · GitBook
+
+https://www.flickr.com/photos/djangogirls
+https://organize.djangogirls.org/promotion/ | Promotion · Django Girls: Organizer's Guide
+
+DjangoGirls/PyCon
+* [DjangoGirls/PyCon](https://djangogirls.org/pycon)
+
+https://djangogirls.org/pyconuk2016
+
+https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
+
+https://www.meetup.com/NYC-PyLadies
+https://www.meetup.com/PyLadiesLondon
+
+http://www.pyladies.com/locations/
+https://github.com/search?utf8=%E2%9C%93&q=pyladies&type=
+https://en.wikipedia.org/wiki/PyLadies
+https://trello.com/b/zOQw7mVl/website
+
+PyLadies Events
+https://gist.github.com/econchick
+https://gist.github.com/econchick/e060f3c632b92dd8f55d0338d7758680
+
+http://remote.pyladies.com/resources
+
+https://github.com/audreyr/lapyladies
+
+https://github.com/PyLadies-Boston/PyLadies-Boston-Meetups
+
+https://github.com/socalpyladies/socalpyladies.github.io
+http://socalpyladies.github.io/
+https://github.com/PanPacificPyLadiesConf/PPPCwebsite
+https://github.com/DutchDjangoAssociation/djangovereniging.nl
+-->
+
+<!--
+Diversity
+
+https://dev.to/binarycodess/women-in-tech-we-need-you
+https://github.com/erikr/lessobviouschecklist | erikr/lessobviouschecklist: The Less Obvious Conference Checklist
+https://twitter.com/drnikki/status/908465327234629632 | nikki stevens on Twitter: "Python increased female speakers from 1% to 40% in 5 years. <3 <3 <3 <3 @pyladies @djangogirls major change agents in this. #OSSummit"
+
+47% talks women
+https://2017.djangocon.us/news/proposal-statistics/
+
+https://2016.djangocon.us/diversity/ | Diversity
+https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/
+https://2016.djangocon.us/blog/2016/07/19/thank-you-diversity-sponsors/
+https://2016.djangocon.us/blog/2016/07/12/django-fellow-sprint/
+https://2016.djangocon.us/blog/2016/07/06/announcing-our-keynote-speakers/
+https://2016.djangocon.us/blog/2016/07/01/thank-you-eldarion-eldarion-cloud/
+https://2016.djangocon.us/blog/2016/06/22/day-1-orientation/
+https://2016.djangocon.us/blog/2016/06/21/meet-organizers/
+https://2016.djangocon.us/blog/2016/06/14/child-care-djangocon-us/
+https://2016.djangocon.us/blog/2016/06/09/how-we-allocated-financial-aid/
+https://2016.djangocon.us/blog/2016/06/07/assisted-listening-devices/
+40% talks by women
+https://2016.djangocon.us/blog/2016/05/30/early-bird-ticket-warning/
+
+https://2015.djangocon.us/schedule/presentation/72/ | Presentation: How to Practice Inclusion and Benefit Django | DjangoCon in Austin, TX
+
+30% talks by women
+https://2015.djangocon.us/blog/2015/07/20/proposal-stats/
+
+https://2017.pygotham.org/2017/10/11/code-of-conduct-transparency/ | Code of conduct transparency report - PyGotham 2017
+-->
+
+#### Mentors 
+
+Python and Django Conferences- Proposal Examples
+* Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
+* [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
+
+Python and Django Conferences- Speaker Mentors
+* [DjangoCon E.U. 2016 Call for Proposals/Speaking Mentors](https://2016.djangocon.eu/cfp)  
+* [DjangoCon E.U. 2015 Speaking Mentors](http://2015.djangocon.eu/proposals/speaker-mentors) 
+* [DjangoCon U.S. 2015 Call for Proposals](http://2015.djangocon.us/speaking/cfp)
+* [DjangoCon U.S. 2015 Speaking Mentors](https://2015.djangocon.us/speaking/mentors) 
+
+DjangoCon Talk Ideas
+* [DjangoCon Talk Ideas](https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8)
+
+Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
+* [Tweet Storm with Resources](https://twitter.com/laceynwilliams/status/693514103931801600)
+* [Slides](https://docs.google.com/presentation/d/1vgYS-STJl9epz7_RiRGSKnnf4vYi4rtaF3zbJc8S1yA/pub?start=false&loop=false&delayms=3000&slide=id.p)
+* [Replay](https://www.youtube.com/watch?v=OAQAXVU1jIo)
