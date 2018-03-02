@@ -1,46 +1,6 @@
 # DEFNA Resources
 
 <!--
-https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i57.1604j0j7&sourceid=chrome&ie=UTF-8 | list of pycons - Google Search
-https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list around PyCon · Scrunch
-
-https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
-https://python-conferences.slack.com/messages/@slackbot/
-https://python-confs-slack-invites.herokuapp.com/invite
-
-Python Events
-https://github.com/python-organizers | Python Organizers
-https://github.com/python-organizers/conferences/blob/master/2018.csv | conferences/2018.csv at master · python-organizers/conferences
-
-https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
-
-https://twitter.com/mpirnat/status/729835027106762752?lang=en
-https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
-https://pycon.blogspot.com/2017/10/pycon-opens-financial-aid-applications.html | PyCon Opens Financial Aid Applications
-https://us.pycon.org/2017/financial-assistance/ | https://us.pycon.org/2017/financial-assistance/
-https://us.pycon.org/2018/sponsors/prospectus/ | Sponsorship Prospectus | PyCon 2018 in Cleveland, Ohio
-
-https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
-
-https://2017.northbaypython.org/wiki/ | North Bay Python Wiki - North Bay Python Wiki
-https://2017.northbaypython.org/attend/business-case | North Bay Python | How to Pitch Your Manager
-https://2017.northbaypython.org/program/call-for-proposals#mentorship
-https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
-https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
-https://2017.northbaypython.org/attend/accessibility-and-accommodations | North Bay Python | Accessibility and Accommodations
-
-https://www.python.org/psf/sponsorship/sponsors/ | Python Software Foundation Sponsors | Python.org
-https://us.pycon.org/2018/sponsors/ | About PyCon Sponsors | PyCon 2018 in Cleveland, Ohio
-
-http://2018.pycon-au.org/news/call-for-sponsorship/ | PyCon AU 2018 | Call for Sponsors
-
-PyCascades Welcome Wagon
-
-
-
-
-
-<!--
 https://blog.europython.eu/post/170649247077/europython-2018-getting-ready | EuroPython Blog — EuroPython 2018: Getting ready
 
 https://pydata-conference-management.readthedocs.io/en/latest/
@@ -51,8 +11,10 @@ pygotham youtube - Google Search
 https://www.eventbrite.co.uk/e/djugl-tickets-25951107461 | DJUGL Tickets, Tue, 28 Jun 2016 at 19:00 | Eventbrite
 
 http://2017.pyconuk.org
+
 PyData Track
 http://2017.pyconuk.org/pydata
+
 http://uk.python.org/news/2017/08/23/pyconuk-keynotes-announced
 https://www.google.com/search?q=pycon+list&oq=pycon+list&gs_l=psy-ab.3..0i7i30k1l2.15712.17082.0.17376.8.7.0.0.0.0.190.602.0j4.4.0....0...1.1.64.psy-ab..5.1.116.-Ey_LFVwAUI | pycon list - Google Search
 http://2017.pyconuk.org/diversity-accessibility-inclusion
@@ -109,6 +71,13 @@ DjangoCon US
 DjangoCon Organizers
 * [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
 
+<!--
+http://djangoconus2017.herokuapp.com/ | Join DjangoConUS2017 on Slack!
+https://github.com/avinassh/slackipy | avinassh/slackipy: Automate user invites to your Slack channel!
+https://djangoconus.slack.com
+https://djangoconus2017.slack.com DjangoConUS2017 Slack
+-->
+
 Websites
 * [DjangoCon US 2018 Website](https://2018.djangocon.us) and [DjangoCon US 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.us)
 * [DjangoCon US 2017 Website](https://2017.djangocon.us/) and [DjangoCon US 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.us)
@@ -120,10 +89,16 @@ DjangoCon US 2017 Feedback
 * ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
 
 <!--
-http://djangoconus2017.herokuapp.com/ | Join DjangoConUS2017 on Slack!
-https://github.com/avinassh/slackipy | avinassh/slackipy: Automate user invites to your Slack channel!
-https://djangoconus.slack.com
-https://djangoconus2017.slack.com DjangoConUS2017 Slack
+https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
+https://python-conferences.slack.com/messages/@slackbot/
+https://python-confs-slack-invites.herokuapp.com/invite
+
+https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i57.1604j0j7&sourceid=chrome&ie=UTF-8 | list of pycons - Google Search
+https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list around PyCon · Scrunch
+
+Python Events
+https://github.com/python-organizers | Python Organizers
+https://github.com/python-organizers/conferences/blob/master/2018.csv | conferences/2018.csv at master · python-organizers/conferences
 
 http://heats.life/blog/2017/08/04/conferences
 DjangoCon US Talks I’d Like to See: 2017 Edition | Jeff Triplett
@@ -134,6 +109,32 @@ https://twitter.com/djangocon/lists/speakers-2017
 https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
 https://atom509.wordpress.com/about/ | About | ATOM
 https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
+-->
+
+<!--
+https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
+
+https://twitter.com/mpirnat/status/729835027106762752?lang=en
+https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
+https://pycon.blogspot.com/2017/10/pycon-opens-financial-aid-applications.html | PyCon Opens Financial Aid Applications
+https://us.pycon.org/2017/financial-assistance/ | https://us.pycon.org/2017/financial-assistance/
+https://us.pycon.org/2018/sponsors/prospectus/ | Sponsorship Prospectus | PyCon 2018 in Cleveland, Ohio
+
+https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
+
+https://2017.northbaypython.org/wiki/ | North Bay Python Wiki - North Bay Python Wiki
+https://2017.northbaypython.org/attend/business-case | North Bay Python | How to Pitch Your Manager
+https://2017.northbaypython.org/program/call-for-proposals#mentorship
+https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
+https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
+https://2017.northbaypython.org/attend/accessibility-and-accommodations | North Bay Python | Accessibility and Accommodations
+
+https://www.python.org/psf/sponsorship/sponsors/ | Python Software Foundation Sponsors | Python.org
+https://us.pycon.org/2018/sponsors/ | About PyCon Sponsors | PyCon 2018 in Cleveland, Ohio
+
+http://2018.pycon-au.org/news/call-for-sponsorship/ | PyCon AU 2018 | Call for Sponsors
+
+PyCascades Welcome Wagon
 -->
 
 <!--
