@@ -1,8 +1,9 @@
 # Conferences
 
-<!--
-https://github.com/python-organizers/conferences/blob/master/2018.csv
--->
+## Finding Events
+
+* [Python Conferences Repo](https://github.com/python-organizers/conferences)
+* [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
 
 ## Events and Meetups
 
