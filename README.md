@@ -1,61 +1,54 @@
 # DEFNA Resources
 
 <!--
+https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i57.1604j0j7&sourceid=chrome&ie=UTF-8 | list of pycons - Google Search
+https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list around PyCon · Scrunch
+
+https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
+https://python-conferences.slack.com/messages/@slackbot/
+https://python-confs-slack-invites.herokuapp.com/invite
+
+Python Events
+https://github.com/python-organizers | Python Organizers
+https://github.com/python-organizers/conferences/blob/master/2018.csv | conferences/2018.csv at master · python-organizers/conferences
+
+https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
+
+https://twitter.com/mpirnat/status/729835027106762752?lang=en
+https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
+https://pycon.blogspot.com/2017/10/pycon-opens-financial-aid-applications.html | PyCon Opens Financial Aid Applications
+https://us.pycon.org/2017/financial-assistance/ | https://us.pycon.org/2017/financial-assistance/
+https://us.pycon.org/2018/sponsors/prospectus/ | Sponsorship Prospectus | PyCon 2018 in Cleveland, Ohio
+
+https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
+
+https://2017.northbaypython.org/wiki/ | North Bay Python Wiki - North Bay Python Wiki
+https://2017.northbaypython.org/attend/business-case | North Bay Python | How to Pitch Your Manager
+https://2017.northbaypython.org/program/call-for-proposals#mentorship
+https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
+https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
+https://2017.northbaypython.org/attend/accessibility-and-accommodations | North Bay Python | Accessibility and Accommodations
+
+https://www.python.org/psf/sponsorship/sponsors/ | Python Software Foundation Sponsors | Python.org
+https://us.pycon.org/2018/sponsors/ | About PyCon Sponsors | PyCon 2018 in Cleveland, Ohio
+
 http://2018.pycon-au.org/news/call-for-sponsorship/ | PyCon AU 2018 | Call for Sponsors
-https://pydata.org/nyc2017/diversity-inclusion/diversity-scholarships/ | Diversity Scholarships
 
-https://github.com/python-organizers/conferences/blob/master/2018.csv
+PyCascades Welcome Wagon
 
+
+
+
+
+<!--
 https://blog.europython.eu/post/170649247077/europython-2018-getting-ready | EuroPython Blog — EuroPython 2018: Getting ready
-
-https://docs.google.com/forms/d/e/1FAIpQLSdJaRgJqja8VFqGlRDpgOMExZ-moz7nT4xIUtnvGz1RvRUyIA/viewform | Conference Sponsorship Matchmaking
-
-https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/ | HOWTO design a code of conduct for your community | Ada Initiative
-http://confcodeofconduct.com/ | Conference Code of Conduct
-http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy | Conference anti-harassment/Policy | Geek Feminism Wiki | FANDOM powered by Wikia
 
 https://pydata-conference-management.readthedocs.io/en/latest/
 
 https://www.youtube.com/user/PyDataTV/playlists | PyData - YouTube
 pygotham youtube - Google Search
 
-https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
-
-http://ericholscher.com/blog/2018/feb/13/conference-mentorship/ | Conference Mentorship — Eric Holscher - Surfing in Kansas
-http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
-http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ | The Pac-Man Rule at Conferences — Eric Holscher - Surfing in Kansas
-https://twitter.com/kaler/status/957327947064426496 | Parveen Kaler on Twitter: "Idea: A “Please Join Us” sticker/magnet that you can stick on your laptop when you’re at a coffee shop table that has empty seats."
-
-https://twitter.com/simonw/status/929022177432690689 | Simon Willison on Twitter: "Hardest part of running tutorials has always been ensuring everyone has a functioning dev environment. Anyone tried telling people “install… https://t.co/RTofV5opwN"
-
 https://www.eventbrite.co.uk/e/djugl-tickets-25951107461 | DJUGL Tickets, Tue, 28 Jun 2016 at 19:00 | Eventbrite
--->
-
-<!--
-https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
-
-https://www.python.org/psf/sponsorship/sponsors/ | Python Software Foundation Sponsors | Python.org
-https://us.pycon.org/2018/sponsors/ | About PyCon Sponsors | PyCon 2018 in Cleveland, Ohio
-
-Python Events
-https://github.com/python-organizers | Python Organizers
-https://github.com/python-organizers/conferences/blob/master/2018.csv | conferences/2018.csv at master · python-organizers/conferences
-
-https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
-https://python-conferences.slack.com/messages/@slackbot/
-https://python-confs-slack-invites.herokuapp.com/invite
-
-https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
-https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
-
-https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
-https://pycon.blogspot.com/2017/10/pycon-opens-financial-aid-applications.html | PyCon Opens Financial Aid Applications
-https://us.pycon.org/2017/financial-assistance/ | https://us.pycon.org/2017/financial-assistance/
-https://us.pycon.org/2018/sponsors/prospectus/ | Sponsorship Prospectus | PyCon 2018 in Cleveland, Ohio
-
-https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i57.1604j0j7&sourceid=chrome&ie=UTF-8 | list of pycons - Google Search
-https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list around PyCon · Scrunch
-https://twitter.com/mpirnat/status/729835027106762752?lang=en
 
 http://2017.pyconuk.org
 PyData Track
@@ -85,23 +78,10 @@ https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volu
 http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
 
 https://twitter.com/PyGotham/status/916768617869598720 | PyGotham on Twitter: "Next year, #PyGotham will take place October 5-7!"
-https://late.am/post/2017/09/25/pygotham-talk-voting-retrospective.html | PyGotham Talk Voting Retrospective « late.am
-
-http://melissacollom.com/info/ | About — Melissa Collom
-https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me Offer Coaching to First-Time PyGotham Speakers
-https://docs.google.com/forms/d/e/1FAIpQLSen_gu0eSB0qj-DpaNUsPzRBSMzrjtyjMB_0nj8vy3B_16dZg/viewform?c=0&w=1
-https://www.eventbrite.com/e/pygotham-2017-tickets-26532180466
-
-Other Events in Wiki
-https://2017.northbaypython.org/wiki/ | North Bay Python Wiki - North Bay Python Wiki
-https://2017.northbaypython.org/attend/business-case | North Bay Python | How to Pitch Your Manager
-https://2017.northbaypython.org/program/call-for-proposals#mentorship
-https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
-https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
-https://2017.northbaypython.org/attend/accessibility-and-accommodations | North Bay Python | Accessibility and Accommodations
 
 https://inlandnorthwest.tech/
 -->
+
 
 ## DEFNA
 
@@ -159,10 +139,6 @@ https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram 
 <!--
 Diversity
 
-https://dev.to/binarycodess/women-in-tech-we-need-you
-https://github.com/erikr/lessobviouschecklist | erikr/lessobviouschecklist: The Less Obvious Conference Checklist
-https://twitter.com/drnikki/status/908465327234629632 | nikki stevens on Twitter: "Python increased female speakers from 1% to 40% in 5 years. <3 <3 <3 <3 @pyladies @djangogirls major change agents in this. #OSSummit"
-
 47% talks women
 https://2017.djangocon.us/news/proposal-statistics/
 
@@ -184,8 +160,6 @@ https://2015.djangocon.us/schedule/presentation/72/ | Presentation: How to Pract
 
 30% talks by women
 https://2015.djangocon.us/blog/2015/07/20/proposal-stats/
-
-https://2017.pygotham.org/2017/10/11/code-of-conduct-transparency/ | Code of conduct transparency report - PyGotham 2017
 -->
 
 ## Python Software Foundation (PSF)
@@ -214,6 +188,7 @@ Django Software Foundation
 
 Django Software Foundation Individual Membership
 * [Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
+
 
 <!--
 https://twitter.com/JoniTrythall/following | People followed by Joni Trythall (@JoniTrythall) | Twitter
@@ -269,7 +244,8 @@ https://twitter.com/betswaliszewski | Betsy Waliszewski (@betswaliszewski) | Twi
 https://twitter.com/evildmp?lang=en | Daniele Procida (@evildmp) | Twitter
 -->
 
-## PyLadies and Django Girls
+
+## PyLadies
 
 PyLadies and PyLadies Remote
 * [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
@@ -279,6 +255,8 @@ PyLadies and PyLadies Remote
 * [PyLadies Remote Twitter](https://twitter.com/pyladiesremote)
 * [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
 * [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
+
+## Django Girls
 
 djangogirls twitter list - Google Search
 
@@ -340,13 +318,16 @@ https://github.com/DutchDjangoAssociation/djangovereniging.nl
 
 #### Mentors 
 
+<!--
+https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
+https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
+
+http://akaptur.com/blog/2014/09/11/rejected-pycon-proposals/ | Rejected PyCon Proposals - Allison Kaptur
+-->
+
 Python and Django Conferences- Proposal Examples
 * Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
 * [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
-
-<!--
-http://akaptur.com/blog/2014/09/11/rejected-pycon-proposals/ | Rejected PyCon Proposals - Allison Kaptur
--->
 
 Python and Django Conferences- Speaker Mentors
 * [DjangoCon E.U. 2016 Call for Proposals/Speaking Mentors](https://2016.djangocon.eu/cfp)  
@@ -361,3 +342,34 @@ Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
 * [Tweet Storm with Resources](https://twitter.com/laceynwilliams/status/693514103931801600)
 * [Slides](https://docs.google.com/presentation/d/1vgYS-STJl9epz7_RiRGSKnnf4vYi4rtaF3zbJc8S1yA/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [Replay](https://www.youtube.com/watch?v=OAQAXVU1jIo)
+
+<!--
+Ideas for Improving Conferences
+
+http://ericholscher.com/blog/2018/feb/13/conference-mentorship/ | Conference Mentorship — Eric Holscher - Surfing in Kansas
+http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
+http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ | The Pac-Man Rule at Conferences — Eric Holscher - Surfing in Kansas
+https://twitter.com/kaler/status/957327947064426496 | Parveen Kaler on Twitter: "Idea: A “Please Join Us” sticker/magnet that you can stick on your laptop when you’re at a coffee shop table that has empty seats."
+
+https://docs.google.com/forms/d/e/1FAIpQLSdJaRgJqja8VFqGlRDpgOMExZ-moz7nT4xIUtnvGz1RvRUyIA/viewform | Conference Sponsorship Matchmaking
+
+https://late.am/post/2017/09/25/pygotham-talk-voting-retrospective.html | PyGotham Talk Voting Retrospective « late.am
+https://2017.pygotham.org/2017/10/11/code-of-conduct-transparency/ | Code of conduct transparency report - PyGotham 2017
+https://docs.google.com/forms/d/e/1FAIpQLSen_gu0eSB0qj-DpaNUsPzRBSMzrjtyjMB_0nj8vy3B_16dZg/viewform?c=0&w=1
+https://www.eventbrite.com/e/pygotham-2017-tickets-26532180466
+
+http://melissacollom.com/info/ | About — Melissa Collom
+https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me Offer Coaching to First-Time PyGotham Speakers
+
+https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/ | HOWTO design a code of conduct for your community | Ada Initiative
+http://confcodeofconduct.com/ | Conference Code of Conduct
+http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy | Conference anti-harassment/Policy | Geek Feminism Wiki | FANDOM powered by Wikia
+
+https://dev.to/binarycodess/women-in-tech-we-need-you
+https://github.com/erikr/lessobviouschecklist | erikr/lessobviouschecklist: The Less Obvious Conference Checklist
+https://twitter.com/drnikki/status/908465327234629632 | nikki stevens on Twitter: "Python increased female speakers from 1% to 40% in 5 years. <3 <3 <3 <3 @pyladies @djangogirls major change agents in this. #OSSummit"
+
+https://pydata.org/nyc2017/diversity-inclusion/diversity-scholarships/ | Diversity Scholarships
+
+https://twitter.com/simonw/status/929022177432690689 | Simon Willison on Twitter: "Hardest part of running tutorials has always been ensuring everyone has a functioning dev environment. Anyone tried telling people “install… https://t.co/RTofV5opwN"
+-->
