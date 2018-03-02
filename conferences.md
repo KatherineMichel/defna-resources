@@ -1,5 +1,52 @@
 # Conferences
 
+## See- Finding Events
+
+## Events and Meetups
+
+PyCon
+* [PyCon](http://www.pycon.org) and [PyCon GitHub](https://github.com/PyCon)
+* [PyCon 2018 Website](https://us.pycon.org/2018)
+* [PyCon Website GitHub](https://github.com/PyCon/pycon)
+* [PyCon 2017 Website](https://us.pycon.org/2017)
+* [PyCon UK GitHub](https://github.com/PyconUK)
+
+<!--
+https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
+
+https://www.python.org/psf/sponsorship/sponsors/ | Python Software Foundation Sponsors | Python.org
+https://us.pycon.org/2018/sponsors/ | About PyCon Sponsors | PyCon 2018 in Cleveland, Ohio
+
+Python Events
+https://github.com/python-organizers | Python Organizers
+https://github.com/python-organizers/conferences/blob/master/2018.csv | conferences/2018.csv at master · python-organizers/conferences
+
+https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
+https://python-conferences.slack.com/messages/@slackbot/
+https://python-confs-slack-invites.herokuapp.com/invite
+
+https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
+https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
+
+https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
+https://pycon.blogspot.com/2017/10/pycon-opens-financial-aid-applications.html | PyCon Opens Financial Aid Applications
+https://us.pycon.org/2017/financial-assistance/ | https://us.pycon.org/2017/financial-assistance/
+https://us.pycon.org/2018/sponsors/prospectus/ | Sponsorship Prospectus | PyCon 2018 in Cleveland, Ohio
+
+https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i57.1604j0j7&sourceid=chrome&ie=UTF-8 | list of pycons - Google Search
+https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list around PyCon · Scrunch
+https://twitter.com/mpirnat/status/729835027106762752?lang=en
+
+http://2017.pyconuk.org
+PyData Track
+http://2017.pyconuk.org/pydata
+http://uk.python.org/news/2017/08/23/pyconuk-keynotes-announced
+https://www.google.com/search?q=pycon+list&oq=pycon+list&gs_l=psy-ab.3..0i7i30k1l2.15712.17082.0.17376.8.7.0.0.0.0.190.602.0j4.4.0....0...1.1.64.psy-ab..5.1.116.-Ey_LFVwAUI | pycon list - Google Search
+http://2017.pyconuk.org/diversity-accessibility-inclusion
+
+https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
+-->
+
 DjangoCon Australia
 * [DjangoCon Australia 2018 Website](http://2018.djangocon.com.au) and [DjangoCon Australia 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.com.au)
 
