@@ -9,6 +9,12 @@ DEFNA (Django Events Foundation North America)
 * [DEFNA Foundation GitHub](https://github.com/DEFNA/foundation)
 * [DEFNA Website? GitHub](https://github.com/DEFNA/defna.org)
 
+<!--
+https://github.com/djangocon/djangocon-us-docs
+https://github.com/DEFNA/foundation/blob/master/onboarding.md
+https://github.com/djangocon/djangocon-us-docs/blob/master/howtos/new-team-member.md
+-->
+
 501(c)(3)
 * [501(c)(3) Wikipedia](https://en.wikipedia.org/wiki/501(c)(3)_organization)
 
