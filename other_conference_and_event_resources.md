@@ -1,5 +1,41 @@
 # Conferences
 
+<!--
+https://github.com/python-organizers/conferences/blob/master/2018.csv
+
+https://blog.europython.eu/post/170649247077/europython-2018-getting-ready | EuroPython Blog — EuroPython 2018: Getting ready
+
+https://docs.google.com/forms/d/e/1FAIpQLSdJaRgJqja8VFqGlRDpgOMExZ-moz7nT4xIUtnvGz1RvRUyIA/viewform | Conference Sponsorship Matchmaking
+
+https://github.com/akaptur/pycon-proposals | akaptur/pycon-proposals: A repository of past PyCon proposals, both accepted and rejected
+http://akaptur.com/blog/2014/09/11/rejected-pycon-proposals/ | Rejected PyCon Proposals - Allison Kaptur
+
+https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/ | HOWTO design a code of conduct for your community | Ada Initiative
+http://confcodeofconduct.com/ | Conference Code of Conduct
+http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy | Conference anti-harassment/Policy | Geek Feminism Wiki | FANDOM powered by Wikia
+
+https://pydata-conference-management.readthedocs.io/en/latest/
+
+https://www.youtube.com/user/PyDataTV/playlists | PyData - YouTube
+pygotham youtube - Google Search
+
+https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
+
+http://ericholscher.com/blog/2018/feb/13/conference-mentorship/ | Conference Mentorship — Eric Holscher - Surfing in Kansas
+http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
+http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ | The Pac-Man Rule at Conferences — Eric Holscher - Surfing in Kansas
+https://twitter.com/kaler/status/957327947064426496 | Parveen Kaler on Twitter: "Idea: A “Please Join Us” sticker/magnet that you can stick on your laptop when you’re at a coffee shop table that has empty seats."
+
+https://github.com/mxsasha/lessobviouschecklist | mxsasha/lessobviouschecklist: The Less Obvious Conference Checklist
+
+https://twitter.com/simonw/status/929022177432690689 | Simon Willison on Twitter: "Hardest part of running tutorials has always been ensuring everyone has a functioning dev environment. Anyone tried telling people “install… https://t.co/RTofV5opwN"
+
+https://www.eventbrite.co.uk/e/djugl-tickets-25951107461 | DJUGL Tickets, Tue, 28 Jun 2016 at 19:00 | Eventbrite
+
+http://djangoconus2017.herokuapp.com/ | Join DjangoConUS2017 on Slack!
+https://github.com/avinassh/slackipy | avinassh/slackipy: Automate user invites to your Slack channel!
+-->
+
 ## See- Finding Events
 
 ## Events and Meetups
