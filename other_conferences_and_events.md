@@ -14,6 +14,10 @@ PyCon
 * [PyCon 2017 Website](https://us.pycon.org/2017)
 * [PyCon UK GitHub](https://github.com/PyconUK)
 
+<!--
+http://2017.pyconuk.org
+-->
+
 DjangoCon Australia
 * [DjangoCon Australia 2018 Website](http://2018.djangocon.com.au) and [DjangoCon Australia 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.com.au)
 
@@ -57,11 +61,8 @@ PyCon International- Europe
 * [PyCon Slovakia 2018 Website](https://2018.pycon.sk/sk/)
 
 <!--
-https://djangogirls.org/pyconuk2017/ | Django Girls PyCon UK 2017
-http://2017.pyconuk.org/ | PyCon UK 2017
 https://www.meetup.com/LondonPython/ | London Python (London, United Kingdom) | Meetup
 https://www.eventbrite.co.uk/e/djugl-django-user-group-london-tickets-39048331611 | DJUGL - Django User Group London Tickets, Tue, 21 Nov 2017 at 19:00 | Eventbrite
-https://www.meetup.com/pyladieslondon/ | PyLadies London (London, United Kingdom) | Meetup
 -->
 
 PyCon International- Australia
