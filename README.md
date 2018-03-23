@@ -188,7 +188,7 @@ https://twitter.com/JoniTrythall/following | People followed by Joni Trythall (@
 
 https://www.djangoproject.com/weblog/2018/jan/22/2017-malcolm-tredinnick-prize-claude-paroz/ | 2017 Malcolm Tredinnick Memorial Prize awarded to Claude Paroz | Weblog | Django
 
-http://pyfound.blogspot.com/2018/01/the-python-software-foundation-is.html | Python Software Foundation News: The Python Software Foundation is looking for bloggers!
+http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
 
 https://www.python.org/community/awards/psf-awards/#december-2017 | PSF Community Service Awards | Python.org
 https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
