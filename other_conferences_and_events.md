@@ -56,6 +56,14 @@ PyCon International- Europe
 * [PyCon CZ Website](https://cz.pycon.org)
 * [PyCon Slovakia 2018 Website](https://2018.pycon.sk/sk/)
 
+<!--
+https://djangogirls.org/pyconuk2017/ | Django Girls PyCon UK 2017
+http://2017.pyconuk.org/ | PyCon UK 2017
+https://www.meetup.com/LondonPython/ | London Python (London, United Kingdom) | Meetup
+https://www.eventbrite.co.uk/e/djugl-django-user-group-london-tickets-39048331611 | DJUGL - Django User Group London Tickets, Tue, 21 Nov 2017 at 19:00 | Eventbrite
+https://www.meetup.com/pyladieslondon/ | PyLadies London (London, United Kingdom) | Meetup
+-->
+
 PyCon International- Australia
 * [PyCon AU](https://pycon-au.org) and [PyCon AU GitHub](https://github.com/pyconau)
 * [PyCon AU 2017 Website](https://2017.pycon-au.org) and [PyCon AU 2017 Website GitHub](https://github.com/pyconau2017)
@@ -84,6 +92,7 @@ GeoPython and PyData
 * [PyData Meetup](https://www.meetup.com/pro/pydata)
 * [PyData Seattle Meetup](https://www.meetup.com/pydata_seattle)
 * [PyData Berlin](https://github.com/pydataberlin)
+* [PyData Dublin](https://pydatadublin.github.io)
 * [PyData Edinburgh](https://twitter.com/PyDataEdinburgh)
 * [PyData London](http://london.pydata.org) and [PyData London GitHub](https://github.com/PyDataLondon)
 * [PyData Spain GitHub](https://github.com/python-spain)
@@ -91,4 +100,6 @@ GeoPython and PyData
 
 <!--
 https://github.com/pydata/conf_site
+https://pydata.org/london2018
+https://docs.google.com/forms/d/e/1FAIpQLSefj325nEwZSArxzEq3BOJdE6L3weMsBZJSDUS_61T7w3t3hw/viewform | SciPy 2018 Program Committee Interest Form
 -->
