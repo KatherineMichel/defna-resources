@@ -92,10 +92,6 @@ https://python-confs-slack-invites.herokuapp.com/invite
 https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i57.1604j0j7&sourceid=chrome&ie=UTF-8 | list of pycons - Google Search
 https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list around PyCon · Scrunch
 
-Python Events
-https://github.com/python-organizers | Python Organizers
-https://github.com/python-organizers/conferences/blob/master/2018.csv | conferences/2018.csv at master · python-organizers/conferences
-
 http://heats.life/blog/2017/08/04/conferences
 DjangoCon US Talks I’d Like to See: 2017 Edition | Jeff Triplett
 https://jefftriplett.com/2017/django-talks-id-like-to-see
@@ -221,7 +217,6 @@ https://github.com/python/psf-community-resources/issues
 StartingYourUsersGroup - Python Wiki
 https://wiki.python.org/moin/StartingYourUsersGroup
 https://wiki.python.org/moin/LocalUserGroups
-https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event | PythonEventsCalendar - Python Wiki
 
 http://www.python.org/community/irc
 https://www.python.org/community/workshops
