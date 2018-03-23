@@ -4,6 +4,7 @@
 
 * [Python Conferences Repo](https://github.com/python-organizers/conferences)
 * [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
+* [Python Conferences Mailing List](https://mail.python.org/mailman/listinfo/conferences)
 
 ## Events and Meetups
 
