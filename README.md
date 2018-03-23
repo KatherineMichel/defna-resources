@@ -8,10 +8,6 @@ https://pydata-conference-management.readthedocs.io/en/latest/
 https://www.youtube.com/user/PyDataTV/playlists | PyData - YouTube
 pygotham youtube - Google Search
 
-https://www.eventbrite.co.uk/e/djugl-tickets-25951107461 | DJUGL Tickets, Tue, 28 Jun 2016 at 19:00 | Eventbrite
-
-http://2017.pyconuk.org
-
 PyData Track
 http://2017.pyconuk.org/pydata
 
@@ -289,11 +285,14 @@ https://organize.djangogirls.org/promotion/ | Promotion · Django Girls: Organiz
 DjangoGirls/PyCon
 * [DjangoGirls/PyCon](https://djangogirls.org/pycon)
 
+https://djangogirls.org/pyconuk2017/ | Django Girls PyCon UK 2017
 https://djangogirls.org/pyconuk2016
 
 https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
 
 https://www.meetup.com/NYC-PyLadies
+https://www.meetup.com/WomenWhoCodeNYC/ | Women Who Code NYC (New York, NY) | Meetup
+
 https://www.meetup.com/PyLadiesLondon
 
 http://www.pyladies.com/locations/
@@ -365,6 +364,14 @@ https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me O
 https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/ | HOWTO design a code of conduct for your community | Ada Initiative
 http://confcodeofconduct.com/ | Conference Code of Conduct
 http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy | Conference anti-harassment/Policy | Geek Feminism Wiki | FANDOM powered by Wikia
+
+CoC
+https://twitter.com/frameshiftllc/status/971151691130089472 | FrameShiftConsulting on Twitter: "Help requested: We're looking for descriptions of real-world code of conduct reports and how they were handled, to add to a new CC BY-SA licensed guide to handing CoC reports. Links please? Thank you!"
+https://2017.djangocon.eu/code-of-conduct-transparency-report/ | Code of Conduct Transparency report -
+https://2017.djangocon.us/news/conduct-report/ | Code of Conduct Transparency Report | DjangoCon US
+https://2017.pygotham.org/2017/10/11/code-of-conduct-transparency/ | Code of conduct transparency report - PyGotham 2017
+http://geekfeminism.wikia.com/wiki/Benevolent_dictator_incident | Benevolent dictator incident | Geek Feminism Wiki | FANDOM powered by Wikia
+http://www.writethedocs.org/conf/eu/2016/news/code-of-conduct-report/ | Code of Conduct Transparency Report - Write the Docs Europe 2016
 
 https://dev.to/binarycodess/women-in-tech-we-need-you
 https://github.com/erikr/lessobviouschecklist | erikr/lessobviouschecklist: The Less Obvious Conference Checklist
