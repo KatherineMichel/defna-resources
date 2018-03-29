@@ -1,4 +1,4 @@
-# Projects
+# Possible Projects
 
 ## Eldarion and Pinax
 
