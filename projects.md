@@ -23,19 +23,6 @@ My Role: 2017, 2018 Website Chair and Maintainer (Website and Technical Lead): h
 
 ### DjangoCon 2018 Website
 
-<!--
-https://github.com/djangocon/resources | djangocon/resources: Repository containing logos and resources
-https://github.com/djangocon/2018.djangocon.us/tree/master/static/img
-
-https://github.com/djangocon/2018.djangocon.us/issues/56 | Sticker/patch designs · Issue #56 · djangocon/2018.djangocon.us
-https://github.com/djangocon/2018.djangocon.us/issues/57 Slide cover
-https://github.com/djangocon/2018.djangocon.us/issues/58 Tote bag design
-https://github.com/djangocon/2018.djangocon.us/issues/59 Banner design
-https://github.com/djangocon/2018.djangocon.us/issues/60 Shirt design
-
-https://rosenfeldmedia.com/eux2018/updates/convince-your-boss/ | Convince Your Boss - Enterprise UX 2018 Enterprise UX 2018
--->
-
 Code
 * [Website](https://2018.djangocon.us) and [Website Repo](https://github.com/djangocon/2018.djangocon.us)
 * [Develop Branch](https://github.com/djangocon/2018.djangocon.us/tree/develop)
@@ -49,8 +36,18 @@ Project Cards
 Content Updates
 * [Content Updates](https://github.com/djangocon/2018.djangocon.us/issues/13)
 
+Branding and Swag
+* [Assets GitHub](https://github.com/djangocon/resources)
+* [Static Images GitHub](https://github.com/djangocon/2018.djangocon.us/tree/master/static/img)
+* [Banner Design GitHub](https://github.com/djangocon/2018.djangocon.us/issues/59)
+* [Slide Cover GitHub](https://github.com/djangocon/2018.djangocon.us/issues/57)
+* [Shirt Design GitHub](https://github.com/djangocon/2018.djangocon.us/issues/60)
+* [Tote Bag Design GitHub](https://github.com/djangocon/2018.djangocon.us/issues/58)
+* [Sticker/Patch Design GitHub](https://github.com/djangocon/2018.djangocon.us/issues/56)
+
 Special Issue
 * [Why DjangoCon US?](https://2017.djangocon.us/why-djangocon-us)
+* [Convince Your Boss Example](https://rosenfeldmedia.com/eux2018/updates/convince-your-boss)
 
 Offer to Help
 * [Offer from Lindsey Dragun](https://twitter.com/techevangelista/status/944321280857268225)
