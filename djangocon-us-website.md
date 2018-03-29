@@ -16,9 +16,8 @@ My Role: 2017, 2018 Website Chair and Maintainer (Website and Technical Lead): h
 Code
 * [Website](https://2018.djangocon.us) and [Website Repo](https://github.com/djangocon/2018.djangocon.us)
 * [Develop Branch](https://github.com/djangocon/2018.djangocon.us/tree/develop)
-* [Landing page](https://github.com/djangocon/2018.djangocon.us/blob/develop/_pages/landing-page.html)
-* [Excluded pages ](https://github.com/djangocon/2018.djangocon.us/blob/develop/_config.yml#L46)
-* [Logos and media ](https://github.com/djangocon/resources)
+* [Landing Page](https://github.com/djangocon/2018.djangocon.us/blob/develop/_pages/landing-page.html)
+* [Excluded Pages](https://github.com/djangocon/2018.djangocon.us/blob/develop/_config.yml#L46)
 
 Project Cards
 * [Project Cards](https://github.com/djangocon/2018.djangocon.us/projects/1)
@@ -27,7 +26,8 @@ Content Updates
 * [Content Updates](https://github.com/djangocon/2018.djangocon.us/issues/13)
 
 Branding and Swag
-* [Assets GitHub](https://github.com/djangocon/resources)
+* [Style Guide](https://2018.djangocon.us/styleguide)
+* [Logos and Media GitHub](https://github.com/djangocon/resources)
 * [Static Images GitHub](https://github.com/djangocon/2018.djangocon.us/tree/master/static/img)
 * [Banner Design GitHub](https://github.com/djangocon/2018.djangocon.us/issues/59)
 * [Slide Cover GitHub](https://github.com/djangocon/2018.djangocon.us/issues/57)
@@ -49,9 +49,8 @@ CFP
 * [CFP Blog Post](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website)
 
 ToDo
-* Review website/Updates
+* Review website/updates
 * Add any new contributors
-* [Style Guide](http://djangoconus2018.surge.sh/styleguide)
 
 ### DjangoCon 2017 Website
 
