@@ -1,15 +1,5 @@
 # Possible Projects
 
-## Eldarion and Pinax
-
-My Role: Overseeing Major Release of Pinax (dozens of Django projects and apps)
-
-See: https://github.com/KatherineMichel/eldarion-and-pinax
-
-## Django Software Foundation
-
-My Role: Individual Member
-
 ## PyCon Website Technical Committee
 
 * [2018 Website](https://us.pycon.org/2018) and [2018 Website Repo](https://github.com/PyCon/pycon)
