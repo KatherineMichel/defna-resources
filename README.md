@@ -1,43 +1,73 @@
 # DEFNA Resources
 
 <!--
-https://blog.europython.eu/post/170649247077/europython-2018-getting-ready | EuroPython Blog — EuroPython 2018: Getting ready
-
-https://pydata-conference-management.readthedocs.io/en/latest/
+https://twitter.com/djangocon/lists/speakers-2017
 
 https://www.youtube.com/user/PyDataTV/playlists | PyData - YouTube
 pygotham youtube - Google Search
 
+https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i57.1604j0j7&sourceid=chrome&ie=UTF-8 | list of pycons - Google Search
+https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list around PyCon · Scrunch
+
+http://uk.python.org
+https://blog.europython.eu | EuroPython Blog — EuroPython 2018: Getting ready
+https://inlandnorthwest.tech/
+
+Symposion
+https://pydata-conference-management.readthedocs.io/en/latest/
+https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
+https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
+https://github.com/pythonph/pycon-organizer-manual | pythonph/pycon-organizer-manual: RTD for organizing the yearly Python Conference in the Philippines
+
+https://python-conferences.slack.com/messages/@slackbot/
+https://python-confs-slack-invites.herokuapp.com/invite
+
 PyData Track
 http://2017.pyconuk.org/pydata
 
-http://uk.python.org/news/2017/08/23/pyconuk-keynotes-announced
-https://www.google.com/search?q=pycon+list&oq=pycon+list&gs_l=psy-ab.3..0i7i30k1l2.15712.17082.0.17376.8.7.0.0.0.0.190.602.0j4.4.0....0...1.1.64.psy-ab..5.1.116.-Ey_LFVwAUI | pycon list - Google Search
-http://2017.pyconuk.org/diversity-accessibility-inclusion
+PyCascades Welcome Wagon
+http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
 
-https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
--->
-
-<!--
-https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
+https://2018.djangocon.eu/grants/ | DjangoCon Europe 2018
+https://github.com/rixx/djangocon-europe-18-blog | rixx/djangocon-europe-18-blog
+https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
 
 https://twitter.com/stroopwafelsoc | Scrt Stroopwafel soc (@stroopwafelsoc) | Twitter
 
-Daniele for Cardiff, Baptiste for Budapest, Iacopo for Florence, Erik for DUTH
+https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
 
-https://2018.djangocon.eu/grants/ | DjangoCon Europe 2018
-http://dc18.cutebit.de/ | DjangoCon Europe 2018
-https://up.cutebit.de/HdwRFjub/+inline | djangoA4
-https://github.com/rixx/djangocon-europe-18-blog | rixx/djangocon-europe-18-blog
-https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
+Daniele for Cardiff, Baptiste for Budapest, Iacopo for Florence, Erik for DUTH
 -->
 
+
+
 <!--
-http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
+http://2017.pyconuk.org/diversity-accessibility-inclusion
 
-https://twitter.com/PyGotham/status/916768617869598720 | PyGotham on Twitter: "Next year, #PyGotham will take place October 5-7!"
+https://2016.djangocon.us/blog/2016/07/12/django-fellow-sprint/
+https://2016.djangocon.us/blog/2016/07/06/announcing-our-keynote-speakers/
+https://2016.djangocon.us/blog/2016/07/01/thank-you-eldarion-eldarion-cloud/
+https://2016.djangocon.us/blog/2016/06/22/day-1-orientation/
+https://2016.djangocon.us/blog/2016/06/21/meet-organizers/
+https://2016.djangocon.us/blog/2016/06/09/how-we-allocated-financial-aid/
 
-https://inlandnorthwest.tech/
+Diversity
+
+47% talks women
+https://2017.djangocon.us/news/proposal-statistics/
+
+https://2016.djangocon.us/diversity/ | Diversity
+https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/
+https://2016.djangocon.us/blog/2016/07/19/thank-you-diversity-sponsors/
+https://2016.djangocon.us/blog/2016/06/14/child-care-djangocon-us/
+https://2016.djangocon.us/blog/2016/06/07/assisted-listening-devices/
+40% talks by women
+https://2016.djangocon.us/blog/2016/05/30/early-bird-ticket-warning/
+
+https://2015.djangocon.us/schedule/presentation/72/ | Presentation: How to Practice Inclusion and Benefit Django | DjangoCon in Austin, TX
+
+30% talks by women
+https://2015.djangocon.us/blog/2015/07/20/proposal-stats/
 -->
 
 
@@ -47,12 +77,13 @@ DEFNA (Django Events Foundation North America)
 * [DEFNA Website](https://www.defna.org)
 * [DEFNA Announcements](https://www.defna.org/announcements)
 * [DEFNA GitHub](https://github.com/DEFNA)
+* [DEFNA Twitter](https://twitter.com/defnado)
 * [DEFNA Foundation GitHub](https://github.com/DEFNA/foundation)
 * [DEFNA Website? GitHub](https://github.com/DEFNA/defna.org)
 
 <!--
-https://github.com/djangocon/djangocon-us-docs
 https://github.com/DEFNA/foundation/blob/master/onboarding.md
+https://github.com/djangocon/djangocon-us-docs
 https://github.com/djangocon/djangocon-us-docs/blob/master/howtos/new-team-member.md
 -->
 
@@ -68,10 +99,10 @@ DjangoCon Organizers
 * [DjangoCon Organizers](https://groups.google.com/forum/#!forum/djangocon-organizers)
 
 <!--
-http://djangoconus2017.herokuapp.com/ | Join DjangoConUS2017 on Slack!
-https://github.com/avinassh/slackipy | avinassh/slackipy: Automate user invites to your Slack channel!
 https://djangoconus.slack.com
+http://djangoconus2017.herokuapp.com/ | Join DjangoConUS2017 on Slack!
 https://djangoconus2017.slack.com DjangoConUS2017 Slack
+https://github.com/avinassh/slackipy | avinassh/slackipy: Automate user invites to your Slack channel!
 -->
 
 Websites
@@ -85,32 +116,31 @@ DjangoCon US 2017 Feedback
 * ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
 
 <!--
-https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
-https://python-conferences.slack.com/messages/@slackbot/
-https://python-confs-slack-invites.herokuapp.com/invite
-
-https://www.google.com/search?q=list+of+pycons&oq=list+of+pycons&aqs=chrome..69i57.1604j0j7&sourceid=chrome&ie=UTF-8 | list of pycons - Google Search
-https://tech.scrunch.com/blog/influencer-list-around-pycon/ | Influencer list around PyCon · Scrunch
-
-http://heats.life/blog/2017/08/04/conferences
+https://jefftriplett.com/2018/djangocon-us-talks-i-d-like-to-see-2018-edition/
+https://www.laceyhenschel.com/blog/2018/4/19/2018-djangocon-us-talks-id-like-to-see | 2018 DjangoCon US Talks I'd Like to See — Lacey Williams Henschel
+https://gist.github.com/SaraDGore/3b998f94681c7f569491fd781dd59d98 | Talks I want to see at DjangoCon US
 DjangoCon US Talks I’d Like to See: 2017 Edition | Jeff Triplett
 https://jefftriplett.com/2017/django-talks-id-like-to-see
 https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8 | DjangoCon Talks Ideas
-https://twitter.com/djangocon/lists/speakers-2017
+
+http://heats.life/blog/2017/08/04/conferences
 
 https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
 https://atom509.wordpress.com/about/ | About | ATOM
 https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
 -->
 
+
+
 <!--
 https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
 
 https://twitter.com/mpirnat/status/729835027106762752?lang=en
 https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
-https://pycon.blogspot.com/2017/10/pycon-opens-financial-aid-applications.html | PyCon Opens Financial Aid Applications
-https://us.pycon.org/2017/financial-assistance/ | https://us.pycon.org/2017/financial-assistance/
 https://us.pycon.org/2018/sponsors/prospectus/ | Sponsorship Prospectus | PyCon 2018 in Cleveland, Ohio
+https://www.python.org/psf/sponsorship/sponsors/ | Python Software Foundation Sponsors | Python.org
+https://us.pycon.org/2018/sponsors/ | About PyCon Sponsors | PyCon 2018 in Cleveland, Ohio
+http://2018.pycon-au.org/news/call-for-sponsorship/ | PyCon AU 2018 | Call for Sponsors
 
 https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
 
@@ -120,39 +150,6 @@ https://2017.northbaypython.org/program/call-for-proposals#mentorship
 https://2017.northbaypython.org/sponsors/become-a-sponsor | North Bay Python | Become a Sponsor
 https://2017.northbaypython.org/static/assets/northbaypython_prospectus.pdf | Sponsorship prospectus - Google Docs
 https://2017.northbaypython.org/attend/accessibility-and-accommodations | North Bay Python | Accessibility and Accommodations
-
-https://www.python.org/psf/sponsorship/sponsors/ | Python Software Foundation Sponsors | Python.org
-https://us.pycon.org/2018/sponsors/ | About PyCon Sponsors | PyCon 2018 in Cleveland, Ohio
-
-http://2018.pycon-au.org/news/call-for-sponsorship/ | PyCon AU 2018 | Call for Sponsors
-
-PyCascades Welcome Wagon
--->
-
-<!--
-Diversity
-
-47% talks women
-https://2017.djangocon.us/news/proposal-statistics/
-
-https://2016.djangocon.us/diversity/ | Diversity
-https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/
-https://2016.djangocon.us/blog/2016/07/19/thank-you-diversity-sponsors/
-https://2016.djangocon.us/blog/2016/07/12/django-fellow-sprint/
-https://2016.djangocon.us/blog/2016/07/06/announcing-our-keynote-speakers/
-https://2016.djangocon.us/blog/2016/07/01/thank-you-eldarion-eldarion-cloud/
-https://2016.djangocon.us/blog/2016/06/22/day-1-orientation/
-https://2016.djangocon.us/blog/2016/06/21/meet-organizers/
-https://2016.djangocon.us/blog/2016/06/14/child-care-djangocon-us/
-https://2016.djangocon.us/blog/2016/06/09/how-we-allocated-financial-aid/
-https://2016.djangocon.us/blog/2016/06/07/assisted-listening-devices/
-40% talks by women
-https://2016.djangocon.us/blog/2016/05/30/early-bird-ticket-warning/
-
-https://2015.djangocon.us/schedule/presentation/72/ | Presentation: How to Practice Inclusion and Benefit Django | DjangoCon in Austin, TX
-
-30% talks by women
-https://2015.djangocon.us/blog/2015/07/20/proposal-stats/
 -->
 
 ## Python Software Foundation (PSF)
@@ -187,14 +184,10 @@ Django Software Foundation Individual Membership
 <!--
 http://www.positivepython.org/twitter.html | #positivepython
 
-https://www.djangoproject.com/weblog/2018/jan/22/2017-malcolm-tredinnick-prize-claude-paroz/ | 2017 Malcolm Tredinnick Memorial Prize awarded to Claude Paroz | Weblog | Django
-
 http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
 
 https://www.python.org/community/awards/psf-awards/#december-2017 | PSF Community Service Awards | Python.org
 https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
-
-http://pyfound.blogspot.com/2017/12/python-software-foundation-fellow.html | Python Software Foundation News: Python Software Foundation Fellow Members for Q4 2017
 
 https://www.djangoproject.com/weblog/ | News & Events | Django
 https://www.djangoproject.com/weblog/2016/aug/17/welcome-new-DSF-members/ | Welcome to the new members of the Django Software Foundation | Weblog | Django
