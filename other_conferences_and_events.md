@@ -59,7 +59,8 @@ PyCon International- Europe
 * [EuroPython 2017 Website](https://ep2017.europython.eu), [EuroPython GitHub](https://github.com/EuroPython), and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
 * [PyCon Italia Website](https://www.pycon.it), [Python Italia GitHub](https://github.com/pythonitalia), and [PyCon Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
 * [PyCon CZ Website](https://cz.pycon.org)
-* [PyCon Slovakia 2018 Website](https://2018.pycon.sk/sk/)
+* [PyCon Slovakia 2018 Website](https://2018.pycon.sk/sk)
+* [PyCon Ukraine 2018 Website](https://2018.uapycon.org)
 
 <!--
 https://www.meetup.com/LondonPython/ | London Python (London, United Kingdom) | Meetup
