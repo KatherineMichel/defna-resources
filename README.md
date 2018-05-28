@@ -160,6 +160,7 @@ https://2015.djangocon.us/blog/2015/07/20/proposal-stats/
 Python Software Foundation (PSF)
 * [PSF](https://www.python.org/psf), [PSF Blogspot](http://pyfound.blogspot.com), [PSF Twitter](https://twitter.com/ThePSF)
 * [Legacy PSF Website](http://legacy.python.org)
+* [PSF Bylaws](https://www.python.org/psf/bylaws)
 
 Python Software Foundation (PSF) and Django Software Foundation (DSF) People
 * [PSF Members](https://www.python.org/psf/members)
@@ -184,7 +185,7 @@ Django Software Foundation Individual Membership
 
 
 <!--
-https://twitter.com/JoniTrythall/following | People followed by Joni Trythall (@JoniTrythall) | Twitter
+http://www.positivepython.org/twitter.html | #positivepython
 
 https://www.djangoproject.com/weblog/2018/jan/22/2017-malcolm-tredinnick-prize-claude-paroz/ | 2017 Malcolm Tredinnick Memorial Prize awarded to Claude Paroz | Weblog | Django
 
@@ -250,8 +251,6 @@ PyLadies and PyLadies Remote
 
 ## Django Girls
 
-djangogirls twitter list - Google Search
-
 Django Girls
 * [Django Girl](https://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls) 
 
@@ -267,6 +266,8 @@ Django Girls- Help
 * [Django Girls Store](https://store.djangogirls.org)
 
 <!--
+djangogirls twitter list - Google Search
+
 http://blog.djangogirls.org
 http://blog.djangogirls.org/submit
 http://blog.djangogirls.org/post/137825610883/about-your-django-story
