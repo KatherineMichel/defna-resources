@@ -19,10 +19,20 @@ PyCon
 DjangoCon Australia
 * [DjangoCon Australia 2018 Website](http://2018.djangocon.com.au) and [DjangoCon Australia 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.com.au)
 
+<!--
+https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
+-->
+
 DjangoCon Europe
 * [DjangoCon Europe](https://djangocon.eu)
 * [DjangoCon Europe 2018 Website](https://2018.djangocon.eu) and [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
+
+<!--
+https://medium.com/@mxsash/the-deepest-secret-of-the-secret-society-of-the-stroopwafel-9d7cfca26c05 | The deepest secret of the Secret Society of the Stroopwafel
+https://twitter.com/mxsash/status/1000387993012768768 | Sasha 🐿🦄🏳️‍🌈 on Twitter: "If you saw me at @DjangoConEurope with a little bag and a strange stamp, asking questions like “stroopwafel?” or “want to join the secret society?”, here’s what it’s all about: The deepest secret of the Secret Society of the Stroopwafel: https://t.co/SnKWM92OHa #djangocon"
+https://twitter.com/stroopwafelsoc | Scrt Stroopwafel soc (@stroopwafelsoc) | Twitter
+-->
 
 Django Under the Hood
 * [Django Under the Hood](https://www.djangounderthehood.com), [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
@@ -69,6 +79,10 @@ PyCon International- Australia
 * [PyCon AU 2018 Website](http://2018.pycon-au.org) and [PyCon AU 2018 Website GitHub](https://github.com/pyconau/2018.pycon-au.org)
 * [PyCon AU 2017 Website](https://2017.pycon-au.org) and [PyCon AU 2017 Website GitHub](https://github.com/pyconau2017)
 
+<!--
+https://github.com/glasnt/pyconau-test
+-->
+
 PyCon International- Middle East and Asia
 * [PyDelhi GitHub](https://github.com/pydelhi) and [PyDelhi Website GitHub](https://github.com/pydelhi/conference)
 * [Pune PyCon GitHub](https://github.com/PyConPune/pune.pycon.org)
@@ -82,13 +96,9 @@ PyCon International- Africa
 * [Pycon Nigeria](https://pycon.ng)
 * [PyConZA](https://za.pycon.org)
 
-<!--
-https://github.com/glasnt/pyconau-test
--->
-
 GeoPython and PyData
 * [GeoPython 2018](http://2018.geopython.net)
-* [PyData](http://pydata.org), [PyData Twitter](https://twitter.com/pydata), and [PyData GitHub](https://github.com/pydata)
+* [PyData](http://pydata.org), [PyData Twitter](https://twitter.com/PyData), and [PyData GitHub](https://github.com/pydata)
 * [PyData Meetup](https://www.meetup.com/pro/pydata)
 * [PyData Seattle Meetup](https://www.meetup.com/pydata_seattle)
 * [PyData Berlin](https://github.com/pydataberlin)
