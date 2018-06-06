@@ -46,14 +46,12 @@ DjangoCon US 2017 Conference Wrap Up
 DjangoCon US 2017 Feedback
 * ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
 
-<!--
-https://jefftriplett.com/2018/djangocon-us-talks-i-d-like-to-see-2018-edition/
-https://www.laceyhenschel.com/blog/2018/4/19/2018-djangocon-us-talks-id-like-to-see | 2018 DjangoCon US Talks I'd Like to See — Lacey Williams Henschel
-https://gist.github.com/SaraDGore/3b998f94681c7f569491fd781dd59d98 | Talks I want to see at DjangoCon US
-DjangoCon US Talks I’d Like to See: 2017 Edition | Jeff Triplett
-https://jefftriplett.com/2017/django-talks-id-like-to-see
-https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8 | DjangoCon Talks Ideas
+Talks I'd Like to See
+* [Jeff Triplett 2018](https://jefftriplett.com/2018/djangocon-us-talks-i-d-like-to-see-2018-edition), [Jeff Triplett 2017](https://jefftriplett.com/2017/django-talks-id-like-to-see), and [Jeff Triplett 2016](https://jefftriplett.com/2016/djangocon-us-talks-id-like-to-see)
+* [Lacey Williams Henschel 2018](https://www.laceyhenschel.com/blog/2018/4/19/2018-djangocon-us-talks-id-like-to-see)
+* [Sara D Gore 2018](https://gist.github.com/SaraDGore/3b998f94681c7f569491fd781dd59d98)
 
+<!--
 http://heats.life/blog/2017/08/04/conferences
 
 https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
@@ -116,30 +114,3 @@ Django Girls- Help
 * [Django Girls Coach](http://coach.djangogirls.org)  
 * [Django Girls Resources](https://github.com/DjangoGirls/resources) 
 * [Django Girls Store](https://store.djangogirls.org)
-
-#### Mentors 
-
-<!--
-https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
-https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
-
-http://akaptur.com/blog/2014/09/11/rejected-pycon-proposals/ | Rejected PyCon Proposals - Allison Kaptur
--->
-
-Python and Django Conferences- Proposal Examples
-* Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
-* [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
-
-Python and Django Conferences- Speaker Mentors
-* [DjangoCon E.U. 2016 Call for Proposals/Speaking Mentors](https://2016.djangocon.eu/cfp)  
-* [DjangoCon E.U. 2015 Speaking Mentors](http://2015.djangocon.eu/proposals/speaker-mentors) 
-* [DjangoCon U.S. 2015 Call for Proposals](http://2015.djangocon.us/speaking/cfp)
-* [DjangoCon U.S. 2015 Speaking Mentors](https://2015.djangocon.us/speaking/mentors) 
-
-DjangoCon Talk Ideas
-* [DjangoCon Talk Ideas](https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8)
-
-Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
-* [Tweet Storm with Resources](https://twitter.com/laceynwilliams/status/693514103931801600)
-* [Slides](https://docs.google.com/presentation/d/1vgYS-STJl9epz7_RiRGSKnnf4vYi4rtaF3zbJc8S1yA/pub?start=false&loop=false&delayms=3000&slide=id.p)
-* [Replay](https://www.youtube.com/watch?v=OAQAXVU1jIo)
