@@ -46,11 +46,6 @@ DjangoCon US 2017 Conference Wrap Up
 DjangoCon US 2017 Feedback
 * ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
 
-Talks I'd Like to See
-* [Jeff Triplett 2018](https://jefftriplett.com/2018/djangocon-us-talks-i-d-like-to-see-2018-edition), [Jeff Triplett 2017](https://jefftriplett.com/2017/django-talks-id-like-to-see), and [Jeff Triplett 2016](https://jefftriplett.com/2016/djangocon-us-talks-id-like-to-see)
-* [Lacey Williams Henschel 2018](https://www.laceyhenschel.com/blog/2018/4/19/2018-djangocon-us-talks-id-like-to-see)
-* [Sara D Gore 2018](https://gist.github.com/SaraDGore/3b998f94681c7f569491fd781dd59d98)
-
 <!--
 http://heats.life/blog/2017/08/04/conferences
 
