@@ -3,7 +3,8 @@
 <!--
 Ideas for Improving Conferences
 
-https://github.com/erikr/lessobviouschecklist | erikr/lessobviouschecklist: The Less Obvious Conference Checklist
+https://medium.com/@mxsash | The track less travelled: why multi-track events work poorer for community talks
+https://github.com/mxsasha/lessobviouschecklist | erikr/lessobviouschecklist: The Less Obvious Conference Checklist
 
 http://ericholscher.com/blog/2018/feb/13/conference-mentorship/ | Conference Mentorship — Eric Holscher - Surfing in Kansas
 http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
@@ -16,6 +17,7 @@ https://dev.to/binarycodess/women-in-tech-we-need-you
 http://melissacollom.com/info/ | About — Melissa Collom
 https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me Offer Coaching to First-Time PyGotham Speakers
 
+https://code.likeagirl.io/on-conference-proposal-rejections-205f7fead68 | On conference proposal rejections – Code Like A Girl
 http://akaptur.com/blog/2014/09/11/rejected-pycon-proposals/ | Rejected PyCon Proposals - Allison Kaptur
 
 Code of Conduct Design
