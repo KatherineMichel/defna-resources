@@ -43,7 +43,8 @@ Python Conferences- Bay Area and California
 
 Python Conferences and Meetups- New York
 * [The New York Python Meetup Group](https://www.meetup.com/nycpython)
-* [PyGotham Website 2018](https://2018.pygotham.org), [PyGotham GitHub](https://github.com/PyGotham), [PyGotham Website GitHub](https://github.com/PyGotham/pygotham), [PyGotham Website GitLab 2017](https://gitlab.com/pygotham/2017)
+* [PyGotham Website 2018](https://2018.pygotham.org) and [PyGotham Website GitLab 2017](https://gitlab.com/pygotham/2017)
+* [PyGotham GitLab](https://gitlab.com/pygotham), [PyGotham GitHub](https://github.com/PyGotham), and [PyGotham Website GitHub](https://github.com/PyGotham/pygotham) 
 
 Python Conferences- More
 * [Florida PyCon](http://flpy.org) and [Florida PyCon Twitter](https://twitter.com/flpycon)
