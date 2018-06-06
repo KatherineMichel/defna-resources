@@ -100,6 +100,15 @@ Python- Members
 * [PSF Membership FAQ](https://www.python.org/psf/membership)
 * [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
+<!--
+https://www.python.org/community/ | Our Community | Python.org
+
+https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
+http://pyfound.blogspot.com.au/2015/02/enroll-as-psf-voting-member.html
+PSF Managing/Contributing Membership Self-Certification
+https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/formResponse
+-->
+
 ## Django Software Foundation
 
 Django Software Foundation
