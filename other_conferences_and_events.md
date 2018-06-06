@@ -29,6 +29,9 @@ DjangoCon Europe
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
 
 <!--
+https://github.com/rixx/djangocon-europe-18-blog | rixx/djangocon-europe-18-blog
+https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
+
 https://medium.com/@mxsash/the-deepest-secret-of-the-secret-society-of-the-stroopwafel-9d7cfca26c05 | The deepest secret of the Secret Society of the Stroopwafel
 https://twitter.com/mxsash/status/1000387993012768768 | Sasha 🐿🦄🏳️‍🌈 on Twitter: "If you saw me at @DjangoConEurope with a little bag and a strange stamp, asking questions like “stroopwafel?” or “want to join the secret society?”, here’s what it’s all about: The deepest secret of the Secret Society of the Stroopwafel: https://t.co/SnKWM92OHa #djangocon"
 https://twitter.com/stroopwafelsoc | Scrt Stroopwafel soc (@stroopwafelsoc) | Twitter
