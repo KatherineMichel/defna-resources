@@ -87,30 +87,3 @@ Django Software Foundation
 
 Django Software Foundation Individual Membership
 * [Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
-
-## PyLadies
-
-PyLadies and PyLadies Remote
-* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
-* [PyLadies Website GitHub](https://github.com/pyladies/pyladies)
-* [PyLadies Blog GitHub](https://github.com/pyladies/pyladies-blog)
-* [PyLadies Maintainers GitHub](https://github.com/pyladies/pyladies-maintainers)
-* [PyLadies Remote Twitter](https://twitter.com/pyladiesremote)
-* [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
-* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
-
-## Django Girls
-
-Django Girls
-* [Django Girl](https://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls) 
-
-Django Girls- Events and Cities
-* [Django Girls Events](https://djangogirls.org/events)
-* [Django Girls London](https://djangogirls.org/london)
-* [Django Girls Kansas City](https://djangogirls.org/kansascity)
-
-Django Girls- Help
-* [Django Girls Organize](http://organize.djangogirls.org)  
-* [Django Girls Coach](http://coach.djangogirls.org)  
-* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
-* [Django Girls Store](https://store.djangogirls.org)
