@@ -20,6 +20,8 @@ https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me O
 https://code.likeagirl.io/on-conference-proposal-rejections-205f7fead68 | On conference proposal rejections – Code Like A Girl
 http://akaptur.com/blog/2014/09/11/rejected-pycon-proposals/ | Rejected PyCon Proposals - Allison Kaptur
 
+http://heats.life/blog/2017/08/04/conferences
+
 Code of Conduct Design
 https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/ | HOWTO design a code of conduct for your community | Ada Initiative
 http://confcodeofconduct.com/ | Conference Code of Conduct
