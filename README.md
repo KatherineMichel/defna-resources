@@ -1,5 +1,30 @@
 # DEFNA Resources
 
+<!--
+Symposion
+https://pydata-conference-management.readthedocs.io/en/latest/
+https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
+https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
+
+* [PyCascades Welcome Wagon 2018 Read the Docs](http://pycascades-welcome-wagon.readthedocs.io) and [PyCascades Welcome Wagon 2018 GitHub](https://github.com/pycascades/welcome-wagon-2018)
+
+PyCascades Welcome Wagon
+http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
+
+http://pyladies-vancouver-online.readthedocs.io/en/latest/ | Welcome to PyLadies Vancouver! — PyLadies Vancouver documentation
+https://github.com/pyladies-vancouver/pyladies-vancouver | pyladies-vancouver/pyladies-vancouver: PyLadies Vancouver website
+https://github.com/Mariatta/webservice-pyladiesvan
+
+https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
+https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
+
+https://github.com/pythonph/pycon-organizer-manual | pythonph/pycon-organizer-manual: RTD for organizing the yearly Python Conference in the Philippines
+https://github.com/lorenanicole/pycon_organizers_manual | lorenanicole/pycon_organizers_manual
+
+https://python-conferences.slack.com/messages/@slackbot/
+https://python-confs-slack-invites.herokuapp.com/invite
+-->
+
 ## DEFNA
 
 DEFNA (Django Events Foundation North America)
