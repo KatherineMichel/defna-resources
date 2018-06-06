@@ -47,8 +47,6 @@ DjangoCon US 2017 Feedback
 * ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
 
 <!--
-http://heats.life/blog/2017/08/04/conferences
-
 https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
 https://atom509.wordpress.com/about/ | About | ATOM
 https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
