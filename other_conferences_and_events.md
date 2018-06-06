@@ -13,18 +13,16 @@ PyCon
 * [PyCon 2018 Website](https://us.pycon.org/2018)
 * [PyCon Website GitHub](https://github.com/PyCon/pycon)
 * [PyCon 2017 Website](https://us.pycon.org/2017)
-* [PyCon UK GitHub](https://github.com/PyconUK)
-
-<!--
-http://2017.pyconuk.org
--->
+* [PyCon UK](http://uk.python.org) and [PyCon UK GitHub](https://github.com/PyconUK)
+* [PyCon UK 2017](http://2017.pyconuk.org)
 
 DjangoCon Australia
 * [DjangoCon Australia 2018 Website](http://2018.djangocon.com.au) and [DjangoCon Australia 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.com.au)
 
 DjangoCon Europe
+* [DjangoCon Europe](https://djangocon.eu)
+* [DjangoCon Europe 2018 Website](https://2018.djangocon.eu) and [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
-* [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
 
 Django Under the Hood
 * [Django Under the Hood](https://www.djangounderthehood.com), [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
@@ -32,8 +30,6 @@ Django Under the Hood
 Python Conferences- Canada
 * [PyCanada](https://2017.pycon.ca) and [PyCanada GitHub](https://github.com/pyconca)
 * [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades), [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com), and [PyCascades Slack](http://pycascades-slack.herokuapp.com)
-* [PyCascades Welcome Wagon 2018 Read the Docs](http://pycascades-welcome-wagon.readthedocs.io) and [PyCascades Welcome Wagon 2018 GitHub](https://github.com/pycascades/welcome-wagon-2018)
-* [PyCascades Code of Conduct Hotline](https://github.com/cache-rules/coc-hotline)
 
 Python Conferences- Bay Area and California
 * [PyBay GitHub](https://github.com/pybay)
@@ -49,7 +45,7 @@ Python Conferences and Meetups- New York
 Python Conferences- More
 * [Florida PyCon](http://flpy.org) and [Florida PyCon Twitter](https://twitter.com/flpycon)
 * [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
-* [PyOhio GitHub](https://github.com/pyohio), [PyOhio Website GitHub](https://github.com/pyohio/pyohio-website), and [PyOhio Slack](https://slack.pyohio.org)
+* [PyOhio](www.pyohio.org), [PyOhio GitHub](https://github.com/pyohio), [PyOhio Website GitHub](https://github.com/pyohio/pyohio-website), and [PyOhio Slack](https://slack.pyohio.org)
 * [PyTennessee](https://www.pytennessee.org)
 * [PyTexas](https://www.pytexas.org)
 * [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
@@ -70,15 +66,15 @@ https://www.eventbrite.co.uk/e/djugl-django-user-group-london-tickets-3904833161
 
 PyCon International- Australia
 * [PyCon AU](https://pycon-au.org) and [PyCon AU GitHub](https://github.com/pyconau)
-* [PyCon AU 2017 Website](https://2017.pycon-au.org) and [PyCon AU 2017 Website GitHub](https://github.com/pyconau2017)
 * [PyCon AU 2018 Website](http://2018.pycon-au.org) and [PyCon AU 2018 Website GitHub](https://github.com/pyconau/2018.pycon-au.org)
+* [PyCon AU 2017 Website](https://2017.pycon-au.org) and [PyCon AU 2017 Website GitHub](https://github.com/pyconau2017)
 
 PyCon International- Middle East and Asia
 * [PyDelhi GitHub](https://github.com/pydelhi) and [PyDelhi Website GitHub](https://github.com/pydelhi/conference)
 * [Pune PyCon GitHub](https://github.com/PyConPune/pune.pycon.org)
 * [PyCon Israel](http://il.pycon.org)
 * [PyCon Pakistan Facebook](https://www.facebook.com/PyConPakistan)
-* [Python Philippines GitHub](https://github.com/pythonph)
+* [Python Philippines](https://pycon.python.ph) and [Python Philippines GitHub](https://github.com/pythonph)
 
 PyCon International- Africa
 * [Python Africa](https://africa.python.org)
