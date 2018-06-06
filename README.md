@@ -1,6 +1,19 @@
 # DEFNA Resources
 
 <!--
+https://late.am/post
+
+People
+https://www.jonafato.com | Tips for Conference Sponsors | jonafato
+https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
+https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
+
+https://twitter.com/pyconcharlas
+
+https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
+
+https://pycon.blogspot.com/2018/04/how-why-cities-and-dates-are-selected.html | How & why cities and dates are selected for Pycon
+
 Symposion
 https://pydata-conference-management.readthedocs.io/en/latest/
 https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
@@ -101,12 +114,26 @@ Python- Members
 * [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
+http://www.positivepython.org/twitter.html | #positivepython
+
+http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
+
 https://www.python.org/community/ | Our Community | Python.org
+https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
 
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
 http://pyfound.blogspot.com.au/2015/02/enroll-as-psf-voting-member.html
 PSF Managing/Contributing Membership Self-Certification
-https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/formResponse
+https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/viewform
+
+Grants
+http://pyfound.blogspot.com/2017/12/the-psfs-grant-program-policies-and.html | Python Software Foundation News: The PSF’s Grant Program Policies and Preferences
+https://www.python.org/psf/grants/
+Python Software Foundation News: User groups: the PSF can help cover your meetup.com fees
+http://pyfound.blogspot.com/2012/03/user-groups-psf-can-help-cover-your.html | 
+https://www.python.org/psf/committees/#grants-work-group
+
+http://kit.pyladies.com/en/latest/prospective/ | Prospective Organizers — PyLadies Organizer Handbook
 -->
 
 ## Django Software Foundation
