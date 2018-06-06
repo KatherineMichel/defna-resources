@@ -50,6 +50,10 @@ DjangoCon US 2017 Feedback
 https://www.flickr.com/photos/144080672@N05/page3 | DjangoCon US | Flickr
 https://atom509.wordpress.com/about/ | About | ATOM
 https://www.instagram.com/atomimages/ | Atom Images (@atomimages) • Instagram photos and videos
+
+Py Event Photos, including NSFW
+https://www.flickr.com/photos/kennethreitz/albums
+https://www.flickr.com/photos/kennethreitz | Kenneth Reitz | Flickr
 -->
 
 ## Python Software Foundation (PSF)
@@ -75,6 +79,7 @@ Python- Members
 
 Django Software Foundation
 * [DSF Community](https://www.djangoproject.com/community)
+* [DSF News & Events](https://www.djangoproject.com/weblog)
 * [DSF Fundraising](https://www.djangoproject.com/fundraising)
 * [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
 
