@@ -43,6 +43,7 @@ Branding and Swag
 Special Issue
 * [Why DjangoCon US?](https://2017.djangocon.us/why-djangocon-us)
 * [Convince Your Boss Example](https://rosenfeldmedia.com/eux2018/updates/convince-your-boss)
+* [How to Pitch Your Manager Example](https://2017.northbaypython.org/attend/business-case)
 
 Offer to Help
 * [Offer from Lindsey Dragun](https://twitter.com/techevangelista/status/944321280857268225)
