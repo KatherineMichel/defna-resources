@@ -1,5 +1,9 @@
 # DjangoCon US Website
 
+## Archive
+
+* [DjangoCon Archive Project](https://github.com/djangocon/djangocon-archive-project)
+
 ## DjangoCon US 2018 Website Notes
 
 My Role: 2017, 2018 Website Chair and Maintainer (Website and Technical Lead): https://github.com/djangocon/djangocon-us-docs/blob/0afd4cfc6fb17ffddf732cf3b7a6189f3312b748/volunteers/roles.md
@@ -28,6 +32,7 @@ Content Updates
 Branding and Swag
 * [Style Guide](https://2018.djangocon.us/styleguide)
 * [Logos and Media GitHub](https://github.com/djangocon/resources)
+* [Style Guide Logo Files](https://2018.djangocon.us/styleguide/#logo-files)
 * [Static Images GitHub](https://github.com/djangocon/2018.djangocon.us/tree/master/static/img)
 * [Banner Design GitHub](https://github.com/djangocon/2018.djangocon.us/issues/59)
 * [Slide Cover GitHub](https://github.com/djangocon/2018.djangocon.us/issues/57)
