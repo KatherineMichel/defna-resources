@@ -131,7 +131,13 @@ PyLadies and PyLadies Remote
 ## Django Girls
 
 Django Girls
-* [Django Girl](https://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls) 
+* [Django Girls](https://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls) 
+* [Django Girls Blog](http://blog.djangogirls.org)
+* [Django Girls Impact Report 2016-2017](https://djangogirls.org/2016-2017)
+
+Promotion
+* [Django Girls Flickr](https://www.flickr.com/photos/djangogirls)
+* [Django Girls Promotion](https://organize.djangogirls.org/promotion)
 
 Django Girls- Events and Cities
 * [Django Girls Events](https://djangogirls.org/events)
