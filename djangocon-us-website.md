@@ -48,6 +48,9 @@ Mockup
 CFP
 * [CFP Blog Post](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website)
 
+Colophon
+* [Colophon Example](https://2018.pycon-au.org/colophon)
+
 ToDo
 * Review website/updates
 * Add any new contributors
