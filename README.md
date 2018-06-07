@@ -52,8 +52,6 @@ DEFNA (Django Events Foundation North America)
 https://github.com/DEFNA/foundation/blob/master/onboarding.md
 https://github.com/djangocon/djangocon-us-docs/blob/master/howtos/new-team-member.md
 https://github.com/djangocon/djangocon-us-docs
-https://github.com/djangocon/djangocon-archive-project
-https://2018.djangocon.us/styleguide/#logo-files | Style Guide
 -->
 
 501(c)(3)
