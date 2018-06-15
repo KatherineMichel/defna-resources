@@ -27,7 +27,6 @@ https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 ye
 
 DjangoCon Europe
 * [DjangoCon Europe](https://djangocon.eu)
-* [DjangoCon YouTube](https://www.youtube.com/user/djangoconeurope/videos)
 * [DjangoCon Europe 2018 Website](https://2018.djangocon.eu) and [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
 
@@ -74,7 +73,8 @@ https://twitter.com/pycolorado
 
 PyCon International- Western Europe
 * [EuroPython Society](http://www.europython-society.org)
-* [EuroPython 2018 Website](https://ep2018.europython.eu), [EuroPython 2017 Website](https://ep2017.europython.eu) and [EuroPython Blog](https://blog.europython.eu)
+* [EuroPython](https://europython.eu)
+* [EuroPython 2018 Website](https://ep2018.europython.eu), [EuroPython 2017 Website](https://ep2017.europython.eu), and [EuroPython Blog](https://blog.europython.eu)
 * [EuroPython GitHub](https://github.com/EuroPython), and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
 * [PyCon Italia Website](https://www.pycon.it), [Python Italia GitHub](https://github.com/pythonitalia), and [PyCon Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
 * [PyLondinium](https://pylondinium.org)
@@ -112,11 +112,10 @@ PyCon International- Africa
 * [PyConZA](https://za.pycon.org)
 
 GeoPython and PyData- Major Events
+* [PyData Events](https://pydata.org/events.html) and [PyData Past Events](https://pydata.org/past-events.html)
 * [GeoPython](http://www.geopython.net) and [GeoPython GitHub](https://github.com/geopython)
 * [GeoPython 2018](http://2018.geopython.net)
 * [PyData](http://pydata.org), [PyData Twitter](https://twitter.com/PyData), and [PyData GitHub](https://github.com/pydata)
-* [PyData YouTube](https://www.youtube.com/user/PyDataTV/playlists)
-* [PyData Events](https://pydata.org/events.html) and [PyData Past Events](https://pydata.org/past-events.html)
 * [SciPy Website](https://conference.scipy.org)
 * [SciPy 2018 Website](https://scipy2018.scipy.org)
 * [EuroSciPy Website](https://www.euroscipy.org)
