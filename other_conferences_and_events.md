@@ -11,9 +11,11 @@
 PyCon
 * [PyCon](http://www.pycon.org) and [PyCon GitHub](https://github.com/PyCon)
 * [PyCon 2018 Website](https://us.pycon.org/2018)
+* [PyCon 2018 YouTube](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos)
 * [PyCon Website GitHub](https://github.com/PyCon/pycon)
 * [PyCon 2017 Website](https://us.pycon.org/2017)
 * [PyCon UK](http://uk.python.org) and [PyCon UK GitHub](https://github.com/PyconUK)
+* [PyCon UK 2018](https://2018.pyconuk.org)
 * [PyCon UK 2017](http://2017.pyconuk.org)
 
 DjangoCon Australia
@@ -25,6 +27,7 @@ https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 ye
 
 DjangoCon Europe
 * [DjangoCon Europe](https://djangocon.eu)
+* [DjangoCon YouTube](https://www.youtube.com/user/djangoconeurope/videos)
 * [DjangoCon Europe 2018 Website](https://2018.djangocon.eu) and [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
 
@@ -43,16 +46,17 @@ Django Under the Hood
 Python Conferences- Canada
 * [PyCanada](https://2017.pycon.ca) and [PyCanada GitHub](https://github.com/pyconca)
 * [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades), [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com), and [PyCascades Slack](http://pycascades-slack.herokuapp.com)
+* [PyCascades 2019 Website](https://2019.pycascades.com)
 
 Python Conferences- Bay Area and California
-* [PyBay GitHub](https://github.com/pybay)
-* [North Bay Python Website](https://2017.northbaypython.org) and [North Bay Python Website GitHub](https://github.com/northbaypython/website)
+* [PyBay](https://pybay.com) and [PyBay GitHub](https://github.com/pybay)
+* [North Bay Python 2017 Website](https://2017.northbaypython.org) and [North Bay Python Website GitHub](https://github.com/northbaypython/website)
 * [Bay Bridge Python](http://baybridgepython.org), [Bay Bridge Python GitHub](https://github.com/baybridgepython), and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
 * [San Diego Python GitHub](http://www.pythonsd.org) and [San Diego Python GitHub](https://github.com/pythonsd)
 
 Python Conferences and Meetups- New York
 * [The New York Python Meetup Group](https://www.meetup.com/nycpython)
-* [PyGotham Website 2018](https://2018.pygotham.org) and [PyGotham Website GitLab 2017](https://gitlab.com/pygotham/2017)
+* [PyGotham 2019 Website](https://2019.pygotham.org), [PyGotham 2018 Website](https://2018.pygotham.org), and [PyGotham Website GitLab 2017](https://gitlab.com/pygotham/2017)
 * [PyGotham GitLab](https://gitlab.com/pygotham), [PyGotham GitHub](https://github.com/PyGotham), and [PyGotham Website GitHub](https://github.com/PyGotham/pygotham) 
 
 Python Conferences- More
@@ -64,10 +68,18 @@ Python Conferences- More
 * [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
 * [Puget Sound Python Twitter](https://twitter.com/ps_python) and [Puget Sound Python Slack](http://pugetsoundpython-slack.herokuapp.com)
 
-PyCon International- Europe
+<!--
+https://twitter.com/pycolorado
+-->
+
+PyCon International- Western Europe
 * [EuroPython Society](http://www.europython-society.org)
-* [EuroPython 2017 Website](https://ep2017.europython.eu), [EuroPython GitHub](https://github.com/EuroPython), and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
+* [EuroPython 2018 Website](https://ep2018.europython.eu), [EuroPython 2017 Website](https://ep2017.europython.eu) and [EuroPython Blog](https://blog.europython.eu)
+* [EuroPython GitHub](https://github.com/EuroPython), and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
 * [PyCon Italia Website](https://www.pycon.it), [Python Italia GitHub](https://github.com/pythonitalia), and [PyCon Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
+* [PyLondinium](https://pylondinium.org)
+
+PyCon International- Eastern Europe
 * [PyCon CZ Website](https://cz.pycon.org)
 * [PyCon Slovakia 2018 Website](https://2018.pycon.sk/sk)
 * [PyCon Ukraine 2018 Website](https://2018.uapycon.org)
@@ -99,17 +111,26 @@ PyCon International- Africa
 * [Pycon Nigeria](https://pycon.ng)
 * [PyConZA](https://za.pycon.org)
 
-GeoPython and PyData
+GeoPython and PyData- Major Events
+* [GeoPython](http://www.geopython.net) and [GeoPython GitHub](https://github.com/geopython)
 * [GeoPython 2018](http://2018.geopython.net)
 * [PyData](http://pydata.org), [PyData Twitter](https://twitter.com/PyData), and [PyData GitHub](https://github.com/pydata)
+* [PyData YouTube](https://www.youtube.com/user/PyDataTV/playlists)
+* [PyData Events](https://pydata.org/events.html) and [PyData Past Events](https://pydata.org/past-events.html)
+* [SciPy Website](https://conference.scipy.org)
+* [SciPy 2018 Website](https://scipy2018.scipy.org)
+* [EuroSciPy Website](https://www.euroscipy.org)
+* [JupyterCon](https://conferences.oreilly.com/jupyter)
+
+PyData- Regional Events and Meetups
 * [PyData Meetup](https://www.meetup.com/pro/pydata)
 * [PyData Seattle Meetup](https://www.meetup.com/pydata_seattle)
-* [PyData Berlin](https://github.com/pydataberlin)
+* [PyData Berlin GitHub](https://github.com/pydataberlin)
 * [PyData Dublin](https://pydatadublin.github.io)
-* [PyData Edinburgh](https://twitter.com/PyDataEdinburgh)
+* [PyData Edinburgh Twitter](https://twitter.com/PyDataEdinburgh)
 * [PyData London](http://london.pydata.org) and [PyData London GitHub](https://github.com/PyDataLondon)
 * [PyData Spain GitHub](https://github.com/python-spain)
-* [SciPy 2018 Website](https://scipy2018.scipy.org)
+* [SciPy LA](https://conf.scipyla.org)
 
 <!--
 https://github.com/pydata/conf_site
