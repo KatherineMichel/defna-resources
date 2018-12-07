@@ -24,27 +24,24 @@ Countries and Territories
 * [PyLadies Handbook](http://kit.pyladies.com/en/stable)
 * [Python Organizers Resources](https://github.com/python-organizers/resources) and [Mariatta's Tweet](https://twitter.com/mariatta/status/1070094847946588160)
 
+Mariatta
+* [Talk Proposals by Mariatta](https://talk-talk-talk.readthedocs.io/en/latest) and [Talk Proposals by Mariatta GitHub](https://github.com/Mariatta/talk-talk-talk)
+* [PyCascades Welcome Wagon 2018 Read the Docs](http://pycascades-welcome-wagon.readthedocs.io) and [PyCascades Welcome Wagon 2018 GitHub](https://github.com/pycascades/welcome-wagon-2018)
+* [PyLadies Vancouver Docs](http://pyladies-vancouver-online.readthedocs.io/en/latest) and [PyLadies Vancouver Docs GitHub](https://github.com/pyladies-vancouver/pyladies-vancouver)
+
 <!--
+PyCascades Volunteer Sign Up
+http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
+
+
 https://github.com/DEFNA/foundation/blob/master/onboarding.md
 
 https://github.com/djangocon/djangocon-us-docs/blob/master/howtos/new-team-member.md
-
-https://github.com/Mariatta/talk-talk-talk | Mariatta/talk-talk-talk: Talk Proposals by Mariatta
-https://talk-talk-talk.readthedocs.io/en/latest/ | Talk Proposals by Mariatta — talk-talk-talk documentation
-
-* [PyCascades Welcome Wagon 2018 Read the Docs](http://pycascades-welcome-wagon.readthedocs.io) and [PyCascades Welcome Wagon 2018 GitHub](https://github.com/pycascades/welcome-wagon-2018)
-
-PyCascades Welcome Wagon
-http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
 
 Symposion
 https://pydata-conference-management.readthedocs.io/en/latest/
 https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
 https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
-
-http://pyladies-vancouver-online.readthedocs.io/en/latest/ | Welcome to PyLadies Vancouver! — PyLadies Vancouver documentation
-https://github.com/pyladies-vancouver/pyladies-vancouver | pyladies-vancouver/pyladies-vancouver: PyLadies Vancouver website
-https://github.com/Mariatta/webservice-pyladiesvan
 
 https://github.com/pythonph/pycon-organizer-manual | pythonph/pycon-organizer-manual: RTD for organizing the yearly Python Conference in the Philippines
 https://github.com/lorenanicole/pycon_organizers_manual | lorenanicole/pycon_organizers_manual
@@ -197,6 +194,10 @@ Django Software Foundation
 
 Django Software Foundation Individual Membership
 * [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
+
+<!--
+https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/ | Fret Free -- Introduction to Django and the Django Software Foundation
+-->
 
 ## PyLadies
 
