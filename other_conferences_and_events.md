@@ -39,6 +39,7 @@ PyCon UK
 
 DjangoCon Australia
 * [DjangoCon Australia 2018 Website](http://2018.djangocon.com.au) and [DjangoCon Australia 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.com.au)
+* [DjangoCon Australia 2017 Website](http://2017.djangocon.com.au) and [DjangoCon Australia 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.com.au)
 
 <!--
 https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
