@@ -51,6 +51,9 @@ DjangoCon Europe
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
 * [DjangoCon Europe 2016 Website](https://2016.djangocon.eu)
 
+DjangoCon Europe Photos
+* [DjangoCon Europe Photos (Bartek Pawlik)](https://www.flickr.com/photos/140681500@N07/albums)
+
 <!--
 https://github.com/rixx/djangocon-europe-18-blog | rixx/djangocon-europe-18-blog
 https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
