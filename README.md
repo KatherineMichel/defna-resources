@@ -8,30 +8,6 @@ PyCon Charlas
 https://twitter.com/NaomiCeder/status/921564258369986560 | Naomi Ceder on Twitter: "Si alguien quiere ayudarme a organizar (o dar) charlas en español en PyCon US, por favor DM me o envía un email a naomi<at>python dot org"
 https://twitter.com/pyconcharlas/status/971460532573175809 | PyCon Charlas on Twitter: "¿No vas a la @pycon y por eso no puedes proponer una #PyConCharla? Necesitamos mentores que ayuden asesorando a los interesados en proponer una charla, si te deseas colaborar escríbenos a pycon.charlas@gmail.com https://t.co/IF5ZbgHolx… https://t.co/VEQgW6F3hR"
   
-https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
-
-https://pycon.blogspot.com/2018/04/how-why-cities-and-dates-are-selected.html | How & why cities and dates are selected for Pycon
-
-Symposion
-https://pydata-conference-management.readthedocs.io/en/latest/
-https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
-https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
-
-* [PyCascades Welcome Wagon 2018 Read the Docs](http://pycascades-welcome-wagon.readthedocs.io) and [PyCascades Welcome Wagon 2018 GitHub](https://github.com/pycascades/welcome-wagon-2018)
-
-PyCascades Welcome Wagon
-http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
-
-http://pyladies-vancouver-online.readthedocs.io/en/latest/ | Welcome to PyLadies Vancouver! — PyLadies Vancouver documentation
-https://github.com/pyladies-vancouver/pyladies-vancouver | pyladies-vancouver/pyladies-vancouver: PyLadies Vancouver website
-https://github.com/Mariatta/webservice-pyladiesvan
-
-https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
-https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
-
-https://github.com/pythonph/pycon-organizer-manual | pythonph/pycon-organizer-manual: RTD for organizing the yearly Python Conference in the Philippines
-https://github.com/lorenanicole/pycon_organizers_manual | lorenanicole/pycon_organizers_manual
-
 https://python-conferences.slack.com/messages/@slackbot/
 https://python-confs-slack-invites.herokuapp.com/invite
 -->
@@ -55,8 +31,6 @@ Countries and Territories
 ## Organizing Docs
 
 <!--
-http://kit.pyladies.com/en/latest/prospective/ | Prospective Organizers — PyLadies Organizer Handbook
-
 https://github.com/DEFNA/event-organization-docs
 https://defna.gitbook.io/handbook/ | DEFNA Event Organization Docs - DEFNA Event Organization Handbook
 
@@ -66,6 +40,40 @@ https://github.com/djangocon/djangocon-us-docs
 https://github.com/djangocon/djangocon-us-docs/blob/master/howtos/new-team-member.md
 
 https://docs.google.com/document/d/1mZWwrpJYU5ZsZ_Mv6AIzop-eLsA7_rxejvwamDnZSkE/edit#heading=h.6b8gpd4m6ji8 | Volunteer Handbook: DjangoCon US 2018 - Google Docs
+
+https://github.com/python-organizers/resources
+https://twitter.com/mariatta/status/1070094847946588160
+
+https://media.readthedocs.org/pdf/pyladies-kit/latest/pyladies-kit.pdf | pyladies-kit.pdf
+http://kit.pyladies.com/en/stable/ | PyLadies — PyLadies Handbook 2.0.4 documentation
+http://kit.pyladies.com/en/latest/prospective/ | Prospective Organizers — PyLadies Organizer Handbook
+
+https://github.com/Mariatta/talk-talk-talk | Mariatta/talk-talk-talk: Talk Proposals by Mariatta
+https://talk-talk-talk.readthedocs.io/en/latest/ | Talk Proposals by Mariatta — talk-talk-talk documentation
+
+* [PyCascades Welcome Wagon 2018 Read the Docs](http://pycascades-welcome-wagon.readthedocs.io) and [PyCascades Welcome Wagon 2018 GitHub](https://github.com/pycascades/welcome-wagon-2018)
+
+PyCascades Welcome Wagon
+http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
+
+https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
+
+https://pycon.blogspot.com/2018/04/how-why-cities-and-dates-are-selected.html | How & why cities and dates are selected for Pycon
+
+Symposion
+https://pydata-conference-management.readthedocs.io/en/latest/
+https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
+https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
+
+http://pyladies-vancouver-online.readthedocs.io/en/latest/ | Welcome to PyLadies Vancouver! — PyLadies Vancouver documentation
+https://github.com/pyladies-vancouver/pyladies-vancouver | pyladies-vancouver/pyladies-vancouver: PyLadies Vancouver website
+https://github.com/Mariatta/webservice-pyladiesvan
+
+https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
+https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
+
+https://github.com/pythonph/pycon-organizer-manual | pythonph/pycon-organizer-manual: RTD for organizing the yearly Python Conference in the Philippines
+https://github.com/lorenanicole/pycon_organizers_manual | lorenanicole/pycon_organizers_manual
 -->
 
 ## Grant Opportunities
@@ -153,18 +161,20 @@ Python- Members
 * [PSF Membership FAQ](https://www.python.org/psf/membership)
 * [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
+Positive Python
+* [#positivepython](http://www.positivepython.org/twitter.html)
+
 <!--
-http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
-
-http://www.positivepython.org/twitter.html | #positivepython
-
 https://www.python.org/community/ | Our Community | Python.org
 https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
 
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
+
 http://pyfound.blogspot.com.au/2015/02/enroll-as-psf-voting-member.html
 PSF Managing/Contributing Membership Self-Certification
 https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/viewform
+
+http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
 -->
 
 ## Django Software Foundation
@@ -176,4 +186,4 @@ Django Software Foundation
 * [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
 
 Django Software Foundation Individual Membership
-* [Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
+* [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
