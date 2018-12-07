@@ -1,5 +1,12 @@
 # Conferences
 
+<!--
+People
+https://www.jonafato.com | Tips for Conference Sponsors | jonafato
+https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
+https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
+-->
+
 ## Finding Events
 
 * [Python Conferences Repo](https://github.com/python-organizers/conferences)
@@ -8,12 +15,24 @@
 
 ## Events and Meetups
 
-PyCon
+PyCon- US
 * [PyCon](http://www.pycon.org) and [PyCon GitHub](https://github.com/PyCon)
-* [PyCon 2018 Website](https://us.pycon.org/2018)
+* [PyCon 2019 Website](https://us.pycon.org/2019), [PyCon 2018 Website](https://us.pycon.org/2018), and [PyCon 2017 Website](https://us.pycon.org/2017)
 * [PyCon 2018 YouTube](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos)
 * [PyCon Website GitHub](https://github.com/PyCon/pycon)
-* [PyCon 2017 Website](https://us.pycon.org/2017)
+
+<!--
+https://us.pycon.org/2018/schedule
+https://us.pycon.org/2017/schedule
+https://us.pycon.org/2016/schedule
+https://us.pycon.org/2015/schedule
+https://us.pycon.org/2014/schedule/talks
+https://us.pycon.org/2013/schedule/talks
+https://us.pycon.org/2012/schedule
+https://us.pycon.org/2011/schedule
+-->
+
+PyCon UK
 * [PyCon UK](http://uk.python.org) and [PyCon UK GitHub](https://github.com/PyconUK)
 * [PyCon UK 2018](https://2018.pyconuk.org)
 * [PyCon UK 2017](http://2017.pyconuk.org)
@@ -29,6 +48,7 @@ DjangoCon Europe
 * [DjangoCon Europe](https://djangocon.eu)
 * [DjangoCon Europe 2018 Website](https://2018.djangocon.eu) and [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
+* [DjangoCon Europe 2016 Website](https://2016.djangocon.eu)
 
 <!--
 https://github.com/rixx/djangocon-europe-18-blog | rixx/djangocon-europe-18-blog
@@ -43,7 +63,7 @@ Django Under the Hood
 * [Django Under the Hood](https://www.djangounderthehood.com), [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
 
 Python Conferences- Canada
-* [PyCanada](https://2017.pycon.ca) and [PyCanada GitHub](https://github.com/pyconca)
+* [PyCanada 2018](https://2018.pycon.ca), [PyCanada 2017](https://2017.pycon.ca), and [PyCanada GitHub](https://github.com/pyconca)
 * [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades), [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com), and [PyCascades Slack](http://pycascades-slack.herokuapp.com)
 * [PyCascades 2019 Website](https://2019.pycascades.com)
 
@@ -73,9 +93,9 @@ https://twitter.com/pycolorado
 
 PyCon International- Western Europe
 * [EuroPython Society](http://www.europython-society.org)
-* [EuroPython](https://europython.eu)
-* [EuroPython 2018 Website](https://ep2018.europython.eu), [EuroPython 2017 Website](https://ep2017.europython.eu), and [EuroPython Blog](https://blog.europython.eu)
-* [EuroPython GitHub](https://github.com/EuroPython), and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
+* [EuroPython](https://europython.eu) and [EuroPython Blog](https://blog.europython.eu)
+* [EuroPython 2018 Website](https://ep2018.europython.eu), [EuroPython 2017 Website](https://ep2017.europython.eu), and [EuroPython 2016 Website](https://ep2016.europython.eu)
+* [EuroPython GitHub](https://github.com/EuroPython) and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
 * [PyCon Italia Website](https://www.pycon.it), [Python Italia GitHub](https://github.com/pythonitalia), and [PyCon Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
 * [PyLondinium](https://pylondinium.org)
 
@@ -101,9 +121,11 @@ https://github.com/glasnt/pyconau-test
 PyCon International- Middle East and Asia
 * [PyDelhi GitHub](https://github.com/pydelhi) and [PyDelhi Website GitHub](https://github.com/pydelhi/conference)
 * [Pune PyCon GitHub](https://github.com/PyConPune/pune.pycon.org)
+* [Python India GitHub](https://github.com/pythonindia)
 * [PyCon Israel](http://il.pycon.org)
 * [PyCon Pakistan Facebook](https://www.facebook.com/PyConPakistan)
 * [Python Philippines](https://pycon.python.ph) and [Python Philippines GitHub](https://github.com/pythonph)
+* [PyCon Taiwan GitHub](https://github.com/pycontw)
 
 PyCon International- Africa
 * [Python Africa](https://africa.python.org)
@@ -112,7 +134,7 @@ PyCon International- Africa
 * [PyConZA](https://za.pycon.org)
 
 GeoPython and PyData- Major Events
-* [PyData Events](https://pydata.org/events.html) and [PyData Past Events](https://pydata.org/past-events.html)
+* [PyData Events](https://pydata.org/events.html), [PyData Past Events](https://pydata.org/past-events.html), and [PyData Twitter](https://twitter.com/pydata)
 * [GeoPython](http://www.geopython.net) and [GeoPython GitHub](https://github.com/geopython)
 * [GeoPython 2018](http://2018.geopython.net)
 * [PyData](http://pydata.org), [PyData Twitter](https://twitter.com/PyData), and [PyData GitHub](https://github.com/pydata)
