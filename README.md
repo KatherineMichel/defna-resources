@@ -30,23 +30,16 @@ Countries and Territories
 
 ## Organizing Docs
 
-<!--
-https://github.com/DEFNA/event-organization-docs
-https://defna.gitbook.io/handbook/ | DEFNA Event Organization Docs - DEFNA Event Organization Handbook
+* [DEFNA Event Organization Docs](https://github.com/DEFNA/event-organization-docs) and [DEFNA Event Organization Handbook GitBook](https://defna.gitbook.io/handbook)
+* [DjangoCon US Docs](https://github.com/djangocon/djangocon-us-docs)
+* [DjangoCon US 2018 Volunteer Handbook](https://docs.google.com/document/d/1mZWwrpJYU5ZsZ_Mv6AIzop-eLsA7_rxejvwamDnZSkE/edit#heading=h.6b8gpd4m6ji8)
+* [PyLadies Handbook](http://kit.pyladies.com/en/stable)
+* [Python Organizers Resources](https://github.com/python-organizers/resources) and [Mariatta's Tweet](https://twitter.com/mariatta/status/1070094847946588160)
 
+<!--
 https://github.com/DEFNA/foundation/blob/master/onboarding.md
 
-https://github.com/djangocon/djangocon-us-docs
 https://github.com/djangocon/djangocon-us-docs/blob/master/howtos/new-team-member.md
-
-https://docs.google.com/document/d/1mZWwrpJYU5ZsZ_Mv6AIzop-eLsA7_rxejvwamDnZSkE/edit#heading=h.6b8gpd4m6ji8 | Volunteer Handbook: DjangoCon US 2018 - Google Docs
-
-https://github.com/python-organizers/resources
-https://twitter.com/mariatta/status/1070094847946588160
-
-https://media.readthedocs.org/pdf/pyladies-kit/latest/pyladies-kit.pdf | pyladies-kit.pdf
-http://kit.pyladies.com/en/stable/ | PyLadies — PyLadies Handbook 2.0.4 documentation
-http://kit.pyladies.com/en/latest/prospective/ | Prospective Organizers — PyLadies Organizer Handbook
 
 https://github.com/Mariatta/talk-talk-talk | Mariatta/talk-talk-talk: Talk Proposals by Mariatta
 https://talk-talk-talk.readthedocs.io/en/latest/ | Talk Proposals by Mariatta — talk-talk-talk documentation
@@ -79,17 +72,14 @@ https://github.com/lorenanicole/pycon_organizers_manual | lorenanicole/pycon_org
 ## Grant Opportunities
 
 * [DEFNA Grants](https://www.defna.org/grants)
+* [DEFNA Semester Grants Report](https://www.defna.org/announcements/2018/9/6/semester-grants-report)
 * [PSF Grants](https://www.python.org/psf/grants)
+* [PSF Grants Work Group](https://www.python.org/psf/committees/#grants-work-group)
+* ["The PSF’s Grant Program Policies and Preferences"](http://pyfound.blogspot.com/2017/12/the-psfs-grant-program-policies-and.html)
+* ["User groups: the PSF can help cover your meetup.com fees"](http://pyfound.blogspot.com/2012/03/user-groups-psf-can-help-cover-your.html)
 
 <!--
-https://www.defna.org/announcements/2018/9/6/semester-grants-report
-
 https://wiki.python.org/moin/FiscalSponsorship | FiscalSponsorship - Python Wiki
-
-http://pyfound.blogspot.com/2017/12/the-psfs-grant-program-policies-and.html | Python Software Foundation News: The PSF’s Grant Program Policies and Preferences
-Python Software Foundation News: User groups: the PSF can help cover your meetup.com fees
-http://pyfound.blogspot.com/2012/03/user-groups-psf-can-help-cover-your.html | 
-https://www.python.org/psf/committees/#grants-work-group
 -->
 
 ## DjangoCon US
@@ -161,11 +151,15 @@ Python- Members
 * [PSF Membership FAQ](https://www.python.org/psf/membership)
 * [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
+Community
+* [Python Community](https://www.python.org/community)
+
 Positive Python
 * [#positivepython](http://www.positivepython.org/twitter.html)
 
 <!--
-https://www.python.org/community/ | Our Community | Python.org
+Awards
+
 https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
 
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
