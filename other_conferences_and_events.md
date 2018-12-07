@@ -3,7 +3,6 @@
 <!--
 People
 https://www.jonafato.com | Tips for Conference Sponsors | jonafato
-https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
 https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
 -->
 
@@ -13,24 +12,12 @@ https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / R
 * [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
 * [Python Conferences Mailing List](https://mail.python.org/mailman/listinfo/conferences)
 
-## Events and Meetups
-
-PyCon- US
-* [PyCon](http://www.pycon.org) and [PyCon GitHub](https://github.com/PyCon)
-* [PyCon 2019 Website](https://us.pycon.org/2019), [PyCon 2018 Website](https://us.pycon.org/2018), and [PyCon 2017 Website](https://us.pycon.org/2017)
-* [PyCon 2018 YouTube](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos)
-* [PyCon Website GitHub](https://github.com/PyCon/pycon)
-
 <!--
-https://us.pycon.org/2018/schedule
-https://us.pycon.org/2017/schedule
-https://us.pycon.org/2016/schedule
-https://us.pycon.org/2015/schedule
-https://us.pycon.org/2014/schedule/talks
-https://us.pycon.org/2013/schedule/talks
-https://us.pycon.org/2012/schedule
-https://us.pycon.org/2011/schedule
+https://python-conferences.slack.com/messages/@slackbot/
+https://python-confs-slack-invites.herokuapp.com/invite
 -->
+
+## Events and Meetups
 
 PyCon UK
 * [PyCon UK](http://uk.python.org) and [PyCon UK GitHub](https://github.com/PyconUK)
