@@ -1,4 +1,4 @@
-# Conferences
+# Other Conferences and Events
 
 <!--
 People
@@ -151,36 +151,3 @@ https://github.com/pydata/conf_site
 https://pydata.org/london2018
 https://docs.google.com/forms/d/e/1FAIpQLSefj325nEwZSArxzEq3BOJdE6L3weMsBZJSDUS_61T7w3t3hw/viewform | SciPy 2018 Program Committee Interest Form
 -->
-
-## PyLadies
-
-PyLadies and PyLadies Remote
-* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
-* [PyLadies Website GitHub](https://github.com/pyladies/pyladies)
-* [PyLadies Blog GitHub](https://github.com/pyladies/pyladies-blog)
-* [PyLadies Maintainers GitHub](https://github.com/pyladies/pyladies-maintainers)
-* [PyLadies Remote Twitter](https://twitter.com/pyladiesremote)
-* [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
-* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
-
-## Django Girls
-
-Django Girls
-* [Django Girls](https://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls) 
-* [Django Girls Blog](http://blog.djangogirls.org)
-* [Django Girls Impact Report 2016-2017](https://djangogirls.org/2016-2017)
-
-Promotion
-* [Django Girls Flickr](https://www.flickr.com/photos/djangogirls)
-* [Django Girls Promotion](https://organize.djangogirls.org/promotion)
-
-Django Girls- Events and Cities
-* [Django Girls Events](https://djangogirls.org/events)
-* [Django Girls London](https://djangogirls.org/london)
-* [Django Girls Kansas City](https://djangogirls.org/kansascity)
-
-Django Girls- Help
-* [Django Girls Organize](http://organize.djangogirls.org)  
-* [Django Girls Coach](http://coach.djangogirls.org)  
-* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
-* [Django Girls Store](https://store.djangogirls.org)
