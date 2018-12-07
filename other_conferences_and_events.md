@@ -36,6 +36,7 @@ PyCon UK
 * [PyCon UK](http://uk.python.org) and [PyCon UK GitHub](https://github.com/PyconUK)
 * [PyCon UK 2018](https://2018.pyconuk.org)
 * [PyCon UK 2017](http://2017.pyconuk.org)
+* [PyCon UK 2016 Website GitHub](https://github.com/PyconUK/2016.pyconuk.org)
 
 DjangoCon Australia
 * [DjangoCon Australia 2018 Website](http://2018.djangocon.com.au) and [DjangoCon Australia 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.com.au)
@@ -73,6 +74,7 @@ Python Conferences- Canada
 
 Python Conferences- Bay Area and California
 * [PyBay](https://pybay.com) and [PyBay GitHub](https://github.com/pybay)
+* [North Bay Python 2018 Website](https://2018.northbaypython.org)
 * [North Bay Python 2017 Website](https://2017.northbaypython.org) and [North Bay Python Website GitHub](https://github.com/northbaypython/website)
 * [Bay Bridge Python](http://baybridgepython.org), [Bay Bridge Python GitHub](https://github.com/baybridgepython), and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
 * [San Diego Python GitHub](http://www.pythonsd.org) and [San Diego Python GitHub](https://github.com/pythonsd)
