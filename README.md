@@ -1,17 +1,5 @@
 # DEFNA Resources
 
-<!--
-https://late.am/post
-
-https://twitter.com/pyconcharlas
-PyCon Charlas
-https://twitter.com/NaomiCeder/status/921564258369986560 | Naomi Ceder on Twitter: "Si alguien quiere ayudarme a organizar (o dar) charlas en español en PyCon US, por favor DM me o envía un email a naomi<at>python dot org"
-https://twitter.com/pyconcharlas/status/971460532573175809 | PyCon Charlas on Twitter: "¿No vas a la @pycon y por eso no puedes proponer una #PyConCharla? Necesitamos mentores que ayuden asesorando a los interesados en proponer una charla, si te deseas colaborar escríbenos a pycon.charlas@gmail.com https://t.co/IF5ZbgHolx… https://t.co/VEQgW6F3hR"
-  
-https://python-conferences.slack.com/messages/@slackbot/
-https://python-confs-slack-invites.herokuapp.com/invite
--->
-
 ## DEFNA
 
 DEFNA (Django Events Foundation North America)
@@ -49,10 +37,6 @@ https://talk-talk-talk.readthedocs.io/en/latest/ | Talk Proposals by Mariatta �
 PyCascades Welcome Wagon
 http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
 
-https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
-
-https://pycon.blogspot.com/2018/04/how-why-cities-and-dates-are-selected.html | How & why cities and dates are selected for Pycon
-
 Symposion
 https://pydata-conference-management.readthedocs.io/en/latest/
 https://pyconuk-2016-internaldocs.readthedocs.io/en/latest/ | PyCon UK 2016 Internaldocs — PyCon UK 2016 Internaldocs 2016 documentation
@@ -61,9 +45,6 @@ https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
 http://pyladies-vancouver-online.readthedocs.io/en/latest/ | Welcome to PyLadies Vancouver! — PyLadies Vancouver documentation
 https://github.com/pyladies-vancouver/pyladies-vancouver | pyladies-vancouver/pyladies-vancouver: PyLadies Vancouver website
 https://github.com/Mariatta/webservice-pyladiesvan
-
-https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
-https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
 
 https://github.com/pythonph/pycon-organizer-manual | pythonph/pycon-organizer-manual: RTD for organizing the yearly Python Conference in the Philippines
 https://github.com/lorenanicole/pycon_organizers_manual | lorenanicole/pycon_organizers_manual
@@ -132,6 +113,38 @@ https://www.flickr.com/photos/kennethreitz/albums
 https://www.flickr.com/photos/kennethreitz | Kenneth Reitz | Flickr
 -->
 
+## PyCon US
+
+* [PyCon](http://www.pycon.org) and [PyCon GitHub](https://github.com/PyCon)
+* [PyCon 2019 Website](https://us.pycon.org/2019), [PyCon 2018 Website](https://us.pycon.org/2018), and [PyCon 2017 Website](https://us.pycon.org/2017)
+* [PyCon 2018 YouTube](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos)
+* [PyCon Website GitHub](https://github.com/PyCon/pycon)
+
+<!--
+https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
+
+https://us.pycon.org/2018/schedule
+https://us.pycon.org/2017/schedule
+https://us.pycon.org/2016/schedule
+https://us.pycon.org/2015/schedule
+https://us.pycon.org/2014/schedule/talks
+https://us.pycon.org/2013/schedule/talks
+https://us.pycon.org/2012/schedule
+https://us.pycon.org/2011/schedule
+
+https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
+
+https://pycon.blogspot.com/2018/04/how-why-cities-and-dates-are-selected.html | How & why cities and dates are selected for Pycon
+
+https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
+https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
+
+https://twitter.com/pyconcharlas
+PyCon Charlas
+https://twitter.com/NaomiCeder/status/921564258369986560 | Naomi Ceder on Twitter: "Si alguien quiere ayudarme a organizar (o dar) charlas en español en PyCon US, por favor DM me o envía un email a naomi<at>python dot org"
+https://twitter.com/pyconcharlas/status/971460532573175809 | PyCon Charlas on Twitter: "¿No vas a la @pycon y por eso no puedes proponer una #PyConCharla? Necesitamos mentores que ayuden asesorando a los interesados en proponer una charla, si te deseas colaborar escríbenos a pycon.charlas@gmail.com https://t.co/IF5ZbgHolx… https://t.co/VEQgW6F3hR"
+-->
+  
 ## Python Software Foundation (PSF)
 
 Python Software Foundation (PSF)
@@ -181,3 +194,36 @@ Django Software Foundation
 
 Django Software Foundation Individual Membership
 * [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
+
+## PyLadies
+
+PyLadies and PyLadies Remote
+* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
+* [PyLadies Website GitHub](https://github.com/pyladies/pyladies)
+* [PyLadies Blog GitHub](https://github.com/pyladies/pyladies-blog)
+* [PyLadies Maintainers GitHub](https://github.com/pyladies/pyladies-maintainers)
+* [PyLadies Remote Twitter](https://twitter.com/pyladiesremote)
+* [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
+* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
+
+## Django Girls
+
+Django Girls
+* [Django Girls](https://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls) 
+* [Django Girls Blog](http://blog.djangogirls.org)
+* [Django Girls Impact Report 2016-2017](https://djangogirls.org/2016-2017)
+
+Promotion
+* [Django Girls Flickr](https://www.flickr.com/photos/djangogirls)
+* [Django Girls Promotion](https://organize.djangogirls.org/promotion)
+
+Django Girls- Events and Cities
+* [Django Girls Events](https://djangogirls.org/events)
+* [Django Girls London](https://djangogirls.org/london)
+* [Django Girls Kansas City](https://djangogirls.org/kansascity)
+
+Django Girls- Help
+* [Django Girls Organize](http://organize.djangogirls.org)  
+* [Django Girls Coach](http://coach.djangogirls.org)  
+* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
+* [Django Girls Store](https://store.djangogirls.org)
