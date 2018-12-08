@@ -252,6 +252,10 @@ Code of Conduct Hotlines
 * [PyCascades Code of Conduct Hotline GitHub](https://github.com/cache-rules/coc-hotline)
 * [PyCon Code of Conduct Hotline GitHub](https://github.com/PyCon/coc-hotline)
 
+<!--
+https://www.nexmo.com/blog/2018/11/15/pycascades-code-of-conduct-hotline-nexmo-voice-api-dr/?sf95336207=1 | Enhancing PyCascades Code of Conduct Hotline with Nexmo Voice API
+-->
+
 Code of Conduct Reports
 
 <!--
