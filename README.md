@@ -156,12 +156,9 @@ Python Software Foundation (PSF)
 * [PSF Mission](https://www.python.org/psf/mission)
 * [PSF Bylaws](https://www.python.org/psf/bylaws)
 
-Python Software Foundation (PSF) and Django Software Foundation (DSF) People
+Python Software Foundation (PSF) People
 * [PSF Members](https://www.python.org/psf/members)
 * [PSF Committees/Workgroups](https://www.python.org/psf/committees)
-* [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
-* [DSF Individual Members](https://www.djangoproject.com/foundation/individual-members)
-* [DSF Corporate Members](https://www.djangoproject.com/foundation/corporate-members)
 
 Python- Members
 * [PSF Membership FAQ](https://www.python.org/psf/membership)
@@ -196,10 +193,17 @@ Django Software Foundation
 * [DSF Fundraising](https://www.djangoproject.com/fundraising)
 * [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
 
+Django Software Foundation (DSF) People
+* [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
+* [DSF Individual Members](https://www.djangoproject.com/foundation/individual-members)
+* [DSF Corporate Members](https://www.djangoproject.com/foundation/corporate-members)
+
 Django Software Foundation Individual Membership
 * [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
 
 <!--
+https://www.djangoproject.com/weblog/2018/nov/27/dsf-board-why-stand/ | The DSF Board elections - what about you? | Weblog | Django
+
 https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/ | Fret Free -- Introduction to Django and the Django Software Foundation
 -->
 
