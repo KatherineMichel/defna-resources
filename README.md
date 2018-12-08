@@ -30,6 +30,9 @@ Mariatta
 * [PyLadies Vancouver Docs](http://pyladies-vancouver-online.readthedocs.io/en/latest) and [PyLadies Vancouver Docs GitHub](https://github.com/pyladies-vancouver/pyladies-vancouver)
 
 <!--
+DSF Guidance
+https://www.djangoproject.com/foundation/conferences/ | So you want to hold a Django conference? | Django
+
 PyCascades Volunteer Sign Up
 http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
 
@@ -172,6 +175,7 @@ Positive Python
 
 <!--
 Awards
+https://www.python.org/community/awards/psf-awards/ | PSF Community Service Awards | Python.org
 
 https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
 
