@@ -4,6 +4,8 @@
 People
 https://www.jonafato.com | Tips for Conference Sponsors | jonafato
 https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
+https://twitter.com/betswaliszewski | Betsy Waliszewski (@betswaliszewski) | Twitter
+https://twitter.com/evildmp?lang=en | Daniele Procida (@evildmp) | Twitter
 -->
 
 ## Finding Events
