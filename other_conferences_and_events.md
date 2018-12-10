@@ -6,6 +6,11 @@ https://www.jonafato.com | Tips for Conference Sponsors | jonafato
 https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
 https://twitter.com/betswaliszewski | Betsy Waliszewski (@betswaliszewski) | Twitter
 https://twitter.com/evildmp?lang=en | Daniele Procida (@evildmp) | Twitter
+
+Ela
+http://ela.community
+http://elaconf.com
+https://medium.com/@elaconf/elas-retirement-an-open-letter-6125321b4602 | Ela’s Retirement: An Open Letter – Ela Organizers – Medium
 -->
 
 ## Finding Events
