@@ -171,6 +171,16 @@ Positive Python
 * [#positivepython](http://www.positivepython.org/twitter.html)
 
 <!--
+https://www.python.org/psf/newsletter/ | PSF Newsletter Signup | Python Software Foundation
+
+https://www.python.org/community/workshops
+https://wiki.python.org/moin/LocalUserGroups
+
+https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
+https://mail.python.org/mailman/listinfo/group-organizers
+https://github.com/python/community-starter-kit
+https://wiki.python.org/moin/StartingYourUsersGroup
+
 Awards
 https://www.python.org/community/awards/psf-awards/ | PSF Community Service Awards | Python.org
 
@@ -178,6 +188,7 @@ https://github.com/python/psf-community-resources | python/psf-community-resourc
 
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
 
+https://www.python.org/psf/membership/ | PSF Membership FAQ | Python Software Foundation
 http://pyfound.blogspot.com.au/2015/02/enroll-as-psf-voting-member.html
 PSF Managing/Contributing Membership Self-Certification
 https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/viewform
