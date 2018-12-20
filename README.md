@@ -186,6 +186,8 @@ https://mail.python.org/mailman/listinfo/group-organizers
 https://github.com/python/community-starter-kit
 https://wiki.python.org/moin/StartingYourUsersGroup
 
+https://www.python.org/community/awards/psf-awards/ | PSF Community Service Awards | Python.org
+
 https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
 
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
