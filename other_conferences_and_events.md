@@ -150,6 +150,7 @@ GeoPython and PyData- Major Events
 * [GeoPython 2018](http://2018.geopython.net)
 * [PyData](http://pydata.org), [PyData Twitter](https://twitter.com/PyData), and [PyData GitHub](https://github.com/pydata)
 * [SciPy Website](https://conference.scipy.org)
+* [SciPy 2019 Website](https://www.scipy2019.scipy.org)
 * [SciPy 2018 Website](https://scipy2018.scipy.org)
 * [EuroSciPy Website](https://www.euroscipy.org)
 * [JupyterCon](https://conferences.oreilly.com/jupyter)
