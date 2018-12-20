@@ -82,7 +82,7 @@ Python US- Midwest
 * [PyColorado Twitter](https://twitter.com/pycolorado)
 * [PyOhio](www.pyohio.org), [PyOhio GitHub](https://github.com/pyohio), [PyOhio Website GitHub](https://github.com/pyohio/pyohio-website), and [PyOhio Slack](https://slack.pyohio.org)
 * [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
-* [PyTennessee](https://www.pytennessee.org)
+* [PyTennessee](https://www.pytennessee.org) and [PyTennessee 2019 GitHub](https://github.com/pytennessee/pytn-2019)
 * [PyTexas](https://www.pytexas.org)
 * [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
 
