@@ -42,6 +42,7 @@ https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 ye
 
 DjangoCon Europe
 * [DjangoCon Europe](https://djangocon.eu)
+* [DjangoCon Europe 2019 Website](https://2019.djangocon.eu) and [DjangoCon Europe 2019 GitHub](https://github.com/djangocon/2019.djangocon.eu)
 * [DjangoCon Europe 2018 Website](https://2018.djangocon.eu) and [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
 * [DjangoCon Europe 2016 Website](https://2016.djangocon.eu)
@@ -61,35 +62,45 @@ https://twitter.com/stroopwafelsoc | Scrt Stroopwafel soc (@stroopwafelsoc) | Tw
 Django Under the Hood
 * [Django Under the Hood](https://www.djangounderthehood.com), [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
 
-Python Conferences- Canada
-* [PyCanada 2018](https://2018.pycon.ca), [PyCanada 2017](https://2017.pycon.ca), and [PyCanada GitHub](https://github.com/pyconca)
-* [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades), [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com), and [PyCascades Slack](http://pycascades-slack.herokuapp.com)
-* [PyCascades 2019 Website](https://2019.pycascades.com)
-
-Python Conferences- Bay Area and California
+Python US- Bay Area and California
 * [PyBay](https://pybay.com) and [PyBay GitHub](https://github.com/pybay)
 * [North Bay Python 2018 Website](https://2018.northbaypython.org)
 * [North Bay Python 2017 Website](https://2017.northbaypython.org) and [North Bay Python Website GitHub](https://github.com/northbaypython/website)
 * [Bay Bridge Python](http://baybridgepython.org), [Bay Bridge Python GitHub](https://github.com/baybridgepython), and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
 * [San Diego Python GitHub](http://www.pythonsd.org) and [San Diego Python GitHub](https://github.com/pythonsd)
 
-Python Conferences and Meetups- New York
+Python US Conferences and Meetups- New York
 * [The New York Python Meetup Group](https://www.meetup.com/nycpython)
 * [PyGotham 2019 Website](https://2019.pygotham.org), [PyGotham 2018 Website](https://2018.pygotham.org), and [PyGotham Website GitLab 2017](https://gitlab.com/pygotham/2017)
 * [PyGotham GitLab](https://gitlab.com/pygotham), [PyGotham GitHub](https://github.com/PyGotham), and [PyGotham Website GitHub](https://github.com/PyGotham/pygotham) 
 
-Python Conferences- More
-* [Florida PyCon](http://flpy.org) and [Florida PyCon Twitter](https://twitter.com/flpycon)
-* [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
+Python US- Midwest
+* [PyColorado Twitter](https://twitter.com/pycolorado)
 * [PyOhio](www.pyohio.org), [PyOhio GitHub](https://github.com/pyohio), [PyOhio Website GitHub](https://github.com/pyohio/pyohio-website), and [PyOhio Slack](https://slack.pyohio.org)
+* [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
 * [PyTennessee](https://www.pytennessee.org)
 * [PyTexas](https://www.pytexas.org)
 * [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
+
+Python US- More
+* [Florida PyCon](http://flpy.org) and [Florida PyCon Twitter](https://twitter.com/flpycon)
 * [Puget Sound Python Twitter](https://twitter.com/ps_python) and [Puget Sound Python Slack](http://pugetsoundpython-slack.herokuapp.com)
 
+Python Latin America
+* [PythonDay Mexico](http://pythonday.mx)
+* [PyCon Latam](https://www.pylatam.org)
+* [Python Tijuana](https://pythontijuana.com/) and [Python Tijuana GitHub](https://github.com/PythonTijuana)
+
 <!--
-https://twitter.com/pycolorado
+https://www.python.org/events/python-events/751/ | PyCon Argentina | Python.org
+http://cucea.udg.mx/python-day-2018-live | PYTHON DAY 2018 LIVE | University administrative center of economic sciences
+http://mxmicodigo.com/noticias/ver/57 | mxmicodigo.com/noticias/ver/57
 -->
+
+Python North America- Canada
+* [PyCanada 2018](https://2018.pycon.ca), [PyCanada 2017](https://2017.pycon.ca), and [PyCanada GitHub](https://github.com/pyconca)
+* [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades), [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com), and [PyCascades Slack](http://pycascades-slack.herokuapp.com)
+* [PyCascades 2019 Website](https://2019.pycascades.com)
 
 PyCon International- Western Europe
 * [EuroPython Society](http://www.europython-society.org)
