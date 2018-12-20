@@ -16,6 +16,11 @@ Countries and Territories
 501(c)(3)
 * [501(c)(3) Wikipedia](https://en.wikipedia.org/wiki/501(c)(3)_organization)
 
+<!--
+Recap
+http://elaconf.com/2016/ | Ela Conf 2016
+-->
+
 ## Organizing Docs
 
 * [DEFNA Event Organization Docs](https://github.com/DEFNA/event-organization-docs) and [DEFNA Event Organization Handbook GitBook](https://defna.gitbook.io/handbook)
