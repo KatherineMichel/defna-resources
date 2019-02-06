@@ -120,6 +120,8 @@ https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw
 
 http://anna-oz.tumblr.com/post/171736615240/san-diego-my-favorites | Anna's blog | San Diego - My Favorites
 
+https://www.flickr.com/photos/143615719@N06/sets/72157706513358554/ | #cookieselfie | Flickr
+
 Py Event Photos, including NSFW
 https://www.flickr.com/photos/kennethreitz/albums
 https://www.flickr.com/photos/kennethreitz | Kenneth Reitz | Flickr
