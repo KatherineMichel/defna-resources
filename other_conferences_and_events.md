@@ -73,6 +73,10 @@ Python US- Bay Area and California
 * [Bay Bridge Python](http://baybridgepython.org), [Bay Bridge Python GitHub](https://github.com/baybridgepython), and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
 * [San Diego Python GitHub](http://www.pythonsd.org) and [San Diego Python GitHub](https://github.com/pythonsd)
 
+<!--
+https://medium.com/pybay/diversity-ac2728e384c2 | Diversity and Inclusion – PyBay2018 – Medium
+-->
+
 Python US Conferences and Meetups- New York
 * [The New York Python Meetup Group](https://www.meetup.com/nycpython)
 * [PyGotham 2019 Website](https://2019.pygotham.org), [PyGotham 2018 Website](https://2018.pygotham.org), and [PyGotham Website GitLab 2017](https://gitlab.com/pygotham/2017)
@@ -108,6 +112,10 @@ Python North America- Canada
 * [PyCanada 2018](https://2018.pycon.ca), [PyCanada 2017](https://2017.pycon.ca), and [PyCanada GitHub](https://github.com/pyconca)
 * [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades), [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com), and [PyCascades Slack](http://pycascades-slack.herokuapp.com)
 * [PyCascades 2019 Website](https://2019.pycascades.com)
+
+<!--
+https://mariatta.ca/pycascades-countdown/ | PyCascades Countdown
+-->
 
 PyCon International- Western Europe
 * [EuroPython Society](http://www.europython-society.org)
