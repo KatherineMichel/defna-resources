@@ -4,9 +4,19 @@
 
 * [DjangoCon Archive Project](https://github.com/djangocon/djangocon-archive-project)
 
-## DjangoCon US 2018 Website Notes
+## DjangoCon US 2019 Website Notes
 
-My Role: 2017, 2018 Website Chair and Maintainer (Website and Technical Lead): https://github.com/djangocon/djangocon-us-docs/blob/0afd4cfc6fb17ffddf732cf3b7a6189f3312b748/volunteers/roles.md
+My Role: 2017, 2018, 2019 Website Chair and Maintainer (Website and Technical Lead): https://github.com/djangocon/djangocon-us-docs/blob/0afd4cfc6fb17ffddf732cf3b7a6189f3312b748/volunteers/roles.md
+
+Code
+* [Website](https://2019.djangocon.us) and [Website Repo](https://github.com/djangocon/2019.djangocon.us)
+* [Milestones](https://github.com/djangocon/2019.djangocon.us/milestones)
+
+### Tool Updates
+
+* [Dart Sass](https://sass-lang.com/dart-sass)
+
+## DjangoCon US 2018 Website Notes
 
 ### Tools
 
@@ -14,6 +24,8 @@ My Role: 2017, 2018 Website Chair and Maintainer (Website and Technical Lead): h
 * [Foundation](http://foundation.zurb.com/sites/docs)
 * [npm](https://www.npmjs.com)
 * [Gulp](http://gulpjs.com)
+* [Node Sass](https://github.com/sass/node-sass)
+* [Style Sherpa](https://foundation.zurb.com/sites/docs/style-sherpa.html)
 
 ### DjangoCon 2018 Website
 
