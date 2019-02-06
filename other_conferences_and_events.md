@@ -82,13 +82,16 @@ Python US- Midwest
 * [PyColorado Twitter](https://twitter.com/pycolorado)
 * [PyOhio](www.pyohio.org), [PyOhio GitHub](https://github.com/pyohio), [PyOhio Website GitHub](https://github.com/pyohio/pyohio-website), and [PyOhio Slack](https://slack.pyohio.org)
 * [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
-* [PyTennessee](https://www.pytennessee.org) and [PyTennessee 2019 GitHub](https://github.com/pytennessee/pytn-2019)
-* [PyTexas](https://www.pytexas.org)
+* [PyTennessee](https://www.pytennessee.org) and [PyTennessee 2019 Website GitHub](https://github.com/pytennessee/pytn-2019)
+* [PyTexas](https://www.pytexas.org) and [PyTexas 2019 Website GitHub](https://github.com/pytexas/PyTexas2019 )
 * [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
 
 Python US- More
 * [Florida PyCon](http://flpy.org) and [Florida PyCon Twitter](https://twitter.com/flpycon)
 * [Puget Sound Python Twitter](https://twitter.com/ps_python) and [Puget Sound Python Slack](http://pugetsoundpython-slack.herokuapp.com)
+
+Python North America
+* [PyCaribbean Website GitHub](https://github.com/pycaribbean/pycaribbean.github.io)
 
 Python Latin America
 * [PythonDay Mexico](http://pythonday.mx)
@@ -117,6 +120,7 @@ PyCon International- Western Europe
 PyCon International- Eastern Europe
 * [PyCon CZ Website](https://cz.pycon.org)
 * [PyCon Slovakia 2018 Website](https://2018.pycon.sk/sk)
+* [PyCon Sweden Website](http://www.pycon.se)
 * [PyCon Ukraine 2018 Website](https://2018.uapycon.org)
 
 <!--
