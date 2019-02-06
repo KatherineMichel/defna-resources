@@ -1,5 +1,9 @@
 # DEFNA Resources
 
+<!--
+https://twitter.com/webology/status/1072903484771655680 | Jeff Triplett on Twitter: "All that aside, local events are the key. I'd love to see a better remote experience too which we have yet to figure out or pull off. I'd like to see a virtual conference pulled off with speakers talking remotely but that has major logistical issues too.… https://t.co/tI69RYgsDV"
+-->
+
 ## DEFNA
 
 DEFNA (Django Events Foundation North America)
