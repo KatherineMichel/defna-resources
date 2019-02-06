@@ -94,9 +94,6 @@ Python US- More
 * [Florida PyCon](http://flpy.org) and [Florida PyCon Twitter](https://twitter.com/flpycon)
 * [Puget Sound Python Twitter](https://twitter.com/ps_python) and [Puget Sound Python Slack](http://pugetsoundpython-slack.herokuapp.com)
 
-Python North America
-* [PyCaribbean Website GitHub](https://github.com/pycaribbean/pycaribbean.github.io)
-
 Python Latin America
 * [PythonDay Mexico](http://pythonday.mx)
 * [PyCon Latam](https://www.pylatam.org)
@@ -107,6 +104,9 @@ https://www.python.org/events/python-events/751/ | PyCon Argentina | Python.org
 http://cucea.udg.mx/python-day-2018-live | PYTHON DAY 2018 LIVE | University administrative center of economic sciences
 http://mxmicodigo.com/noticias/ver/57 | mxmicodigo.com/noticias/ver/57
 -->
+
+Python North America- Caribbean
+* [PyCaribbean Website GitHub](https://github.com/pycaribbean/pycaribbean.github.io)
 
 Python North America- Canada
 * [PyCanada 2018](https://2018.pycon.ca), [PyCanada 2017](https://2017.pycon.ca), and [PyCanada GitHub](https://github.com/pyconca)
@@ -155,7 +155,7 @@ PyCon International- Middle East and Asia
 * [PyCon Taiwan GitHub](https://github.com/pycontw)
 
 PyCon International- Africa
-* [Python Africa](https://africa.python.org)
+* [Python Africa](https://africa.python.org) and [Python Africa GitHub](https://github.com/pythonafrica/pycon-africa-website)
 * [PyCon Namibia](https://na.pycon.org)
 * [Pycon Nigeria](https://pycon.ng)
 * [PyConZA](https://za.pycon.org)
