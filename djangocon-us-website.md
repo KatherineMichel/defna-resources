@@ -12,6 +12,9 @@ Code
 * [Website](https://2019.djangocon.us) and [Website Repo](https://github.com/djangocon/2019.djangocon.us)
 * [Milestones](https://github.com/djangocon/2019.djangocon.us/milestones)
 
+Logos, Swag, etc.
+* [Resources](https://github.com/djangocon/resources)
+
 ### Tool Updates
 
 * [Dart Sass](https://sass-lang.com/dart-sass)
