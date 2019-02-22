@@ -3,6 +3,8 @@
 <!--
 https://www.theinformation.com/tech-events | Most Valuable Tech Events — The Information
 
+https://www.meetup.com/topics/python/all/
+https://www.meetup.com/topics/django/all/
 https://www.meetup.com/sfpython/ | San Francisco Python Meetup Group (San Francisco, CA) | Meetup
 https://www.meetup.com/PyLadiesSF/events/258901277/ | Massages, Smoothies, and Projects Night | Meetup
 https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
