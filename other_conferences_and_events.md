@@ -3,6 +3,7 @@
 <!--
 https://www.theinformation.com/tech-events | Most Valuable Tech Events — The Information
 
+https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
 https://www.meetup.com/topics/python/all/
 https://www.meetup.com/topics/django/all/
 https://www.meetup.com/sfpython/ | San Francisco Python Meetup Group (San Francisco, CA) | Meetup
