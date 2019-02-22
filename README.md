@@ -39,9 +39,12 @@ Mariatta
 * [PyLadies Vancouver Docs](http://pyladies-vancouver-online.readthedocs.io/en/latest) and [PyLadies Vancouver Docs GitHub](https://github.com/pyladies-vancouver/pyladies-vancouver)
 
 <!--
+Keynote form, feedback forms (organizer and attendees)
+
 DSF Guidance
 https://www.djangoproject.com/foundation/conferences/ | So you want to hold a Django conference? | Django
 
+https://docs.google.com/forms/d/e/1FAIpQLSfE1Cn_n4dfYFDi64mVKR4NggD1Lcqw4fhtlviRONlMtM4UOw/viewform | PyCascades 2019 - Diversity Scholarships
 PyCascades Volunteer Sign Up
 http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
 
@@ -135,6 +138,11 @@ https://www.flickr.com/photos/kennethreitz | Kenneth Reitz | Flickr
 * [PyCon Website GitHub](https://github.com/PyCon/pycon)
 
 <!--
+https://pycon.blogspot.com/2019/02/pycon-2020-2021-location.html | PyCon 2020-2021 Location
+https://us.pycon.org/2019/hatchery/charlas/ | PyCon Charlas | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/hatchery/mentoredsprints/ | Mentored sprints for diverse beginners | PyCon 2019 in Cleveland, Ohio
+https://docs.google.com/forms/d/1vqir0ZMgIDRz7qRkxupFm6H4UbjwEbfcP147WIJ03NQ/viewform?edit_requested=true | PyCon, Remote Edition
+
 https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
 
 https://us.pycon.org/2018/schedule
