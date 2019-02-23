@@ -3,14 +3,6 @@
 <!--
 https://www.theinformation.com/tech-events | Most Valuable Tech Events — The Information
 
-https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
-https://www.meetup.com/topics/python/all/
-https://www.meetup.com/topics/django/all/
-https://www.meetup.com/sfpython/ | San Francisco Python Meetup Group (San Francisco, CA) | Meetup
-https://www.meetup.com/PyLadiesSF/events/258901277/ | Massages, Smoothies, and Projects Night | Meetup
-https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
-Kansas City, St. Louis
-
 People
 https://www.jonafato.com | Tips for Conference Sponsors | jonafato
 https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
@@ -93,7 +85,7 @@ Python US Conferences and Meetups- New York
 * [PyGotham GitLab](https://gitlab.com/pygotham), [PyGotham GitHub](https://github.com/PyGotham), and [PyGotham Website GitHub](https://github.com/PyGotham/pygotham) 
 
 Python US- Midwest
-* [PyColorado Twitter](https://twitter.com/pycolorado)
+* [PyColorado Website GitHub](https://github.com/PyColorado/pycolorado.org) and [PyColorado Twitter](https://twitter.com/pycolorado)
 * [PyOhio](www.pyohio.org), [PyOhio GitHub](https://github.com/pyohio), [PyOhio Website GitHub](https://github.com/pyohio/pyohio-website), and [PyOhio Slack](https://slack.pyohio.org)
 * [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
 * [PyTennessee](https://www.pytennessee.org) and [PyTennessee 2019 Website GitHub](https://github.com/pytennessee/pytn-2019)
