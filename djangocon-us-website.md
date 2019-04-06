@@ -6,7 +6,7 @@
 
 ## DjangoCon US 2019 Website Notes
 
-My Role: 2017, 2018, 2019 Website Chair and Maintainer (Website and Technical Lead): https://github.com/djangocon/djangocon-us-docs/blob/0afd4cfc6fb17ffddf732cf3b7a6189f3312b748/volunteers/roles.md
+My Role: 2017, 2018 Website Chair and Maintainer, 2019 Website Co-Chair and Maintainer (Website and Technical Lead): https://github.com/djangocon/djangocon-us-docs/blob/0afd4cfc6fb17ffddf732cf3b7a6189f3312b748/volunteers/roles.md
 
 Code
 * [Website](https://2019.djangocon.us) and [Website Repo](https://github.com/djangocon/2019.djangocon.us)
