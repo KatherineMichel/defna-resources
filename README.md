@@ -22,12 +22,6 @@ Countries and Territories
 501(c)(3)
 * [501(c)(3) Wikipedia](https://en.wikipedia.org/wiki/501(c)(3)_organization)
 
-<!--
-Recap
-http://elaconf.com/2016/ | Ela Conf 2016
-https://2019.jsconf.eu/news/the-jsconf--cssconf-eu-finances/ | The JSConf & CSSconf EU Finances
--->
-
 ## Organizing Docs
 
 * [DEFNA Event Organization Docs](https://github.com/DEFNA/event-organization-docs) and [DEFNA Event Organization Handbook GitBook](https://defna.gitbook.io/handbook)
