@@ -228,6 +228,8 @@ GeoPython and PyData- Major Events
 
 <!--
 https://www.euroscipy.org/2018/
+
+https://twitter.com/DynamicWebPaige/status/1017946412095561728 | 👩‍💻 DynamicWebPaige @ OSCON 💻✨ on Twitter: "Can't wait to get started working on #PyOpenSci! If anyone wants to join in the planning, please DM and we'll add your email to @_inundata's master list! 👩‍🔬✨ @SciPyConf #SciPY2018… https://t.co/m5eAYgNLRs"
 -->
 
 PyData- Regional Events and Meetups
