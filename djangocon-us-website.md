@@ -15,6 +15,12 @@ Code
 Logos, Swag, etc.
 * [Resources](https://github.com/djangocon/resources)
 
+<!--
+Recap
+http://elaconf.com/2016/ | Ela Conf 2016
+https://2019.jsconf.eu/news/the-jsconf--cssconf-eu-finances/ | The JSConf & CSSconf EU Finances
+-->
+
 ### Tool Updates
 
 * [Dart Sass](https://sass-lang.com/dart-sass)
