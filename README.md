@@ -1,7 +1,35 @@
 # DEFNA Resources
 
 <!--
+https://twitter.com/Transition/lists/python-communities/members | List members
+https://github.com/jonatasbaldin/python-community-map | jonatasbaldin/python-community-map: A map full of lovely Python communities ❤️🐍🌎
+
+## Conferences
+
+General
+* [PaperCall](https://www.papercall.io)
+
+Python and Django
+* [PSF Python Events](https://www.python.org/events)
+* [Meetup Topic Django](https://www.meetup.com/topics/django)
+* [Meetup Topic Python](http://www.meetup.com/topics/python)
+* [Python Conferences Repo](https://github.com/python-organizers/conferences)
+* [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
+
+https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
+https://www.meetup.com/topics/python/all/
+https://www.meetup.com/topics/django/all/
+https://www.meetup.com/sfpython/ | San Francisco Python Meetup Group (San Francisco, CA) | Meetup
+https://www.meetup.com/PyLadiesSF/events/258901277/ | Massages, Smoothies, and Projects Night | Meetup
+https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
+Kansas City, St. Louis
+-->
+
+<!--
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks – Nina Zakharenko – Medium
+https://twitter.com/nnja/status/1096609124559642626 | 𝙽𝚒𝚗𝚊 𝚉𝚊𝚔𝚑𝚊𝚛𝚎𝚗𝚔𝚘 💖🐍 on Twitter: "2: Choosing a Topic Takeaways: - Everyone, including you, has something interesting to say. Use everyday inspiration to pick a topic. - Choose a topic that you’re passionate about. Your enthusiasm will show. - Keep up to date on open Calls For Proposals https://t.co/nunhr0Nqu7"
 https://twitter.com/WillingCarol/status/1100575073189093376 | Carol Willing on Twitter: "I've read thousands of talk proposals and @nnja consistently writes excellent proposals. Whether you are an experienced speaker or just starting, this series of posts is wonderful. Thanks Nina for taking the time to put together.… https://t.co/tiHv4eApKz"
+
 https://overreacted.io/preparing-for-tech-talk-part-1-motivation/ | Preparing for a Tech Talk, Part 1: Motivation - Overreacted
 
 * [PyData Playlists](https://www.youtube.com/user/PyDataTV/playlists)
