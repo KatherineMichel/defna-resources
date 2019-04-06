@@ -150,6 +150,7 @@ PyCon International- Australia
 * [PyCon AU 2017 Website](https://2017.pycon-au.org) and [PyCon AU 2017 Website GitHub](https://github.com/pyconau2017)
 
 <!--
+https://github.com/pyconau/2019.pycon-au.org | pyconau/2019.pycon-au.org
 https://github.com/glasnt/pyconau-test
 -->
 
