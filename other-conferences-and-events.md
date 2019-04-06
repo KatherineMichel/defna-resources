@@ -1,36 +1,71 @@
 # Other Conferences and Events
 
 <!--
-https://www.theinformation.com/tech-events | Most Valuable Tech Events — The Information
-
 https://www.docker.com/dockercon/
 https://www.docker.com/events/women-at-dockercon-summit | Women@DockerCon Summit | Docker
 
 https://githubuniverse.com/
 https://github.blog/2018-08-02-github-universe-scholarship-program/ | Scholarships and accessibility at GitHub Universe 2018 - The GitHub Blog
 
+Ela
+http://ela.community
+http://elaconf.com
+https://medium.com/@elaconf/elas-retirement-an-open-letter-6125321b4602 | Ela’s Retirement: An Open Letter – Ela Organizers – Medium
+
 People
 https://www.jonafato.com | Tips for Conference Sponsors | jonafato
 https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
 https://twitter.com/betswaliszewski | Betsy Waliszewski (@betswaliszewski) | Twitter
 https://twitter.com/evildmp?lang=en | Daniele Procida (@evildmp) | Twitter
-
-Ela
-http://ela.community
-http://elaconf.com
-https://medium.com/@elaconf/elas-retirement-an-open-letter-6125321b4602 | Ela’s Retirement: An Open Letter – Ela Organizers – Medium
 -->
+
+<!--
+https://twitter.com/PyData/status/1017849955564904449 | PyData on Twitter: "The call for proposals is OPEN for our 3 upcoming U.S. #PyData events this fall! PyData NYC, Oct 17-19: https://t.co/it7ixyIpB0 CFP closes Aug 12 PyData LA, Oct 21-23: https://t.co/mMNMxbA2WC CFP closes Aug 12 PyData DC, Nov 16-18: https://t.co/EnO6sKXQNn CFP closes Sept 12… https://t.co/rOYkOcExft"
+
+ML Conferences
+* [AI Frontiers](http://aifrontiers.com) and [AI Frontiers SlideShare](https://www.slideshare.net/AIFrontiers)
+* [Scaled Machine Learning](http://scaledml.org)
+* [International Conference on Machine Learning (ICML)](https://icml.cc)
+* [The Computer Vision Foundation (CVF)](https://www.thecvf.com)
+* [International Conference on Computer Vision 2018 (CVPR)](http://cvpr2018.thecvf.com)
+* [Annual Conference on Neural Information Processing Systems (NIPS)](https://nips.cc)
+
+LancsSS18
+https://acl2018.org/ | ACL 2018: About
+https://mlconf.com/ | The Machine Learning Conference
+https://icml.cc/Conferences/2018/AcceptedPapersInitial | Accepted Papers
+https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition
+-->
+
+## Talk Aggregation
+
+General
+* [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
+* [Next Day Video](http://nextdayvideo.com)
+* [Tech Yaks](https://techyaks.com)
+
+<!--
+https://github.com/SaraVieira/awesome-talks | SaraVieira/awesome-talks: Awesome Talks Curated By the Community
+https://github.com/JanVanRyswyck/awesome-talks | JanVanRyswyck/awesome-talks: Awesome online talks and screencasts
+-->
+
+Python
+* [PyVideo](http://pyvideo.org)
+* [PyVideo Events](http://pyvideo.org/events.html)
 
 ## Finding Events
 
+Conferences- General
+* [The Information: Most Valuable Tech Events](https://www.theinformation.com/tech-events) 
+* [Crunchbase Global Events List](https://www.crunchbase.com/search/events)  
+* [Tech EU Events List](http://tech.eu/events)
+* [Techmeme Events List](http://techmeme.com/events) 
+* [Lanyrd](https://web.archive.org/web/20181108064322/http://lanyrd.com)
+
+Conferences- Python
 * [Python Conferences Repo](https://github.com/python-organizers/conferences)
 * [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
 * [Python Conferences Mailing List](https://mail.python.org/mailman/listinfo/conferences)
-
-<!--
-https://python-conferences.slack.com/messages/@slackbot/
-https://python-confs-slack-invites.herokuapp.com/invite
--->
 
 ## Events and Meetups
 
@@ -41,7 +76,8 @@ PyCon UK
 * [PyCon UK 2016 Website GitHub](https://github.com/PyconUK/2016.pyconuk.org)
 
 DjangoCon Australia
-* [DjangoCon Australia 2019 Webpage (PyCon AU)](https://2018.pycon-au.org/djangoconau)
+* [DjangoCon Australia](http://djangocon.com.au)
+* [DjangoCon Australia 2019 Website](http://2019.djangocon.com.au) and [DjangoCon Australia 2019 Webpage (PyCon AU)](https://2018.pycon-au.org/djangoconau)
 * [DjangoCon Australia 2018 Website](http://2018.djangocon.com.au) and [DjangoCon Australia 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.com.au)
 * [DjangoCon Australia 2017 Website](http://2017.djangocon.com.au) and [DjangoCon Australia 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.com.au)
 
@@ -61,15 +97,6 @@ DjangoCon Europe
 
 DjangoCon Europe Photos
 * [DjangoCon Europe Photos (Bartek Pawlik)](https://www.flickr.com/photos/140681500@N07/albums)
-
-<!--
-https://github.com/rixx/djangocon-europe-18-blog | rixx/djangocon-europe-18-blog
-https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
-
-https://medium.com/@mxsash/the-deepest-secret-of-the-secret-society-of-the-stroopwafel-9d7cfca26c05 | The deepest secret of the Secret Society of the Stroopwafel
-https://twitter.com/mxsash/status/1000387993012768768 | Sasha 🐿🦄🏳️‍🌈 on Twitter: "If you saw me at @DjangoConEurope with a little bag and a strange stamp, asking questions like “stroopwafel?” or “want to join the secret society?”, here’s what it’s all about: The deepest secret of the Secret Society of the Stroopwafel: https://t.co/SnKWM92OHa #djangocon"
-https://twitter.com/stroopwafelsoc | Scrt Stroopwafel soc (@stroopwafelsoc) | Twitter
--->
 
 Django Under the Hood
 * [Django Under the Hood](https://www.djangounderthehood.com), [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
@@ -98,6 +125,10 @@ Python US- Midwest
 * [PyTexas](https://www.pytexas.org) and [PyTexas 2019 Website GitHub](https://github.com/pytexas/PyTexas2019)
 * [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
 
+<!--
+https://www.pyohio.org/2018/
+-->
+
 Python US- More
 * [Florida PyCon](http://flpy.org) and [Florida PyCon Twitter](https://twitter.com/flpycon)
 * [Puget Sound Python Twitter](https://twitter.com/ps_python) and [Puget Sound Python Slack](http://pugetsoundpython-slack.herokuapp.com)
@@ -124,7 +155,9 @@ Python North America- Canada
 * [PyCascades 2019 Website](https://2019.pycascades.com)
 
 <!--
-https://mariatta.ca/pycascades-countdown/ | PyCascades Countdown
+https://docs.google.com/forms/d/e/1FAIpQLSfE1Cn_n4dfYFDi64mVKR4NggD1Lcqw4fhtlviRONlMtM4UOw/viewform | PyCascades 2019 - Diversity Scholarships
+PyCascades Volunteer Sign Up
+http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
 -->
 
 PyCon International- Western Europe
@@ -148,11 +181,11 @@ https://www.eventbrite.co.uk/e/djugl-django-user-group-london-tickets-3904833161
 
 PyCon International- Australia
 * [PyCon AU](https://pycon-au.org) and [PyCon AU GitHub](https://github.com/pyconau)
+* [PyCon AU 2019 Website](http://2019.pycon-au.org) and [PyCon AU 2019 Website GitHub](https://github.com/pyconau/2019.pycon-au.org)
 * [PyCon AU 2018 Website](http://2018.pycon-au.org) and [PyCon AU 2018 Website GitHub](https://github.com/pyconau/2018.pycon-au.org)
 * [PyCon AU 2017 Website](https://2017.pycon-au.org) and [PyCon AU 2017 Website GitHub](https://github.com/pyconau2017)
 
 <!--
-https://github.com/pyconau/2019.pycon-au.org | pyconau/2019.pycon-au.org
 https://github.com/glasnt/pyconau-test
 -->
 
@@ -172,19 +205,19 @@ PyCon International- Africa
 * [PyConZA](https://za.pycon.org)
 
 GeoPython and PyData- Major Events
-* [PyData Events](https://pydata.org/events.html), [PyData Past Events](https://pydata.org/past-events.html), and [PyData Twitter](https://twitter.com/pydata)
+* [PyData](http://pydata.org), [PyData Twitter](https://twitter.com/PyData), and [PyData GitHub](https://github.com/pydata)
+* [PyData Events](https://pydata.org/events.html) and [PyData Past Events](https://pydata.org/past-events.html)
 * [GeoPython](http://www.geopython.net) and [GeoPython GitHub](https://github.com/geopython)
 * [GeoPython 2018](http://2018.geopython.net)
-* [PyData](http://pydata.org), [PyData Twitter](https://twitter.com/PyData), and [PyData GitHub](https://github.com/pydata)
 * [SciPy Website](https://conference.scipy.org)
 * [SciPy 2019 Website](https://www.scipy2019.scipy.org)
 * [SciPy 2018 Website](https://scipy2018.scipy.org)
 * [EuroSciPy Website](https://www.euroscipy.org)
 * [JupyterCon](https://conferences.oreilly.com/jupyter)
+* [AnacondaCon](https://anacondacon.io)
 
 <!--
-https://pydata.org/la2018/ | PyData Los Angeles 2018
-https://twitter.com/PyDataLA | PyData Los Angeles (@PyDataLA) | Twitter
+https://www.euroscipy.org/2018/
 -->
 
 PyData- Regional Events and Meetups
@@ -198,6 +231,9 @@ PyData- Regional Events and Meetups
 * [SciPy LA](https://conf.scipyla.org)
 
 <!--
+https://pydata.org/la2018/ | PyData Los Angeles 2018
+https://twitter.com/PyDataLA | PyData Los Angeles (@PyDataLA) | Twitter
+
 https://github.com/pydata/conf_site
 https://pydata.org/london2018
 https://docs.google.com/forms/d/e/1FAIpQLSefj325nEwZSArxzEq3BOJdE6L3weMsBZJSDUS_61T7w3t3hw/viewform | SciPy 2018 Program Committee Interest Form
