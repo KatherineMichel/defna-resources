@@ -62,6 +62,11 @@ Conferences- General
 * [Techmeme Events List](http://techmeme.com/events) 
 * [Lanyrd](https://web.archive.org/web/20181108064322/http://lanyrd.com)
 
+<!--
+https://github.com/tech-conferences/confs.tech | tech-conferences/confs.tech: List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android - PHP - Data - Devops
+https://confs.tech/?topics=&countries=U.S.A. | Tech conferences in 2019 and 2020 | Confs.tech
+-->
+
 Conferences- Python
 * [Python Conferences Repo](https://github.com/python-organizers/conferences)
 * [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
