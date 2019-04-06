@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+https://blog.jupyter.org/the-future-of-jupytercon-2019-and-beyond-9e3002faaf48 | The Future of JupyterCon, 2019 and Beyond – Jupyter Blog
+
 https://twitter.com/webology/status/1072903484771655680 | Jeff Triplett on Twitter: "All that aside, local events are the key. I'd love to see a better remote experience too which we have yet to figure out or pull off. I'd like to see a virtual conference pulled off with speakers talking remotely but that has major logistical issues too.… https://t.co/tI69RYgsDV"
 -->
 
@@ -23,6 +25,7 @@ Countries and Territories
 <!--
 Recap
 http://elaconf.com/2016/ | Ela Conf 2016
+https://2019.jsconf.eu/news/the-jsconf--cssconf-eu-finances/ | The JSConf & CSSconf EU Finances
 -->
 
 ## Organizing Docs
@@ -286,6 +289,10 @@ Code of Conduct Hotlines
 * [PyCon Code of Conduct Hotline GitHub](https://github.com/PyCon/coc-hotline)
 
 <!--
+https://discover-cookbook.numfocus.org/ | DISCOVER Cookbook · Diverse & Inclusive Spaces and Conferences
+
+https://github.com/Mariatta/enhanced-coc-hotline/pull/31 | Make this a generic hotline / call forwarder service. by Mariatta · Pull Request #31 · Mariatta/enhanced-coc-hotline
+
 https://www.nexmo.com/blog/2018/11/15/pycascades-code-of-conduct-hotline-nexmo-voice-api-dr/?sf95336207=1 | Enhancing PyCascades Code of Conduct Hotline with Nexmo Voice API
 -->
 
