@@ -1,6 +1,45 @@
 # DEFNA Resources
 
 <!--
+https://members.2019.djangocon.eu/conference/schedule/
+
+PyCon
+https://us.pycon.org/2019/venue/meals/ | Meal Menus and Ingredients | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/events/opening-reception/ | Opening Reception | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
+Tweets?
+https://twitter.com/pyconcharlas/status/1109081516389347328 | PyCon Charlas on Twitter: "¡Un taller de Django Girls bilingüe durante la #pycon2019! 😍… "
+https://us.pycon.org/2019/hatchery/artofpython/ | The Art of Python | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/hatchery/maintainers/ | Maintainers Summit | PyCon 2019 in Cleveland, Ohio
+https://www.papercall.io/pycon-maintainers-summit | PaperCall.io - Pycon 2019 Maintainers Summit
+http://pyfound.blogspot.com/2019/01/python-in-education-request-for-ideas.html | Python Software Foundation News: Python in Education - Request for Ideas
+https://www.eventbrite.com/e/giphy-hosts-python-software-foundations-startup-row-registration-52977014677?discount=GIPHYEng | Giphy hosts Python Software Foundation's Startup Row Registration, Tue, Dec 4, 2018 at 6:00 PM | Eventbrite
+
+https://twitter.com/pycon/status/1108467001515749377 | PyCon on Twitter: "We have some awesome open source projects in the expo hall - @pyladies, @NumFOCUS, @pybeeware, @djangogirls, @scikit-yb, @amjithr, @indypy, @ps_python, @codeandsupply, @hiddengeniuspro, @plone, @OSMIhelp. Come and talk to them about what they're working on!"
+
+PyCon Volunteering
+https://us.pycon.org/2019/about/volunteers/ | Volunteering On-Site | PyCon 2019 in Cleveland, Ohio
+https://docs.google.com/spreadsheets/d/1-VtA9BqpzWxlcCHPvupdQhggXq-XorMXuHktkBO04SE/edit#gid=15 | PyCon 2019 Volunteering Sign-Ups - Google Sheets
+https://www.dropbox.com/s/f8jx41ot17b56cp/Cleveland-Convention-Center-Event-Organizer-Notebook.pdf?dl=0 | Cleveland-Convention-Center-Event-Organizer-Notebook.pdf
+
+PyCon Adafruit
+https://blog.adafruit.com/2019/02/23/digi-key-and-adafruit-at-pycon-all-attendees-will-receive-a-circuit-playground-express-digikey-adafruit-pycon-pycon2019/ | Digi-Key and Adafruit at PyCon – All attendees will receive a Circuit Playground Express! @digikey @adafruit @pycon #pycon2019 « Adafruit Industries – Makers, hackers, artists, designers and engineers!
+https://github.com/adafruit/circuitpython_kernel | adafruit/circuitpython_kernel: Jupyter kernel to interact with CircuitPython board over USB
+
+PyCon Newcomers
+https://twitter.com/ewa_jodlowska/status/1103778448131219460 | Ewa Jodlowska on Twitter: "I’m in awe of the amount of newcomers we get at @pycon. For 2019, 50% of registrants are first time attendees! Here are some thoughts for those coming to #pycon2019 for the first time:"
+
+PyCon Grants
+https://docs.google.com/forms/d/e/1FAIpQLSfVLqLYY8iwXAORroo1KTb0oWa9KKw-ZCzGeoXr8E1cWIJLig/viewform | PyCon 2019 - Alloy Conference Grant Application deadline: March 30, 2019
+
+
+
+http://firstwefeast.com/eat/2014/10/how-to-do-a-tim-tam-slam
+
+Caktus post
+https://www.vinta.com.br/blog/2017/going-to-technical-events-is-awesome-djangocon-experience/ | Going to Technical Events is Awesome: A DjangoCon Experience – Vinta Software
+https://rmcomplexity.com/article/2018/08/04/first-few-tech-or-python-conferences.html | First (Few) Tech (or Python) Conference(s) | Remove Complexity
+
 https://blog.jupyter.org/the-future-of-jupytercon-2019-and-beyond-9e3002faaf48 | The Future of JupyterCon, 2019 and Beyond – Jupyter Blog
 
 https://twitter.com/webology/status/1072903484771655680 | Jeff Triplett on Twitter: "All that aside, local events are the key. I'd love to see a better remote experience too which we have yet to figure out or pull off. I'd like to see a virtual conference pulled off with speakers talking remotely but that has major logistical issues too.… https://t.co/tI69RYgsDV"
@@ -36,6 +75,11 @@ Mariatta
 * [PyLadies Vancouver Docs](http://pyladies-vancouver-online.readthedocs.io/en/latest) and [PyLadies Vancouver Docs GitHub](https://github.com/pyladies-vancouver/pyladies-vancouver)
 
 <!--
+DEFNA Videos
+https://www.youtube.com/watch?v=Nzi1zKtHv1Q&feature=youtu.be | [DEFNA] Anna Ossowski's Interview - YouTube
+
+https://blog.europython.eu/post/180894451327/europython-2019-venue-and-location-selected | EuroPython Blog — EuroPython 2019: Venue and location selected
+
 Keynote form, feedback forms (organizer and attendees)
 
 DSF Guidance
