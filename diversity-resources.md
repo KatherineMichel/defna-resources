@@ -1,6 +1,8 @@
 # Diversity Resources
 
 <!--
+https://www.ncwit.org/resources/ncwit-tips-13-tips-make-technical-conferences-more-inclusive/ncwit-tips-13-tips-make | NCWIT Tips: 13 Tips to Make Technical Conferences More Inclusive | National Center for Women & Information Technology
+
 http://incl.ca/excluded-confoo-speaker-dinner-happened-made-feel/ | Excluded from Confoo speaker dinner - what happened and how it made me feel. - Part of a Whole
 http://kojoidrissa.com/community/djangocon%20us/2018/08/31/to_danny.html | To Danny: On Keynotes and Inclusion | Kojo Idrissa ONLINE
 https://twitter.com/ubernostrum/status/1077032766657548288 | James Bennett on Twitter: "The only possible thing this requirement does for PyCon is privilege experienced members of the regular conference-circuit clique over less-experienced speakers. Is that the message they want to send? Especially since a tutorial pays $1000+ to the speaker?… https://t.co/lFhO38gcpI"
