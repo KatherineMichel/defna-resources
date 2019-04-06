@@ -1,11 +1,39 @@
 # Diversity Resources
 
 <!--
+https://nedbatchelder.com/blog/201711/toxic_experts.html
+https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside | After Years of Abusive E-mails, the Creator of Linux Steps Aside | The New Yorker
+
+Broken stair
+
 https://www.ncwit.org/resources/ncwit-tips-13-tips-make-technical-conferences-more-inclusive/ncwit-tips-13-tips-make | NCWIT Tips: 13 Tips to Make Technical Conferences More Inclusive | National Center for Women & Information Technology
 
 http://incl.ca/excluded-confoo-speaker-dinner-happened-made-feel/ | Excluded from Confoo speaker dinner - what happened and how it made me feel. - Part of a Whole
 http://kojoidrissa.com/community/djangocon%20us/2018/08/31/to_danny.html | To Danny: On Keynotes and Inclusion | Kojo Idrissa ONLINE
 https://twitter.com/ubernostrum/status/1077032766657548288 | James Bennett on Twitter: "The only possible thing this requirement does for PyCon is privilege experienced members of the regular conference-circuit clique over less-experienced speakers. Is that the message they want to send? Especially since a tutorial pays $1000+ to the speaker?… https://t.co/lFhO38gcpI"
+-->
+
+<!--
+https://2016.djangocon.us/diversity/ | Diversity
+https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/
+https://2016.djangocon.us/blog/2016/07/19/thank-you-diversity-sponsors/
+https://2016.djangocon.us/blog/2016/06/14/child-care-djangocon-us/
+https://2016.djangocon.us/blog/2016/06/07/assisted-listening-devices/
+40% talks by women
+https://2016.djangocon.us/blog/2016/05/30/early-bird-ticket-warning/
+
+https://2015.djangocon.us/schedule/presentation/72/ | Presentation: How to Practice Inclusion and Benefit Django | DjangoCon in Austin, TX
+
+http://ericholscher.com/blog/2018/feb/13/conference-mentorship/ | Conference Mentorship — Eric Holscher - Surfing in Kansas
+http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
+http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ | The Pac-Man Rule at Conferences — Eric Holscher - Surfing in Kansas
+
+https://dev.to/binarycodess/women-in-tech-we-need-you
+
+http://melissacollom.com/info/ | About — Melissa Collom
+https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me Offer Coaching to First-Time PyGotham Speakers
+
+http://heats.life/blog/2017/08/04/conferences
 -->
 
 ## Diversity Stats
@@ -96,29 +124,4 @@ https://2017.djangocon.eu/code-of-conduct-transparency-report/ | Code of Conduct
 
 Write the Docs
 http://www.writethedocs.org/conf/eu/2016/news/code-of-conduct-report/ | Code of Conduct Transparency Report - Write the Docs Europe 2016
--->
-
-<!--
-https://2016.djangocon.us/diversity/ | Diversity
-https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/
-https://2016.djangocon.us/blog/2016/07/19/thank-you-diversity-sponsors/
-https://2016.djangocon.us/blog/2016/06/14/child-care-djangocon-us/
-https://2016.djangocon.us/blog/2016/06/07/assisted-listening-devices/
-40% talks by women
-https://2016.djangocon.us/blog/2016/05/30/early-bird-ticket-warning/
-
-https://2015.djangocon.us/schedule/presentation/72/ | Presentation: How to Practice Inclusion and Benefit Django | DjangoCon in Austin, TX
-
-http://ericholscher.com/blog/2018/feb/13/conference-mentorship/ | Conference Mentorship — Eric Holscher - Surfing in Kansas
-http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
-http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ | The Pac-Man Rule at Conferences — Eric Holscher - Surfing in Kansas
-
-https://dev.to/binarycodess/women-in-tech-we-need-you
-
-http://melissacollom.com/info/ | About — Melissa Collom
-https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me Offer Coaching to First-Time PyGotham Speakers
-
-http://heats.life/blog/2017/08/04/conferences
-
-http://geekfeminism.wikia.com/wiki/Benevolent_dictator_incident | Benevolent dictator incident | Geek Feminism Wiki | FANDOM powered by Wikia
 -->
