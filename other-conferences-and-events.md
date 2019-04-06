@@ -98,6 +98,11 @@ DjangoCon Europe
 DjangoCon Europe Photos
 * [DjangoCon Europe Photos (Bartek Pawlik)](https://www.flickr.com/photos/140681500@N07/albums)
 
+<!--
+https://github.com/rixx/djangocon-europe-18-blog | rixx/djangocon-europe-18-blog
+https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
+-->
+
 Django Under the Hood
 * [Django Under the Hood](https://www.djangounderthehood.com), [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
 
