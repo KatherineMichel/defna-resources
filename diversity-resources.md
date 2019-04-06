@@ -1,5 +1,11 @@
 # Diversity Resources
 
+<!--
+PyCon
+http://kojoidrissa.com/community/djangocon%20us/2018/08/31/to_danny.html | To Danny: On Keynotes and Inclusion | Kojo Idrissa ONLINE
+https://twitter.com/ubernostrum/status/1077032766657548288 | James Bennett on Twitter: "The only possible thing this requirement does for PyCon is privilege experienced members of the regular conference-circuit clique over less-experienced speakers. Is that the message they want to send? Especially since a tutorial pays $1000+ to the speaker?… https://t.co/lFhO38gcpI"
+-->
+
 ## Diversity Stats
 
 * [DjangoCon US 2017: 47% talks women (Proposal Stats)](https://2017.djangocon.us/news/proposal-statistics)
