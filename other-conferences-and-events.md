@@ -108,6 +108,8 @@ Python Latin America
 * [Python Tijuana](https://pythontijuana.com/) and [Python Tijuana GitHub](https://github.com/PythonTijuana)
 
 <!--
+https://github.com/PythonTijuana | PythonTijuana (Python Tijuana)
+https://www.pylatam.org/precios/ | Precios
 https://www.python.org/events/python-events/751/ | PyCon Argentina | Python.org
 http://cucea.udg.mx/python-day-2018-live | PYTHON DAY 2018 LIVE | University administrative center of economic sciences
 http://mxmicodigo.com/noticias/ver/57 | mxmicodigo.com/noticias/ver/57
