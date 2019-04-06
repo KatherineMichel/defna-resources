@@ -3,6 +3,12 @@
 <!--
 https://www.theinformation.com/tech-events | Most Valuable Tech Events — The Information
 
+https://www.docker.com/dockercon/
+https://www.docker.com/events/women-at-dockercon-summit | Women@DockerCon Summit | Docker
+
+https://githubuniverse.com/
+https://github.blog/2018-08-02-github-universe-scholarship-program/ | Scholarships and accessibility at GitHub Universe 2018 - The GitHub Blog
+
 People
 https://www.jonafato.com | Tips for Conference Sponsors | jonafato
 https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
@@ -172,6 +178,11 @@ GeoPython and PyData- Major Events
 * [SciPy 2018 Website](https://scipy2018.scipy.org)
 * [EuroSciPy Website](https://www.euroscipy.org)
 * [JupyterCon](https://conferences.oreilly.com/jupyter)
+
+<!--
+https://pydata.org/la2018/ | PyData Los Angeles 2018
+https://twitter.com/PyDataLA | PyData Los Angeles (@PyDataLA) | Twitter
+-->
 
 PyData- Regional Events and Meetups
 * [PyData Meetup](https://www.meetup.com/pro/pydata)
