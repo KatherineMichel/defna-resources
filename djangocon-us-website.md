@@ -19,6 +19,8 @@ Logos, Swag, etc.
 Recap
 http://elaconf.com/2016/ | Ela Conf 2016
 https://2019.jsconf.eu/news/the-jsconf--cssconf-eu-finances/ | The JSConf & CSSconf EU Finances
+
+https://jefftriplett.com/colophon/ | Colophon | Jeff Triplett
 -->
 
 ### Tool Updates
