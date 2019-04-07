@@ -119,6 +119,9 @@ Python US- Bay Area and California
 * [San Diego Python GitHub](http://www.pythonsd.org) and [San Diego Python GitHub](https://github.com/pythonsd)
 
 <!--
+https://docs.google.com/forms/d/e/1FAIpQLSepQy9xDYrx0GrViFQcYf_pbw7uWiMx2QitXcC6AvBzScOEaQ/viewform
+https://docs.google.com/document/d/1Lm7IMwRfIwInqRR_uO4aVSVg4Tz-7E1ThABy5102M-w/edit
+
 https://medium.com/pybay/diversity-ac2728e384c2 | Diversity and Inclusion – PyBay2018 – Medium
 -->
 
@@ -214,10 +217,15 @@ PyCon International- Middle East and Asia
 * [PyCon Taiwan GitHub](https://github.com/pycontw)
 
 PyCon International- Africa
-* [Python Africa](https://africa.python.org) and [Python Africa GitHub](https://github.com/pythonafrica/pycon-africa-website)
+* [Python Africa](https://africa.python.org)
+* [PyCon Africa](http://africa.pycon.org) and [PyCon Africa GitHub](https://github.com/pythonafrica/pycon-africa-website)
 * [PyCon Namibia](https://na.pycon.org)
 * [Pycon Nigeria](https://pycon.ng)
 * [PyConZA](https://za.pycon.org)
+
+<!--
+https://twitter.com/amakarudze/status/1112826908960571392
+-->
 
 GeoPython and PyData- Major Events
 * [PyData](http://pydata.org), [PyData Twitter](https://twitter.com/PyData), and [PyData GitHub](https://github.com/pydata)
