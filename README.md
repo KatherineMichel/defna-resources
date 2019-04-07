@@ -292,6 +292,8 @@ https://www.flickr.com/photos/kennethreitz | Kenneth Reitz | Flickr
 * [PyCon Website GitHub](https://github.com/PyCon/pycon)
 
 <!--
+https://twitter.com/pycon | PyCon (@pycon) | Twitter
+
 PyCon- I'm personally interested
 https://us.pycon.org/2019/venue/meals/ | Meal Menus and Ingredients | PyCon 2019 in Cleveland, Ohio
 https://us.pycon.org/2019/events/opening-reception/ | Opening Reception | PyCon 2019 in Cleveland, Ohio
@@ -327,6 +329,8 @@ https://pycon.blogspot.com/2019/02/pycon-2020-2021-location.html | PyCon 2020-20
 https://calendly.com/ewdurbin/office-hours/12-22-2017 | Calendly - Ernest W. Durbin III
 
 https://pycon.blogspot.com/2017/10/introducing-pycon-hatchery-program.html | Introducing the PyCon Hatchery Program
+
+https://www.flickr.com/photos/129877449@N07/sets/72157693710700302/ | PyCon 2018 Posters | Flickr
 
 https://docs.google.com/document/d/1AJronL4fzHj_evRu-SWnlSEP2dOaXG7fa3hrvAKJ6Rs/edit | PyCon Talk Template - Google Docs
 https://docs.google.com/document/d/11tpuj7ZcQd9EoGdrgQuLuq0uAI9qSMeWg1d3WqgMWS0/edit | PyCon Tutorial Template - Google Docs
