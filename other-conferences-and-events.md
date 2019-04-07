@@ -169,6 +169,7 @@ Python North America- Canada
 * [PyCascades 2019 Website](https://2019.pycascades.com)
 
 <!--
+https://2019.pycascades.com/grants/
 https://docs.google.com/forms/d/e/1FAIpQLSfE1Cn_n4dfYFDi64mVKR4NggD1Lcqw4fhtlviRONlMtM4UOw/viewform | PyCascades 2019 - Diversity Scholarships
 PyCascades Volunteer Sign Up
 http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
