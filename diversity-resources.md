@@ -53,6 +53,12 @@ PyLadies and PyLadies Remote
 * [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
 * [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
+<!--
+PyLadies History
+https://twitter.com/pydanny/status/1008828986787430402 | Daniel Roy Greenfeld on Twitter: "There was an enormous amount of early resistance to PyLadies, including by people (of all genders/backgrounds) who now are stalwarts of diversity. It's wonderful to see how many people have come around.… https://t.co/IL1IEpxJuu"
+https://www.flickr.com/photos/pydanny/5670718476/in/dateposted-public/ | Pyladies inception moment! | Daniel Roy Greenfeld | Flickr
+-->
+
 ## Django Girls
 
 Django Girls
