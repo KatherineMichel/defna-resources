@@ -1,6 +1,10 @@
 # Diversity Resources
 
 <!--
+https://twitter.com/jessejiryudavis/status/1113482033983107072
+
+https://twitter.com/joshsimmons/status/1111292871594774529
+
 https://nedbatchelder.com/blog/201711/toxic_experts.html
 https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside | After Years of Abusive E-mails, the Creator of Linux Steps Aside | The New Yorker
 
@@ -92,6 +96,10 @@ Code of Conduct Hotlines
 * [PyCon Code of Conduct Hotline GitHub](https://github.com/PyCon/coc-hotline)
 
 <!--
+https://twitter.com/di_codes/status/1111464752713269248
+https://conducthotline.com/pages/about
+https://github.com/theacodes/conducthotline.com
+
 https://github.com/Mariatta/enhanced-coc-hotline/pull/31 | Make this a generic hotline / call forwarder service. by Mariatta · Pull Request #31 · Mariatta/enhanced-coc-hotline
 
 https://www.nexmo.com/blog/2018/11/15/pycascades-code-of-conduct-hotline-nexmo-voice-api-dr/?sf95336207=1 | Enhancing PyCascades Code of Conduct Hotline with Nexmo Voice API
