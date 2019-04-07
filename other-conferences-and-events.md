@@ -149,6 +149,7 @@ Python Latin America
 * [Python Tijuana](https://pythontijuana.com/) and [Python Tijuana GitHub](https://github.com/PythonTijuana)
 
 <!--
+https://www.facebook.com/groups/pythontijuana
 https://github.com/PythonTijuana | PythonTijuana (Python Tijuana)
 https://www.pylatam.org/precios/ | Precios
 https://www.python.org/events/python-events/751/ | PyCon Argentina | Python.org
@@ -177,6 +178,10 @@ PyCon International- Western Europe
 * [EuroPython GitHub](https://github.com/EuroPython) and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
 * [PyCon Italia Website](https://www.pycon.it), [Python Italia GitHub](https://github.com/pythonitalia), and [PyCon Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
 * [PyLondinium](https://pylondinium.org)
+
+<!--
+https://www.pycon.fr/ | PyConFr 2018 - there is an English Track at @pyconfr 2018 (Lile, France)
+-->
 
 PyCon International- Eastern Europe
 * [PyCon CZ Website](https://cz.pycon.org)
