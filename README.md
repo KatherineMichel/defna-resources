@@ -270,7 +270,10 @@ DjangoCon US 2017 Feedback
 <!--
 Blog posts
 http://anna-oz.tumblr.com/post/171736615240/san-diego-my-favorites | Anna's blog | San Diego - My Favorites
-https://www.caktusgroup.com/blog/2018/10/25/djangocon-2018-recap/
+https://www.caktusgroup.com/blog/2018/10/25/djangocon-2018-recap | DjangoCon 2018 Recap | Caktus Group
+https://www.caktusgroup.com/blog/2018/09/20/speakers-djangocon | Diverse Speaker Line-up for DjangoCon is Sharp | Caktus Group
+https://www.caktusgroup.com/blog/2017/08/23/djangocon-2017-recap
+https://www.caktusgroup.com/blog/2016/07/14/caktus-djangocon-2016-talks-have-us-talking
 https://www.vinta.com.br/blog/2017/going-to-technical-events-is-awesome-djangocon-experience/ | Going to Technical Events is Awesome: A DjangoCon Experience – Vinta Software
 https://rmcomplexity.com/article/2018/08/04/first-few-tech-or-python-conferences.html | First (Few) Tech (or Python) Conference(s) | Remove Complexity
 
