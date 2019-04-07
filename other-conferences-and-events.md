@@ -232,6 +232,10 @@ GeoPython and PyData- Major Events
 * [AnacondaCon](https://anacondacon.io)
 
 <!--
+http://scipyla.org/conf/2019/
+https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events | Upcoming events · scikit-learn/scikit-learn Wiki
+https://scipy2018.scipy.org/ehome/299527/648141/ | Sprints | SciPy 2018 Conference
+
 https://www.euroscipy.org/2018/
 
 https://twitter.com/DynamicWebPaige/status/1017946412095561728 | 👩‍💻 DynamicWebPaige @ OSCON 💻✨ on Twitter: "Can't wait to get started working on #PyOpenSci! If anyone wants to join in the planning, please DM and we'll add your email to @_inundata's master list! 👩‍🔬✨ @SciPyConf #SciPY2018… https://t.co/m5eAYgNLRs"
