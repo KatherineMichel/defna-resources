@@ -300,6 +300,7 @@ https://twitter.com/pycon | PyCon (@pycon) | Twitter
 PyCon- I'm personally interested
 https://us.pycon.org/2019/venue/meals/ | Meal Menus and Ingredients | PyCon 2019 in Cleveland, Ohio
 https://us.pycon.org/2019/events/opening-reception/ | Opening Reception | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/events/newcomer_orientation/
 https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
 Tweets?
 https://us.pycon.org/2019/hatchery/charlas/ | PyCon Charlas | PyCon 2019 in Cleveland, Ohio
