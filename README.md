@@ -93,6 +93,8 @@ Positive Python
 * [#positivepython](http://www.positivepython.org/twitter.html)
 
 <!--
+https://www.python.org/psf/fellows/ | PSF Fellow Membership | Python.org
+
 https://www.python.org/psf/newsletter/ | PSF Newsletter Signup | Python Software Foundation
 
 https://www.python.org/community/workshops
@@ -105,6 +107,7 @@ https://wiki.python.org/moin/StartingYourUsersGroup
 
 https://www.python.org/community/awards/psf-awards/ | PSF Community Service Awards | Python.org
 
+https://mail.python.org/mailman/listinfo/psf-community | PSF-Community Info Page
 https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
 
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
