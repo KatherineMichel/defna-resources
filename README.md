@@ -302,6 +302,31 @@ https://www.flickr.com/photos/kennethreitz | Kenneth Reitz | Flickr
 <!--
 https://twitter.com/pycon | PyCon (@pycon) | Twitter
 
+PyCon 2018 Posters
+
+PyCon- I'm personally interested
+https://us.pycon.org/2019/venue/meals/ | Meal Menus and Ingredients | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/events/opening-reception/ | Opening Reception | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/events/newcomer_orientation/
+https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
+Tweets?
+https://us.pycon.org/2019/hatchery/charlas/ | PyCon Charlas | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/events/pyladieslunch/
+https://us.pycon.org/2019/events/auction/
+https://us.pycon.org/2019/hatchery/maintainers/ | Maintainers Summit | PyCon 2019 in Cleveland, Ohio
+https://pycon-staging.python.org/2019/schedule/posters/list/
+https://us.pycon.org/2019/hatchery/artofpython/ | The Art of Python | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/events/open-spaces/
+https://us.pycon.org/2019/community/sprints/
+https://us.pycon.org/2019/hatchery/mentoredsprints/ | Mentored sprints for diverse beginners | PyCon 2019 in Cleveland, Ohio
+https://pycon-staging.python.org/2019/events/startup_row/
+https://pycon-staging.python.org/2019/sponsors/jobs/
+https://pycon-staging.python.org/2019/sponsors/exhibit-hall/
+
+PyCon Adafruit
+https://blog.adafruit.com/2019/02/23/digi-key-and-adafruit-at-pycon-all-attendees-will-receive-a-circuit-playground-express-digikey-adafruit-pycon-pycon2019/ | Digi-Key and Adafruit at PyCon – All attendees will receive a Circuit Playground Express! @digikey @adafruit @pycon #pycon2019 « Adafruit Industries – Makers, hackers, artists, designers and engineers!
+https://github.com/adafruit/circuitpython_kernel | adafruit/circuitpython_kernel: Jupyter kernel to interact with CircuitPython board over USB
+
 https://www.papercall.io/pycon-maintainers-summit | PaperCall.io - Pycon 2019 Maintainers Summit
 http://pyfound.blogspot.com/2019/01/python-in-education-request-for-ideas.html | Python Software Foundation News: Python in Education - Request for Ideas
 https://www.eventbrite.com/e/giphy-hosts-python-software-foundations-startup-row-registration-52977014677?discount=GIPHYEng | Giphy hosts Python Software Foundation's Startup Row Registration, Tue, Dec 4, 2018 at 6:00 PM | Eventbrite
