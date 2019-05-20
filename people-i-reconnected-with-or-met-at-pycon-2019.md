@@ -7,7 +7,6 @@ Eldarion
 
 DEFNA, DSF, PSF, DjangoCon- Had Already Met
 * Anna Ossowski, @OssAnna16
-* Carol Willing, @WillingCarol
 * Ernest W. Durbin III, @EWDurbin	
 * Frank Wiles, @fwiles
 * Jeff Triplett, @webology
@@ -43,6 +42,7 @@ Python Core Developers- Hadn't Met
 * Barry Warsaw, @pumpichank
 * Brandon Rhodes, @brandon_rhodes
 * Brett Cannon, @brettsky
+* Carol Willing, @WillingCarol
 * Cheryl Sabella, @cherylsabella
 * Christian Heimes, @ChristianHeimes
 * Donald Stufft, @dstufft
