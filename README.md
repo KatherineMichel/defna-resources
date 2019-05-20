@@ -1,10 +1,48 @@
 # DEFNA Resources
 
 <!--
-https://twitter.com/Transition/lists/python-communities/members | List members
-https://github.com/jonatasbaldin/python-community-map | jonatasbaldin/python-community-map: A map full of lovely Python communities ❤️🐍🌎
+Regional conferences
+https://pycon.org/ | https://pycon.org
+-->
 
-## Conferences
+<!--
+https://pycon.blogspot.com/2019/02/pycon-2020-2021-location.html | PyCon 2020-2021 Location
+
+PyCon- I'm personally interested
+https://us.pycon.org/2019/about/ | About PyCon | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/about/staff/ | Staff Information | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/about/volunteers/ | Volunteering On-Site | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/newcomer | Page not found · GitHub Pages
+https://us.pycon.org/2019/events/newcomer_orientation/ | Newcomer Orientation | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/venue/meals/ | Meal Menus and Ingredients | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/events/opening-reception/ | Opening Reception | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/schedule/tutorials/ | Tutorials Schedule | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/keynote-speakers/ | Keynote Speakers | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/hatchery/charlas/ | PyCon Charlas | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/hatchery/maintainers/ | Maintainers Summit | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/community/sprints/ | Development Sprints | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/sponsors/jobs/ | PyCon Jobs Fair | PyCon 2019 in Cleveland, Ohio
+https://pycon-staging.python.org/2019/sponsors/exhibit-hall/
+https://pycon-staging.python.org/2019/events/startup_row/
+https://us.pycon.org/2019/hatchery/artofpython/ | The Art of Python | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/events/open-spaces/
+https://us.pycon.org/2019/events/pyladieslunch/
+https://us.pycon.org/2019/events/auction/
+https://us.pycon.org/2019/events/dinners/ | Evening Dinners | PyCon 2019 in Cleveland, Ohio
+https://us.pycon.org/2019/schedule/posters/list/
+https://us.pycon.org/2019/hatchery/mentoredsprints/ | Mentored sprints for diverse beginners | PyCon 2019 in Cleveland, Ohio
+https://github.com/pycon-mentored-sprints/2019-pycon-mentored-sprint | pycon-mentored-sprints/2019-pycon-mentored-sprint: Online Resources for 2019 PyCon Mentored Sprint for Diverse Beginners
+
+PyCon Slides
+https://github.com/PyCon/2019-slides | Page not found · GitHub
+https://speakerdeck.com/pycon2019 | Presentations by PyCon 2019 - Speaker Deck
+
+https://www.youtube.com/watch?v=iyV1NUaSt0k | (1) Ernest W. Durbin III - Keynote - PyCon 2019 - YouTube
+-->
+
+<!--
+Conferences and meetups
 
 General
 * [PaperCall](https://www.papercall.io)
@@ -26,11 +64,25 @@ Kansas City, St. Louis
 -->
 
 <!--
+https://twitter.com/Transition/lists/python-communities/members | List members
+https://github.com/jonatasbaldin/python-community-map | jonatasbaldin/python-community-map: A map full of lovely Python communities ❤️🐍🌎
+-->
+
+<!--
+Preparing for a talk
+
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks – Nina Zakharenko – Medium
 https://twitter.com/nnja/status/1096609124559642626 | 𝙽𝚒𝚗𝚊 𝚉𝚊𝚔𝚑𝚊𝚛𝚎𝚗𝚔𝚘 💖🐍 on Twitter: "2: Choosing a Topic Takeaways: - Everyone, including you, has something interesting to say. Use everyday inspiration to pick a topic. - Choose a topic that you’re passionate about. Your enthusiasm will show. - Keep up to date on open Calls For Proposals https://t.co/nunhr0Nqu7"
 https://twitter.com/WillingCarol/status/1100575073189093376 | Carol Willing on Twitter: "I've read thousands of talk proposals and @nnja consistently writes excellent proposals. Whether you are an experienced speaker or just starting, this series of posts is wonderful. Thanks Nina for taking the time to put together.… https://t.co/tiHv4eApKz"
 
 https://overreacted.io/preparing-for-tech-talk-part-1-motivation/ | Preparing for a Tech Talk, Part 1: Motivation - Overreacted
+-->
+
+<!--
+Talk playlists
+
+https://2019.djangocon.eu/live/
+https://www.youtube.com/watch?v=oAV73PRRWNY | Djangocon 2019 - Europe - Day 3 - YouTube
 
 * [PyData Playlists](https://www.youtube.com/user/PyDataTV/playlists)
 
@@ -70,78 +122,6 @@ EuroPython
 * [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
 -->
 
-  ## Python Software Foundation (PSF)
-
-Python Software Foundation (PSF)
-* [PSF](https://www.python.org/psf), [PSF Blogspot](http://pyfound.blogspot.com), [PSF Twitter](https://twitter.com/ThePSF)
-* [Legacy PSF Website](http://legacy.python.org)
-* [PSF Mission](https://www.python.org/psf/mission)
-* [PSF Bylaws](https://www.python.org/psf/bylaws)
-
-Python Software Foundation (PSF) People
-* [PSF Members](https://www.python.org/psf/members)
-* [PSF Committees/Workgroups](https://www.python.org/psf/committees)
-
-Python- Members
-* [PSF Membership FAQ](https://www.python.org/psf/membership)
-* [PSF Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
-
-Community
-* [Python Community](https://www.python.org/community)
-
-Positive Python
-* [#positivepython](http://www.positivepython.org/twitter.html)
-
-<!--
-https://www.python.org/psf/fellows/ | PSF Fellow Membership | Python.org
-
-https://www.python.org/psf/newsletter/ | PSF Newsletter Signup | Python Software Foundation
-
-https://www.python.org/community/workshops
-https://wiki.python.org/moin/LocalUserGroups
-
-https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
-https://mail.python.org/mailman/listinfo/group-organizers
-https://github.com/python/community-starter-kit
-https://wiki.python.org/moin/StartingYourUsersGroup
-
-https://www.python.org/community/awards/psf-awards/ | PSF Community Service Awards | Python.org
-
-https://mail.python.org/mailman/listinfo/psf-community | PSF-Community Info Page
-https://github.com/python/psf-community-resources | python/psf-community-resources: Short guides to PSF-related resources
-
-https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
-
-https://www.python.org/psf/membership/ | PSF Membership FAQ | Python Software Foundation
-http://pyfound.blogspot.com.au/2015/02/enroll-as-psf-voting-member.html
-PSF Managing/Contributing Membership Self-Certification
-https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/viewform
-
-http://pyfound.blogspot.com/2018/01/2017-year-in-review.html | Python Software Foundation News: 2017: A year in review
--->
-
-## Django Software Foundation
-
-Django Software Foundation
-* [DSF Community](https://www.djangoproject.com/community)
-* [DSF News & Events](https://www.djangoproject.com/weblog)
-* [DSF Fundraising](https://www.djangoproject.com/fundraising)
-* [DSF Prizes](https://www.djangoproject.com/foundation/prizes)
-
-Django Software Foundation (DSF) People
-* [DSF Developer Members](https://www.djangoproject.com/foundation/developer-members)
-* [DSF Individual Members](https://www.djangoproject.com/foundation/individual-members)
-* [DSF Corporate Members](https://www.djangoproject.com/foundation/corporate-members)
-
-Django Software Foundation Individual Membership
-* [DSF Member Forum](https://groups.google.com/forum/#!forum/dsf-members)
-
-<!--
-https://www.djangoproject.com/weblog/2018/nov/27/dsf-board-why-stand/ | The DSF Board elections - what about you? | Weblog | Django
-
-https://www.revsys.com/tidbits/fret-free-introduction-to-django-and-the-django-software-foundation/ | Fret Free -- Introduction to Django and the Django Software Foundation
--->
-
 ## DEFNA
 
 DEFNA (Django Events Foundation North America)
@@ -171,6 +151,12 @@ Mariatta
 * [PyLadies Vancouver Docs](http://pyladies-vancouver-online.readthedocs.io/en/latest) and [PyLadies Vancouver Docs GitHub](https://github.com/pyladies-vancouver/pyladies-vancouver)
 
 <!--
+https://www.python.org/community/workshops
+https://wiki.python.org/moin/LocalUserGroups
+https://mail.python.org/mailman/listinfo/group-organizers
+https://github.com/python/community-starter-kit
+https://wiki.python.org/moin/StartingYourUsersGroup
+
 https://python-conferences.slack.com/messages/@slackbot/
 https://python-confs-slack-invites.herokuapp.com/invite
 
@@ -208,6 +194,7 @@ https://gist.github.com/joshsimmons/433513c7b3a249031281d99f7df9943a
 ## What Will the Conference of the Future Look Like?
 
 <!--
+https://twitter.com/kennethreitz/status/1118654080522625024 | Kenneth ☤ Reitz on Twitter: "yay pycon remote will be happening \o/… "
 https://docs.google.com/forms/d/1vqir0ZMgIDRz7qRkxupFm6H4UbjwEbfcP147WIJ03NQ/viewform?edit_requested=true | PyCon, Remote Edition
 
 https://blog.jupyter.org/the-future-of-jupytercon-2019-and-beyond-9e3002faaf48 | The Future of JupyterCon, 2019 and Beyond – Jupyter Blog
@@ -304,25 +291,6 @@ https://twitter.com/pycon | PyCon (@pycon) | Twitter
 
 PyCon 2018 Posters
 
-PyCon- I'm personally interested
-https://us.pycon.org/2019/venue/meals/ | Meal Menus and Ingredients | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/events/opening-reception/ | Opening Reception | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/events/newcomer_orientation/
-https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
-Tweets?
-https://us.pycon.org/2019/hatchery/charlas/ | PyCon Charlas | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/events/pyladieslunch/
-https://us.pycon.org/2019/events/auction/
-https://us.pycon.org/2019/hatchery/maintainers/ | Maintainers Summit | PyCon 2019 in Cleveland, Ohio
-https://pycon-staging.python.org/2019/schedule/posters/list/
-https://us.pycon.org/2019/hatchery/artofpython/ | The Art of Python | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/events/open-spaces/
-https://us.pycon.org/2019/community/sprints/
-https://us.pycon.org/2019/hatchery/mentoredsprints/ | Mentored sprints for diverse beginners | PyCon 2019 in Cleveland, Ohio
-https://pycon-staging.python.org/2019/events/startup_row/
-https://pycon-staging.python.org/2019/sponsors/jobs/
-https://pycon-staging.python.org/2019/sponsors/exhibit-hall/
-
 PyCon Adafruit
 https://blog.adafruit.com/2019/02/23/digi-key-and-adafruit-at-pycon-all-attendees-will-receive-a-circuit-playground-express-digikey-adafruit-pycon-pycon2019/ | Digi-Key and Adafruit at PyCon – All attendees will receive a Circuit Playground Express! @digikey @adafruit @pycon #pycon2019 « Adafruit Industries – Makers, hackers, artists, designers and engineers!
 https://github.com/adafruit/circuitpython_kernel | adafruit/circuitpython_kernel: Jupyter kernel to interact with CircuitPython board over USB
@@ -335,7 +303,6 @@ https://twitter.com/pycon/status/1108467001515749377 | PyCon on Twitter: "We hav
 
 PyCon Newcomers
 https://twitter.com/ewa_jodlowska/status/1103778448131219460 | Ewa Jodlowska on Twitter: "I’m in awe of the amount of newcomers we get at @pycon. For 2019, 50% of registrants are first time attendees! Here are some thoughts for those coming to #pycon2019 for the first time:"
-
 
 PyCon Volunteering
 https://us.pycon.org/2019/about/volunteers/ | Volunteering On-Site | PyCon 2019 in Cleveland, Ohio
