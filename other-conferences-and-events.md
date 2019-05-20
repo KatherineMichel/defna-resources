@@ -1,6 +1,9 @@
 # Other Conferences and Events
 
 <!--
+https://twitter.com/loooorenanicole/status/1125120936989085696 | Loooorena Mesa @ #PyCon2019 🐍🐍🐍 on Twitter: "Always so amazing to see all the amazing #Python logos of events happening around the world. I see two I’ve been at in the last year - @PyOhio @PyCaribbean!!! #PyCon2019… https://t.co/TQAEJlWbyO"
+https://twitter.com/chriswilcox47/status/1125030348449038336 | Chris Wilcox #PyCon2019 🐍, 🐢🚀, ☁️, 🏍️ on Twitter: "If you missed it or couldn't take notes fast enough, here is a HUGE list of regional Python Conferences to consider attending. CFPs are open for speaking opportunities.… https://t.co/dFTi9AAZMV"
+
 https://www.docker.com/dockercon/
 https://www.docker.com/events/women-at-dockercon-summit | Women@DockerCon Summit | Docker
 
@@ -80,6 +83,17 @@ PyCon UK
 * [PyCon UK 2017](http://2017.pyconuk.org)
 * [PyCon UK 2016 Website GitHub](https://github.com/PyconUK/2016.pyconuk.org)
 
+PyCon International- Australia
+* [PyCon AU](https://pycon-au.org) and [PyCon AU GitHub](https://github.com/pyconau)
+* [PyCon AU 2019 Website](http://2019.pycon-au.org) and [PyCon AU 2019 Website GitHub](https://github.com/pyconau/2019.pycon-au.org)
+* [PyCon AU 2018 Website](http://2018.pycon-au.org) and [PyCon AU 2018 Website GitHub](https://github.com/pyconau/2018.pycon-au.org)
+* [PyCon AU 2017 Website](https://2017.pycon-au.org) and [PyCon AU 2017 Website GitHub](https://github.com/pyconau2017)
+
+<!--
+https://twitter.com/glasnt/status/1122334122620272640 | Katie McLaughlin ✨ on Twitter: "As are we 😇… "
+https://github.com/glasnt/pyconau-test
+-->
+
 DjangoCon Australia
 * [DjangoCon Australia](http://djangocon.com.au)
 * [DjangoCon Australia 2019 Website](http://2019.djangocon.com.au) and [DjangoCon Australia 2019 Webpage (PyCon AU)](https://2018.pycon-au.org/djangoconau)
@@ -139,6 +153,7 @@ Python US- Midwest
 * [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
 
 <!--
+https://twitter.com/AutomationPanda/status/1124661847267979264 | Andy @ PyCon 2019 on Twitter: "Who wants to help (re)launch PyCarolinas? Come to our Open Space at 10am on Sunday in Room 22 at #PyCon2019! @corbinbs @tdhopper @tryexceptpass"
 https://www.pyohio.org/2018/
 -->
 
@@ -148,13 +163,11 @@ Python US- More
 
 Python Latin America
 * [PythonDay Mexico](http://pythonday.mx)
-* [PyCon Latam](https://www.pylatam.org)
+* [PyCon LatAm](https://www.pylatam.org)
 * [Python Tijuana](https://pythontijuana.com/) and [Python Tijuana GitHub](https://github.com/PythonTijuana)
 
 <!--
 https://www.facebook.com/groups/pythontijuana
-https://github.com/PythonTijuana | PythonTijuana (Python Tijuana)
-https://www.pylatam.org/precios/ | Precios
 https://www.python.org/events/python-events/751/ | PyCon Argentina | Python.org
 http://cucea.udg.mx/python-day-2018-live | PYTHON DAY 2018 LIVE | University administrative center of economic sciences
 http://mxmicodigo.com/noticias/ver/57 | mxmicodigo.com/noticias/ver/57
@@ -180,12 +193,9 @@ PyCon International- Western Europe
 * [EuroPython](https://europython.eu) and [EuroPython Blog](https://blog.europython.eu)
 * [EuroPython 2018 Website](https://ep2018.europython.eu), [EuroPython 2017 Website](https://ep2017.europython.eu), and [EuroPython 2016 Website](https://ep2016.europython.eu)
 * [EuroPython GitHub](https://github.com/EuroPython) and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
+* [PyCon France Website](https://www.pycon.fr)
 * [PyCon Italia Website](https://www.pycon.it), [Python Italia GitHub](https://github.com/pythonitalia), and [PyCon Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
 * [PyLondinium](https://pylondinium.org)
-
-<!--
-https://www.pycon.fr/ | PyConFr 2018 - there is an English Track at @pyconfr 2018 (Lile, France)
--->
 
 PyCon International- Eastern Europe
 * [PyCon CZ Website](https://cz.pycon.org)
@@ -196,16 +206,6 @@ PyCon International- Eastern Europe
 <!--
 https://www.meetup.com/LondonPython/ | London Python (London, United Kingdom) | Meetup
 https://www.eventbrite.co.uk/e/djugl-django-user-group-london-tickets-39048331611 | DJUGL - Django User Group London Tickets, Tue, 21 Nov 2017 at 19:00 | Eventbrite
--->
-
-PyCon International- Australia
-* [PyCon AU](https://pycon-au.org) and [PyCon AU GitHub](https://github.com/pyconau)
-* [PyCon AU 2019 Website](http://2019.pycon-au.org) and [PyCon AU 2019 Website GitHub](https://github.com/pyconau/2019.pycon-au.org)
-* [PyCon AU 2018 Website](http://2018.pycon-au.org) and [PyCon AU 2018 Website GitHub](https://github.com/pyconau/2018.pycon-au.org)
-* [PyCon AU 2017 Website](https://2017.pycon-au.org) and [PyCon AU 2017 Website GitHub](https://github.com/pyconau2017)
-
-<!--
-https://github.com/glasnt/pyconau-test
 -->
 
 PyCon International- Middle East and Asia
@@ -225,6 +225,7 @@ PyCon International- Africa
 * [PyConZA](https://za.pycon.org)
 
 <!--
+https://twitter.com/pyconafrica
 https://twitter.com/amakarudze/status/1112826908960571392
 -->
 
