@@ -77,6 +77,7 @@ Had Already Met, but Wanted to Meet Again
 * Adrienne Friend, @adriennefriend
 * Andrew Pinkham, @AndrewsForge
 * Arianne Dee, @dee_buggy
+* CalvinHP, @calvinhp
 * David Baumgold, @singingwolfboy
 * Felice Ho, @codeLovingYogi
 * Philip James, @phildini
@@ -105,6 +106,7 @@ DevRel- New
 * Casey Faist, @cfactoid
 * Emanuil Tolev, @emanuil_tolev
 * Judy2k, @judy2k
+* Michael Lynn, @mlynn
 * Steve Dower, @zooba
 
 Authors, Teachers, Researchers- New
@@ -142,6 +144,7 @@ New
 * “Pandy” Knight, @AutomationPanda
 * Paul Hildebrandt, @paulhildebrandt
 * Petr Viktorin, @EnCuKou
+* Susan Tan, @ArcTanSusan
 * Veronica Hanus, @veronica_hanus
 
 ## Didn't Meet
