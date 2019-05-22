@@ -1,71 +1,13 @@
 # DEFNA Resources
 
 <!--
-Regional conferences
-https://pycon.org/ | https://pycon.org
--->
-
-<!--
 https://pycon.blogspot.com/2019/02/pycon-2020-2021-location.html | PyCon 2020-2021 Location
-
-PyCon- I'm personally interested
-https://us.pycon.org/2019/about/ | About PyCon | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/about/staff/ | Staff Information | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/about/volunteers/ | Volunteering On-Site | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/newcomer | Page not found · GitHub Pages
-https://us.pycon.org/2019/events/newcomer_orientation/ | Newcomer Orientation | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/venue/meals/ | Meal Menus and Ingredients | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/events/opening-reception/ | Opening Reception | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/schedule/tutorials/ | Tutorials Schedule | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/keynote-speakers/ | Keynote Speakers | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/hatchery/charlas/ | PyCon Charlas | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/hatchery/maintainers/ | Maintainers Summit | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/community/sprints/ | Development Sprints | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/sponsors/jobs/ | PyCon Jobs Fair | PyCon 2019 in Cleveland, Ohio
-https://pycon-staging.python.org/2019/sponsors/exhibit-hall/
-https://pycon-staging.python.org/2019/events/startup_row/
-https://us.pycon.org/2019/hatchery/artofpython/ | The Art of Python | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/events/open-spaces/
-https://us.pycon.org/2019/events/pyladieslunch/
-https://us.pycon.org/2019/events/auction/
-https://us.pycon.org/2019/events/dinners/ | Evening Dinners | PyCon 2019 in Cleveland, Ohio
-https://us.pycon.org/2019/schedule/posters/list/
-https://us.pycon.org/2019/hatchery/mentoredsprints/ | Mentored sprints for diverse beginners | PyCon 2019 in Cleveland, Ohio
-https://github.com/pycon-mentored-sprints/2019-pycon-mentored-sprint | pycon-mentored-sprints/2019-pycon-mentored-sprint: Online Resources for 2019 PyCon Mentored Sprint for Diverse Beginners
 
 PyCon Slides
 https://github.com/PyCon/2019-slides | Page not found · GitHub
 https://speakerdeck.com/pycon2019 | Presentations by PyCon 2019 - Speaker Deck
 
 https://www.youtube.com/watch?v=iyV1NUaSt0k | (1) Ernest W. Durbin III - Keynote - PyCon 2019 - YouTube
--->
-
-<!--
-Conferences and meetups
-
-General
-* [PaperCall](https://www.papercall.io)
-
-Python and Django
-* [PSF Python Events](https://www.python.org/events)
-* [Meetup Topic Django](https://www.meetup.com/topics/django)
-* [Meetup Topic Python](http://www.meetup.com/topics/python)
-* [Python Conferences Repo](https://github.com/python-organizers/conferences)
-* [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
-
-https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
-https://www.meetup.com/topics/python/all/
-https://www.meetup.com/topics/django/all/
-https://www.meetup.com/sfpython/ | San Francisco Python Meetup Group (San Francisco, CA) | Meetup
-https://www.meetup.com/PyLadiesSF/events/258901277/ | Massages, Smoothies, and Projects Night | Meetup
-https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
-Kansas City, St. Louis
--->
-
-<!--
-https://twitter.com/Transition/lists/python-communities/members | List members
-https://github.com/jonatasbaldin/python-community-map | jonatasbaldin/python-community-map: A map full of lovely Python communities ❤️🐍🌎
 -->
 
 <!--
