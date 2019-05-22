@@ -1,9 +1,6 @@
 # Other Conferences and Events
 
 <!--
-https://twitter.com/loooorenanicole/status/1125120936989085696 | Loooorena Mesa @ #PyCon2019 🐍🐍🐍 on Twitter: "Always so amazing to see all the amazing #Python logos of events happening around the world. I see two I’ve been at in the last year - @PyOhio @PyCaribbean!!! #PyCon2019… https://t.co/TQAEJlWbyO"
-https://twitter.com/chriswilcox47/status/1125030348449038336 | Chris Wilcox #PyCon2019 🐍, 🐢🚀, ☁️, 🏍️ on Twitter: "If you missed it or couldn't take notes fast enough, here is a HUGE list of regional Python Conferences to consider attending. CFPs are open for speaking opportunities.… https://t.co/dFTi9AAZMV"
-
 https://www.docker.com/dockercon/
 https://www.docker.com/events/women-at-dockercon-summit | Women@DockerCon Summit | Docker
 
@@ -58,6 +55,39 @@ Python
 
 ## Finding Events
 
+Official PyCons Site
+* [Official PyCons Site](https://pycon.org)
+
+Conferences- Python
+* [PSF Python Events](https://www.python.org/events)
+* [Python Conferences Repo](https://github.com/python-organizers/conferences)
+* [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
+* [Python Conferences Mailing List](https://mail.python.org/mailman/listinfo/conferences)
+
+Events and Meetups
+* [Eventbrite](https://www.eventbrite.com)
+* [Meetup](https://www.meetup.com)
+
+Meetups- Python and Django
+* [Meetup Topic Django](https://www.meetup.com/topics/django) and [Meetup Topic Django All](https://www.meetup.com/topics/python/all)
+* [Meetup Topic Python](http://www.meetup.com/topics/python) and [Meetup Topic Python All](https://www.meetup.com/topics/django/all)
+
+<!--
+Conferences and meetups
+
+https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
+https://www.meetup.com/sfpython/ | San Francisco Python Meetup Group (San Francisco, CA) | Meetup
+https://www.meetup.com/PyLadiesSF/events/258901277/ | Massages, Smoothies, and Projects Night | Meetup
+https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
+Kansas City, St. Louis
+
+https://twitter.com/Transition/lists/python-communities/members | List members
+https://github.com/jonatasbaldin/python-community-map | jonatasbaldin/python-community-map: A map full of lovely Python communities ❤️🐍🌎
+-->
+
+CfPs
+* [PaperCall](https://www.papercall.io)
+
 Conferences- General
 * [The Information: Most Valuable Tech Events](https://www.theinformation.com/tech-events) 
 * [Crunchbase Global Events List](https://www.crunchbase.com/search/events)  
@@ -66,16 +96,14 @@ Conferences- General
 * [Lanyrd](https://web.archive.org/web/20181108064322/http://lanyrd.com)
 
 <!--
+https://twitter.com/loooorenanicole/status/1125120936989085696 | Loooorena Mesa @ #PyCon2019 🐍🐍🐍 on Twitter: "Always so amazing to see all the amazing #Python logos of events happening around the world. I see two I’ve been at in the last year - @PyOhio @PyCaribbean!!! #PyCon2019… https://t.co/TQAEJlWbyO"
+https://twitter.com/chriswilcox47/status/1125030348449038336 | Chris Wilcox #PyCon2019 🐍, 🐢🚀, ☁️, 🏍️ on Twitter: "If you missed it or couldn't take notes fast enough, here is a HUGE list of regional Python Conferences to consider attending. CFPs are open for speaking opportunities.… https://t.co/dFTi9AAZMV"
+
 https://github.com/tech-conferences/confs.tech | tech-conferences/confs.tech: List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android - PHP - Data - Devops
 https://confs.tech/?topics=&countries=U.S.A. | Tech conferences in 2019 and 2020 | Confs.tech
 -->
 
-Conferences- Python
-* [Python Conferences Repo](https://github.com/python-organizers/conferences)
-* [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
-* [Python Conferences Mailing List](https://mail.python.org/mailman/listinfo/conferences)
-
-## Events and Meetups
+## Python Events and Meetups
 
 PyCon UK
 * [PyCon UK](http://uk.python.org) and [PyCon UK GitHub](https://github.com/PyconUK)
