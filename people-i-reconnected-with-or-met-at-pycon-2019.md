@@ -53,6 +53,7 @@ Python Core Developers- Hadn't Met
 * Larry Hastings, @LarryHastings
 * Łukasz Langa, @llanga
 * Nick Coghlan, @ncoghlan_dev
+* Petr Viktorin, @EnCuKou
 * Raymond Hettinger, @raymondh
 * Stéphane Wirtel, @matrixise
 * Sviatoslove.py, @webKnjaZ
@@ -144,7 +145,6 @@ New
 * Matt Zarracina, @MLZarracina
 * “Pandy” Knight, @AutomationPanda
 * Paul Hildebrandt, @paulhildebrandt
-* Petr Viktorin, @EnCuKou
 * Susan Tan, @ArcTanSusan
 * Veronica Hanus, @veronica_hanus
 
