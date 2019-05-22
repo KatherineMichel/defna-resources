@@ -48,6 +48,7 @@ Python Core Developers- Hadn't Met
 * Donald Stufft, @dstufft
 * Emily Morehouse-Valcarcel, @emilyemorehouse
 * Eric Snow, @ericsnowcrntly
+* Julien Palard, @sizeof
 * Kushal Das, @kushaldas
 * Larry Hastings, @LarryHastings
 * Łukasz Langa, @llanga
