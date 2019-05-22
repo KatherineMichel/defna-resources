@@ -1,23 +1,11 @@
 # DEFNA Resources
 
 <!--
-https://pycon.blogspot.com/2019/02/pycon-2020-2021-location.html | PyCon 2020-2021 Location
-
 PyCon Slides
 https://github.com/PyCon/2019-slides | Page not found · GitHub
 https://speakerdeck.com/pycon2019 | Presentations by PyCon 2019 - Speaker Deck
 
 https://www.youtube.com/watch?v=iyV1NUaSt0k | (1) Ernest W. Durbin III - Keynote - PyCon 2019 - YouTube
--->
-
-<!--
-Preparing for a talk
-
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks – Nina Zakharenko – Medium
-https://twitter.com/nnja/status/1096609124559642626 | 𝙽𝚒𝚗𝚊 𝚉𝚊𝚔𝚑𝚊𝚛𝚎𝚗𝚔𝚘 💖🐍 on Twitter: "2: Choosing a Topic Takeaways: - Everyone, including you, has something interesting to say. Use everyday inspiration to pick a topic. - Choose a topic that you’re passionate about. Your enthusiasm will show. - Keep up to date on open Calls For Proposals https://t.co/nunhr0Nqu7"
-https://twitter.com/WillingCarol/status/1100575073189093376 | Carol Willing on Twitter: "I've read thousands of talk proposals and @nnja consistently writes excellent proposals. Whether you are an experienced speaker or just starting, this series of posts is wonderful. Thanks Nina for taking the time to put together.… https://t.co/tiHv4eApKz"
-
-https://overreacted.io/preparing-for-tech-talk-part-1-motivation/ | Preparing for a Tech Talk, Part 1: Motivation - Overreacted
 -->
 
 <!--
@@ -93,6 +81,14 @@ Mariatta
 * [PyLadies Vancouver Docs](http://pyladies-vancouver-online.readthedocs.io/en/latest) and [PyLadies Vancouver Docs GitHub](https://github.com/pyladies-vancouver/pyladies-vancouver)
 
 <!--
+Preparing for a talk
+
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b | The Ultimate Guide To Memorable Tech Talks – Nina Zakharenko – Medium
+https://twitter.com/nnja/status/1096609124559642626 | 𝙽𝚒𝚗𝚊 𝚉𝚊𝚔𝚑𝚊𝚛𝚎𝚗𝚔𝚘 💖🐍 on Twitter: "2: Choosing a Topic Takeaways: - Everyone, including you, has something interesting to say. Use everyday inspiration to pick a topic. - Choose a topic that you’re passionate about. Your enthusiasm will show. - Keep up to date on open Calls For Proposals https://t.co/nunhr0Nqu7"
+https://twitter.com/WillingCarol/status/1100575073189093376 | Carol Willing on Twitter: "I've read thousands of talk proposals and @nnja consistently writes excellent proposals. Whether you are an experienced speaker or just starting, this series of posts is wonderful. Thanks Nina for taking the time to put together.… https://t.co/tiHv4eApKz"
+
+https://overreacted.io/preparing-for-tech-talk-part-1-motivation/ | Preparing for a Tech Talk, Part 1: Motivation - Overreacted
+
 https://www.python.org/community/workshops
 https://wiki.python.org/moin/LocalUserGroups
 https://mail.python.org/mailman/listinfo/group-organizers
