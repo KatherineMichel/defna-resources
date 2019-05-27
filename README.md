@@ -1,6 +1,21 @@
 # DEFNA Resources
 
 <!--
+https://github.com/andrewgodwin/grorg | GitHub - andrewgodwin/grorg
+https://gitlab.com/bigapplepy/yak-bak/ | Big Apple Py / yak-bak · GitLab
+
+https://twitter.com/JackieKazil/status/1131018686150656001 | Jackie Kazil on Twitter: "PyCon 2019 welcomed 3393 attendees from 59 countries, a new record! Thanks to our sponsors & donations, we awarded $137,200 in financial aid to 143 attendees. Help us continue our efforts by donating - https://t.co/UiP6hv3H10. #idonatedtothepsf"
+https://twitter.com/chrisjrn/status/1009078036421988355 | Christopher Neugebauer 🇦🇺️‍ on Twitter: "Next year is the 10th Anniversary of the PSF diversity statement. What a long way we've come.… "
+http://kojoidrissa.com/community/djangocon%20us/2018/08/31/to_danny.html | To Danny: On Keynotes and Inclusion | Kojo Idrissa ONLINE
+https://medium.com/@mxsash/how-and-why-we-improved-djangocon-europes-code-of-conduct-8c203eb591ee | How and why we improved DjangoCon Europe’s Code of Conduct
+
+https://twitter.com/jonafato/status/1130556611318157313 | Jon Banafato on Twitter: "Just in case you're wondering what keeps me up at night. It's pretty late in the game before we know we have enough talks for a full schedules. If you're running a CFP, refer to graphs like this when you need reassurance that it'll all work out.… https://t.co/3K504Yr8Oq"
+https://twitter.com/PyOhio/status/996605491051683841 | PyOhio on Twitter: "With the number of just-in-time proposals you'd think we're running a PyPy conference 😂 🐍… "
+
+PyLadies
+https://slackin.pyladies.com/ | Join PyLadies on Slack!
+http://kit.pyladies.com/en/latest/member/ | Member Reference — PyLadies Organizer Handbook
+
 https://www.amazon.com/Zoom-H1n-Handy-Recorder-Model/dp/B078PTM82R
 
 PyCon Slides
