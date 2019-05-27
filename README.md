@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+https://www.amazon.com/Zoom-H1n-Handy-Recorder-Model/dp/B078PTM82R
+
 PyCon Slides
 https://github.com/PyCon/2019-slides | Page not found · GitHub
 https://speakerdeck.com/pycon2019 | Presentations by PyCon 2019 - Speaker Deck
