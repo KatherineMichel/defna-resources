@@ -224,6 +224,8 @@ Python US- Midwest
 * [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
 
 <!--
+https://twitter.com/PyCarolinas/status/1131926124282437632 | PyCarolinas on Twitter: "YES, we are coming back after a seven year hiatus. Join the mailing list and be part of the memories and the return! https://t.co/UXG6B26Zda"
+https://mailchi.mp/8ad40e1455a4/pycarolinas-news | PyCarolinas News Updates
 https://twitter.com/AutomationPanda/status/1124661847267979264 | Andy @ PyCon 2019 on Twitter: "Who wants to help (re)launch PyCarolinas? Come to our Open Space at 10am on Sunday in Room 22 at #PyCon2019! @corbinbs @tdhopper @tryexceptpass"
 https://www.pyohio.org/2018/
 -->
@@ -238,6 +240,8 @@ Python Latin America
 * [Python Tijuana](https://pythontijuana.com/) and [Python Tijuana GitHub](https://github.com/PythonTijuana)
 
 <!--
+https://twitter.com/__PyMX__ | PyMX (@__PyMX__) | Twitter
+https://twitter.com/PyConES | PyCon España (@PyConES) | Twitter
 https://www.facebook.com/groups/pythontijuana
 https://twitter.com/pyconar
 https://www.python.org/events/python-events/751/ | PyCon Argentina | Python.org
@@ -314,10 +318,12 @@ GeoPython and PyData- Major Events
 * [AnacondaCon](https://anacondacon.io)
 
 <!--
+https://pydata.org/london2019/ | PyData London 2019
 http://scipyla.org/conf/2019/
 https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events | Upcoming events · scikit-learn/scikit-learn Wiki
 https://scipy2018.scipy.org/ehome/299527/648141/ | Sprints | SciPy 2018 Conference
 
+https://www.euroscipy.org/2019/ | EuroSciPy 2019
 https://www.euroscipy.org/2018/
 
 https://twitter.com/DynamicWebPaige/status/1017946412095561728 | 👩‍💻 DynamicWebPaige @ OSCON 💻✨ on Twitter: "Can't wait to get started working on #PyOpenSci! If anyone wants to join in the planning, please DM and we'll add your email to @_inundata's master list! 👩‍🔬✨ @SciPyConf #SciPY2018… https://t.co/m5eAYgNLRs"
