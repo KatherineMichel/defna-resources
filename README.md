@@ -8,7 +8,6 @@ https://twitter.com/JackieKazil/status/1131018686150656001 | Jackie Kazil on Twi
 https://twitter.com/chrisjrn/status/1009078036421988355 | Christopher Neugebauer 🇦🇺️‍ on Twitter: "Next year is the 10th Anniversary of the PSF diversity statement. What a long way we've come.… "
 http://kojoidrissa.com/community/djangocon%20us/2018/08/31/to_danny.html | To Danny: On Keynotes and Inclusion | Kojo Idrissa ONLINE
 https://medium.com/@mxsash/how-and-why-we-improved-djangocon-europes-code-of-conduct-8c203eb591ee | How and why we improved DjangoCon Europe’s Code of Conduct
-
 https://twitter.com/jonafato/status/1130556611318157313 | Jon Banafato on Twitter: "Just in case you're wondering what keeps me up at night. It's pretty late in the game before we know we have enough talks for a full schedules. If you're running a CFP, refer to graphs like this when you need reassurance that it'll all work out.… https://t.co/3K504Yr8Oq"
 https://twitter.com/PyOhio/status/996605491051683841 | PyOhio on Twitter: "With the number of just-in-time proposals you'd think we're running a PyPy conference 😂 🐍… "
 
@@ -200,15 +199,15 @@ https://www.flickr.com/photos/kennethreitz | Kenneth Reitz | Flickr
 <!--
 https://twitter.com/pycon | PyCon (@pycon) | Twitter
 
-PyCon 2018 Posters
+https://twitter.com/EWDurbin/status/1097854170961534977 | ernest w. durbin iii on Twitter: "If you could take a moment to share what @pycon has meant to you in the past and what you look forward to in the future, I would sincerely appreciate it: https://t.co/oksVGb8Y2G Please share/retweet, I want to have way too much to read and process <3"
+
+https://twitter.com/chrisjrn/status/1111830614850715649 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Apropos of nothing: @PyCon's "Everyone Pays" policy hasn't existed for several years. The current policy 1) Reduces, and sometimes even waives ticket prices for everyone who needs it 2) Makes the PSF as viable as possible. The returns go to things like our $250k grants program."
 
 PyCon Adafruit
 https://blog.adafruit.com/2019/02/23/digi-key-and-adafruit-at-pycon-all-attendees-will-receive-a-circuit-playground-express-digikey-adafruit-pycon-pycon2019/ | Digi-Key and Adafruit at PyCon – All attendees will receive a Circuit Playground Express! @digikey @adafruit @pycon #pycon2019 « Adafruit Industries – Makers, hackers, artists, designers and engineers!
 https://github.com/adafruit/circuitpython_kernel | adafruit/circuitpython_kernel: Jupyter kernel to interact with CircuitPython board over USB
 
 https://www.papercall.io/pycon-maintainers-summit | PaperCall.io - Pycon 2019 Maintainers Summit
-http://pyfound.blogspot.com/2019/01/python-in-education-request-for-ideas.html | Python Software Foundation News: Python in Education - Request for Ideas
-https://www.eventbrite.com/e/giphy-hosts-python-software-foundations-startup-row-registration-52977014677?discount=GIPHYEng | Giphy hosts Python Software Foundation's Startup Row Registration, Tue, Dec 4, 2018 at 6:00 PM | Eventbrite
 
 https://twitter.com/pycon/status/1108467001515749377 | PyCon on Twitter: "We have some awesome open source projects in the expo hall - @pyladies, @NumFOCUS, @pybeeware, @djangogirls, @scikit-yb, @amjithr, @indypy, @ps_python, @codeandsupply, @hiddengeniuspro, @plone, @OSMIhelp. Come and talk to them about what they're working on!"
 
