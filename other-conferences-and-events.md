@@ -280,6 +280,10 @@ PyCon International- Eastern Europe
 * [PyCon Ukraine 2018 Website](https://2018.uapycon.org)
 
 <!--
+https://cz.pycon.org/2019/
+https://github.com/pyvec/python.cz | pyvec/python.cz: Czech Python user group homepage / Domovská stránka českých Pythonistů
+https://python.cz/ | Python, programovací jazyk
+
 https://www.meetup.com/LondonPython/ | London Python (London, United Kingdom) | Meetup
 https://www.eventbrite.co.uk/e/djugl-django-user-group-london-tickets-39048331611 | DJUGL - Django User Group London Tickets, Tue, 21 Nov 2017 at 19:00 | Eventbrite
 -->
