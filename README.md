@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018 | PythonSoftwareFoundation/BoardCandidates2018 - Python Wiki
+
 https://github.com/andrewgodwin/grorg | GitHub - andrewgodwin/grorg
 https://gitlab.com/bigapplepy/yak-bak/ | Big Apple Py / yak-bak · GitLab
 
