@@ -1,6 +1,8 @@
 # Diversity Resources
 
 <!--
+https://twitter.com/chrisjrn/status/1009078036421988355 | Christopher Neugebauer 🇦🇺️‍ on Twitter: "Next year is the 10th Anniversary of the PSF diversity statement. What a long way we've come.… "
+
 https://twitter.com/jessejiryudavis/status/1113482033983107072
 
 https://twitter.com/joshsimmons/status/1111292871594774529
@@ -13,7 +15,6 @@ Broken stair
 https://www.ncwit.org/resources/ncwit-tips-13-tips-make-technical-conferences-more-inclusive/ncwit-tips-13-tips-make | NCWIT Tips: 13 Tips to Make Technical Conferences More Inclusive | National Center for Women & Information Technology
 
 http://incl.ca/excluded-confoo-speaker-dinner-happened-made-feel/ | Excluded from Confoo speaker dinner - what happened and how it made me feel. - Part of a Whole
-http://kojoidrissa.com/community/djangocon%20us/2018/08/31/to_danny.html | To Danny: On Keynotes and Inclusion | Kojo Idrissa ONLINE
 https://twitter.com/ubernostrum/status/1077032766657548288 | James Bennett on Twitter: "The only possible thing this requirement does for PyCon is privilege experienced members of the regular conference-circuit clique over less-experienced speakers. Is that the message they want to send? Especially since a tutorial pays $1000+ to the speaker?… https://t.co/lFhO38gcpI"
 -->
 
@@ -108,6 +109,8 @@ https://www.nexmo.com/blog/2018/11/15/pycascades-code-of-conduct-hotline-nexmo-v
 Code of Conduct Reports
 
 <!--
+https://medium.com/@mxsash/how-and-why-we-improved-djangocon-europes-code-of-conduct-8c203eb591ee | How and why we improved DjangoCon Europe’s Code of Conduct
+
 Code of Conduct Design
 https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/ | HOWTO design a code of conduct for your community | Ada Initiative
 http://confcodeofconduct.com/ | Conference Code of Conduct
