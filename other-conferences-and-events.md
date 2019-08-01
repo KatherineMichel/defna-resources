@@ -1,46 +1,6 @@
 # Other Conferences and Events
 
 <!--
-Talk playlists
-
-PyCon U.S.
-* [PyCon 2018 Videos](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos)
-* [PyCon 2017 Videos](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
-* [PyCon 2016 Videos](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
-* [PyCon 2015 Videos](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/videos)
-* [PyCon 2014 Videos](https://www.youtube.com/user/PyCon2014/videos)
-
-https://us.pycon.org/2018/schedule
-https://us.pycon.org/2017/schedule
-https://us.pycon.org/2016/schedule
-https://us.pycon.org/2015/schedule
-https://us.pycon.org/2014/schedule/talks
-https://us.pycon.org/2013/schedule/talks
-https://us.pycon.org/2012/schedule
-https://us.pycon.org/2011/schedule
-
-EuroPython
-* [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
-
-PyCon Canada
-* [PyCon Canada Playlists](https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/playlists)
-
-DjangoCon Europe
-* [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
-https://members.2019.djangocon.eu/conference/schedule/
-
-DjangoCon US
-* [DjangoCon US 2017 Schedule](https://2017.djangocon.us/schedule)
-* [DjangoCon US Playlists](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists)
-* [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
-* [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
-* [Confreaks DjangoCon US 2015 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
-* [Confreaks DjangoCon US 2014 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
-
-* [PyData Playlists](https://www.youtube.com/user/PyDataTV/playlists)
--->
-
-<!--
 https://www.writethedocs.org/
 
 https://www.docker.com/dockercon/
