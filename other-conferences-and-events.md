@@ -21,24 +21,6 @@ https://twitter.com/betswaliszewski | Betsy Waliszewski (@betswaliszewski) | Twi
 https://twitter.com/evildmp?lang=en | Daniele Procida (@evildmp) | Twitter
 -->
 
-<!--
-https://twitter.com/PyData/status/1017849955564904449 | PyData on Twitter: "The call for proposals is OPEN for our 3 upcoming U.S. #PyData events this fall! PyData NYC, Oct 17-19: https://t.co/it7ixyIpB0 CFP closes Aug 12 PyData LA, Oct 21-23: https://t.co/mMNMxbA2WC CFP closes Aug 12 PyData DC, Nov 16-18: https://t.co/EnO6sKXQNn CFP closes Sept 12… https://t.co/rOYkOcExft"
-
-ML Conferences
-* [AI Frontiers](http://aifrontiers.com) and [AI Frontiers SlideShare](https://www.slideshare.net/AIFrontiers)
-* [Scaled Machine Learning](http://scaledml.org)
-* [International Conference on Machine Learning (ICML)](https://icml.cc)
-* [The Computer Vision Foundation (CVF)](https://www.thecvf.com)
-* [International Conference on Computer Vision 2018 (CVPR)](http://cvpr2018.thecvf.com)
-* [Annual Conference on Neural Information Processing Systems (NIPS)](https://nips.cc)
-
-LancsSS18
-https://acl2018.org/ | ACL 2018: About
-https://mlconf.com/ | The Machine Learning Conference
-https://icml.cc/Conferences/2018/AcceptedPapersInitial | Accepted Papers
-https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition
--->
-
 ## Talk Aggregation
 
 General
@@ -101,6 +83,8 @@ Conferences- General
 <!--
 https://twitter.com/loooorenanicole/status/1125120936989085696 | Loooorena Mesa @ #PyCon2019 🐍🐍🐍 on Twitter: "Always so amazing to see all the amazing #Python logos of events happening around the world. I see two I’ve been at in the last year - @PyOhio @PyCaribbean!!! #PyCon2019… https://t.co/TQAEJlWbyO"
 https://twitter.com/chriswilcox47/status/1125030348449038336 | Chris Wilcox #PyCon2019 🐍, 🐢🚀, ☁️, 🏍️ on Twitter: "If you missed it or couldn't take notes fast enough, here is a HUGE list of regional Python Conferences to consider attending. CFPs are open for speaking opportunities.… https://t.co/dFTi9AAZMV"
+https://twitter.com/veronica_hanus/status/1148264098355957762 | Veronica Hanus @ #SciPy2019 👩‍🔬🧪❤️🐍 on Twitter: "If you're looking to browse all the PyCon conferences, head👇 https://t.co/nrFXd5N0C1"
+https://twitter.com/Transition/status/1009185372247592962 | Kojo on Twitter: "@PyCaribbean @pyconcharlas @lakatialira @skfroi @pyladiessdq @wwcodesdq @loooorenanicole @NatachaDelaRosa @samievaldez @ramalhoorg Tell ERRYBODY! English, Español y Portugués. Thanks to @mayela0x14 for the RT about this.… https://t.co/r77CPVStJf"
 
 https://github.com/tech-conferences/confs.tech | tech-conferences/confs.tech: List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android - PHP - Data - Devops
 https://confs.tech/?topics=&countries=U.S.A. | Tech conferences in 2019 and 2020 | Confs.tech
@@ -149,6 +133,8 @@ DjangoCon Europe Photos
 * [DjangoCon Europe Photos (Bartek Pawlik)](https://www.flickr.com/photos/140681500@N07/albums)
 
 <!--
+https://github.com/pythonghana/pyconghana2018 | pythonghana/pyconghana2018: Python Ghana Conference 2018 website
+
 https://github.com/rixx/djangocon-europe-18-blog | rixx/djangocon-europe-18-blog
 https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
 -->
@@ -240,6 +226,8 @@ PyCon International- Eastern Europe
 * [PyCon Ukraine 2018 Website](https://2018.uapycon.org)
 
 <!--
+https://www.pydays.at/ | Event schedule • PyDays Vienna · 3 - 4 May 2019 · FH Technikum Wien
+
 https://cz.pycon.org/2019/
 https://github.com/pyvec/python.cz | pyvec/python.cz: Czech Python user group homepage / Domovská stránka českých Pythonistů
 https://python.cz/ | Python, programovací jazyk
@@ -257,6 +245,10 @@ PyCon International- Middle East and Asia
 * [Python Philippines](https://pycon.python.ph) and [Python Philippines GitHub](https://github.com/pythonph)
 * [PyCon Taiwan GitHub](https://github.com/pycontw)
 
+<!--
+https://github.com/tzangms/PyConTW
+-->
+
 PyCon International- Africa
 * [Python Africa](https://africa.python.org)
 * [PyCon Africa](http://africa.pycon.org) and [PyCon Africa GitHub](https://github.com/pythonafrica/pycon-africa-website)
@@ -265,7 +257,8 @@ PyCon International- Africa
 * [PyConZA](https://za.pycon.org)
 
 <!--
-https://twitter.com/pyconafrica
+http://na.pycon.org/this-was-pycon-namibia/
+https://github.com/pythonghana/pyconghana2018 | pythonghana/pyconghana2018: Python Ghana Conference 2018 website
 https://twitter.com/amakarudze/status/1112826908960571392
 -->
 
@@ -282,6 +275,8 @@ GeoPython and PyData- Major Events
 * [AnacondaCon](https://anacondacon.io)
 
 <!--
+https://twitter.com/PyData/status/1017849955564904449 | PyData on Twitter: "The call for proposals is OPEN for our 3 upcoming U.S. #PyData events this fall! PyData NYC, Oct 17-19: https://t.co/it7ixyIpB0 CFP closes Aug 12 PyData LA, Oct 21-23: https://t.co/mMNMxbA2WC CFP closes Aug 12 PyData DC, Nov 16-18: https://t.co/EnO6sKXQNn CFP closes Sept 12… https://t.co/rOYkOcExft"
+
 https://pydata.org/london2019/ | PyData London 2019
 http://scipyla.org/conf/2019/
 https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events | Upcoming events · scikit-learn/scikit-learn Wiki
