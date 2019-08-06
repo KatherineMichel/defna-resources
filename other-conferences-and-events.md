@@ -152,6 +152,7 @@ Python US- Bay Area and California
 <!--
 https://docs.google.com/forms/d/e/1FAIpQLSepQy9xDYrx0GrViFQcYf_pbw7uWiMx2QitXcC6AvBzScOEaQ/viewform
 https://docs.google.com/document/d/1Lm7IMwRfIwInqRR_uO4aVSVg4Tz-7E1ThABy5102M-w/edit
+https://docs.google.com/forms/d/e/1FAIpQLSf3gfhchjl6PuZMAkgNWS3Q5WBaE_vOgpYFcnD2ZRKBKWKv6A/viewform
 
 https://medium.com/pybay/diversity-ac2728e384c2 | Diversity and Inclusion – PyBay2018 – Medium
 -->
@@ -162,7 +163,7 @@ Python US Conferences and Meetups- New York
 * [PyGotham GitLab](https://gitlab.com/pygotham), [PyGotham GitHub](https://github.com/PyGotham), and [PyGotham Website GitHub](https://github.com/PyGotham/pygotham) 
 
 Python US- Midwest
-* [PyColorado Website GitHub](https://github.com/PyColorado/pycolorado.org) and [PyColorado Twitter](https://twitter.com/pycolorado)
+* [PyColorado Website](https://pycolorado.org/), [PyColorado Website GitHub](https://github.com/PyColorado/pycolorado.org), and [PyColorado Twitter](https://twitter.com/pycolorado)
 * [PyOhio](www.pyohio.org), [PyOhio GitHub](https://github.com/pyohio), [PyOhio Website GitHub](https://github.com/pyohio/pyohio-website), and [PyOhio Slack](https://slack.pyohio.org)
 * [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
 * [PyTennessee](https://www.pytennessee.org) and [PyTennessee 2019 Website GitHub](https://github.com/pytennessee/pytn-2019)
@@ -170,7 +171,7 @@ Python US- Midwest
 * [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
 
 <!--
-https://twitter.com/PyCarolinas/status/1131926124282437632 | PyCarolinas on Twitter: "YES, we are coming back after a seven year hiatus. Join the mailing list and be part of the memories and the return! https://t.co/UXG6B26Zda"
+@PyCarolinas, June 2020
 https://mailchi.mp/8ad40e1455a4/pycarolinas-news | PyCarolinas News Updates
 https://twitter.com/AutomationPanda/status/1124661847267979264 | Andy @ PyCon 2019 on Twitter: "Who wants to help (re)launch PyCarolinas? Come to our Open Space at 10am on Sunday in Room 22 at #PyCon2019! @corbinbs @tdhopper @tryexceptpass"
 https://www.pyohio.org/2018/
@@ -243,7 +244,9 @@ PyCon International- Middle East and Asia
 * [PyCon Israel](http://il.pycon.org)
 * [PyCon Pakistan Facebook](https://www.facebook.com/PyConPakistan)
 * [Python Philippines](https://pycon.python.ph) and [Python Philippines GitHub](https://github.com/pythonph)
+* [PyCon China](https://cn.pycon.org/)
 * [PyCon Taiwan GitHub](https://github.com/pycontw)
+* [PyCon Korea](https://www.pycon.kr/)
 
 <!--
 https://github.com/tzangms/PyConTW
@@ -257,6 +260,9 @@ PyCon International- Africa
 * [PyConZA](https://za.pycon.org)
 
 <!--
+https://africa.pycon.org/travel/guidance-international-visitors/
+https://www.gofundme.com/f/pycon-africa-financial-assistance
+https://2019.djangocon.eu/talks/building-a-django-community-in-africa/
 http://na.pycon.org/this-was-pycon-namibia/
 https://github.com/pythonghana/pyconghana2018 | pythonghana/pyconghana2018: Python Ghana Conference 2018 website
 https://twitter.com/amakarudze/status/1112826908960571392
