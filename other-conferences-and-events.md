@@ -173,7 +173,6 @@ Python US- Midwest
 <!--
 @PyCarolinas, June 2020
 https://mailchi.mp/8ad40e1455a4/pycarolinas-news | PyCarolinas News Updates
-https://twitter.com/AutomationPanda/status/1124661847267979264 | Andy @ PyCon 2019 on Twitter: "Who wants to help (re)launch PyCarolinas? Come to our Open Space at 10am on Sunday in Room 22 at #PyCon2019! @corbinbs @tdhopper @tryexceptpass"
 https://www.pyohio.org/2018/
 -->
 
@@ -221,21 +220,12 @@ PyCon International- Western Europe
 * [PyLondinium](https://pylondinium.org)
 
 PyCon International- Eastern Europe
-* [PyCon CZ Website](https://cz.pycon.org)
+* [PyCon Czech Website](https://cz.pycon.org)
+* [PyCon Czech User Group Homepage](https://python.cz/) and [PyCon Czech User Group Homepage GitHub](https://github.com/pyvec/python.cz)
 * [PyCon Slovakia 2018 Website](https://2018.pycon.sk/sk)
 * [PyCon Sweden Website](http://www.pycon.se)
 * [PyCon Ukraine 2018 Website](https://2018.uapycon.org)
-
-<!--
-https://www.pydays.at/ | Event schedule • PyDays Vienna · 3 - 4 May 2019 · FH Technikum Wien
-
-https://cz.pycon.org/2019/
-https://github.com/pyvec/python.cz | pyvec/python.cz: Czech Python user group homepage / Domovská stránka českých Pythonistů
-https://python.cz/ | Python, programovací jazyk
-
-https://www.meetup.com/LondonPython/ | London Python (London, United Kingdom) | Meetup
-https://www.eventbrite.co.uk/e/djugl-django-user-group-london-tickets-39048331611 | DJUGL - Django User Group London Tickets, Tue, 21 Nov 2017 at 19:00 | Eventbrite
--->
+* [PyDays Vienna](https://www.pydays.at/)
 
 PyCon International- Middle East and Asia
 * [PyDelhi GitHub](https://github.com/pydelhi) and [PyDelhi Website GitHub](https://github.com/pydelhi/conference)
@@ -280,20 +270,6 @@ GeoPython and PyData- Major Events
 * [JupyterCon](https://conferences.oreilly.com/jupyter)
 * [AnacondaCon](https://anacondacon.io)
 
-<!--
-https://twitter.com/PyData/status/1017849955564904449 | PyData on Twitter: "The call for proposals is OPEN for our 3 upcoming U.S. #PyData events this fall! PyData NYC, Oct 17-19: https://t.co/it7ixyIpB0 CFP closes Aug 12 PyData LA, Oct 21-23: https://t.co/mMNMxbA2WC CFP closes Aug 12 PyData DC, Nov 16-18: https://t.co/EnO6sKXQNn CFP closes Sept 12… https://t.co/rOYkOcExft"
-
-https://pydata.org/london2019/ | PyData London 2019
-http://scipyla.org/conf/2019/
-https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events | Upcoming events · scikit-learn/scikit-learn Wiki
-https://scipy2018.scipy.org/ehome/299527/648141/ | Sprints | SciPy 2018 Conference
-
-https://www.euroscipy.org/2019/ | EuroSciPy 2019
-https://www.euroscipy.org/2018/
-
-https://twitter.com/DynamicWebPaige/status/1017946412095561728 | 👩‍💻 DynamicWebPaige @ OSCON 💻✨ on Twitter: "Can't wait to get started working on #PyOpenSci! If anyone wants to join in the planning, please DM and we'll add your email to @_inundata's master list! 👩‍🔬✨ @SciPyConf #SciPY2018… https://t.co/m5eAYgNLRs"
--->
-
 PyData- Regional Events and Meetups
 * [PyData Meetup](https://www.meetup.com/pro/pydata)
 * [PyData Seattle Meetup](https://www.meetup.com/pydata_seattle)
@@ -305,10 +281,14 @@ PyData- Regional Events and Meetups
 * [SciPy LA](https://conf.scipyla.org)
 
 <!--
-https://pydata.org/la2018/ | PyData Los Angeles 2018
-https://twitter.com/PyDataLA | PyData Los Angeles (@PyDataLA) | Twitter
-
 https://github.com/pydata/conf_site
-https://pydata.org/london2018
+https://scipy2018.scipy.org/ehome/299527/648141/ | Sprints | SciPy 2018 Conference
 https://docs.google.com/forms/d/e/1FAIpQLSefj325nEwZSArxzEq3BOJdE6L3weMsBZJSDUS_61T7w3t3hw/viewform | SciPy 2018 Program Committee Interest Form
+http://scipyla.org/conf/2019/
+
+https://twitter.com/PyData/status/1017849955564904449 | PyData on Twitter: "The call for proposals is OPEN for our 3 upcoming U.S. #PyData events this fall! PyData NYC, Oct 17-19: https://t.co/it7ixyIpB0 CFP closes Aug 12 PyData LA, Oct 21-23: https://t.co/mMNMxbA2WC CFP closes Aug 12 PyData DC, Nov 16-18: https://t.co/EnO6sKXQNn CFP closes Sept 12… https://t.co/rOYkOcExft"
+
+https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events | Upcoming events · scikit-learn/scikit-learn Wiki
+
+https://twitter.com/DynamicWebPaige/status/1017946412095561728 | 👩‍💻 DynamicWebPaige @ OSCON 💻✨ on Twitter: "Can't wait to get started working on #PyOpenSci! If anyone wants to join in the planning, please DM and we'll add your email to @_inundata's master list! 👩‍🔬✨ @SciPyConf #SciPY2018… https://t.co/m5eAYgNLRs"
 -->
