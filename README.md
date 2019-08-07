@@ -138,6 +138,9 @@ Slacks
 <!--
 https://djangoconus.slack.com
 https://github.com/avinassh/slackipy | avinassh/slackipy: Automate user invites to your Slack channel!
+
+DjangoCon US 2017 Closing Remarks
+https://speakerdeck.com/williln/djangocon-us-2017-closing-remarks | DjangoCon US 2017 Closing Remarks // Speaker Deck
 -->
 
 Websites
