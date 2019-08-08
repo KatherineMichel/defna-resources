@@ -15,10 +15,6 @@ http://kit.pyladies.com/en/latest/member/ | Member Reference — PyLadies Organi
 
 https://www.amazon.com/Zoom-H1n-Handy-Recorder-Model/dp/B078PTM82R
 
-PyCon Slides
-https://github.com/PyCon/2019-slides | Page not found · GitHub
-https://speakerdeck.com/pycon2019 | Presentations by PyCon 2019 - Speaker Deck
-
 https://www.youtube.com/watch?v=iyV1NUaSt0k | (1) Ernest W. Durbin III - Keynote - PyCon 2019 - YouTube
 -->
 
