@@ -153,6 +153,7 @@ Python US- Bay Area and California
 * [San Diego Python GitHub](http://www.pythonsd.org) and [San Diego Python GitHub](https://github.com/pythonsd)
 
 <!--
+https://pybay.com/volunteer-and-scholarships/#worktrade
 https://docs.google.com/forms/d/e/1FAIpQLSepQy9xDYrx0GrViFQcYf_pbw7uWiMx2QitXcC6AvBzScOEaQ/viewform
 https://docs.google.com/document/d/1Lm7IMwRfIwInqRR_uO4aVSVg4Tz-7E1ThABy5102M-w/edit
 https://docs.google.com/forms/d/e/1FAIpQLSf3gfhchjl6PuZMAkgNWS3Q5WBaE_vOgpYFcnD2ZRKBKWKv6A/viewform
