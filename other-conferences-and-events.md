@@ -8,8 +8,9 @@ https://www.writethedocs.org/
 https://www.docker.com/dockercon/
 https://www.docker.com/events/women-at-dockercon-summit | Women@DockerCon Summit | Docker
 
+https://conf.reactjs.org/ | React Conf 2019 - Fall 2019 in Lake Las Vegas, Nevada
+
 https://githubuniverse.com/
-https://github.blog/2018-08-02-github-universe-scholarship-program/ | Scholarships and accessibility at GitHub Universe 2018 - The GitHub Blog
 
 Ela
 http://ela.community
