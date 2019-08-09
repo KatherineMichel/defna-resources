@@ -1,6 +1,8 @@
 # Other Conferences and Events
 
 <!--
+https://eng.uber.com/uber-technology-day/ | Presenting the Engineering Behind Uber at Our Technology Day | Uber Engineering Blog
+
 https://www.writethedocs.org/
 
 https://www.docker.com/dockercon/
