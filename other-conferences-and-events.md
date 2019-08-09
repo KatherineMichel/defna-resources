@@ -9,6 +9,8 @@ https://www.docker.com/dockercon/
 https://www.docker.com/events/women-at-dockercon-summit | Women@DockerCon Summit | Docker
 
 https://conf.reactjs.org/ | React Conf 2019 - Fall 2019 in Lake Las Vegas, Nevada
+https://reactjs.org/community/conferences.html | Conferences – React
+https://reactjsgirls.com/ | ReactJS Girls Conference
 
 https://githubuniverse.com/
 
