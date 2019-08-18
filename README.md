@@ -11,11 +11,8 @@ https://twitter.com/PyOhio/status/996605491051683841 | PyOhio on Twitter: "With 
 
 PyLadies
 https://slackin.pyladies.com/ | Join PyLadies on Slack!
-http://kit.pyladies.com/en/latest/member/ | Member Reference — PyLadies Organizer Handbook
 
 https://www.amazon.com/Zoom-H1n-Handy-Recorder-Model/dp/B078PTM82R
-
-https://www.youtube.com/watch?v=iyV1NUaSt0k | (1) Ernest W. Durbin III - Keynote - PyCon 2019 - YouTube
 -->
 
 ## DEFNA
@@ -189,11 +186,14 @@ https://www.flickr.com/photos/kennethreitz | Kenneth Reitz | Flickr
 ## PyCon US
 
 * [PyCon](http://www.pycon.org) and [PyCon GitHub](https://github.com/PyCon)
+* [PyCon 2019 Code of Conduct](https://us.pycon.org/2019/about/code-of-conduct/) and [PyCon Code of Conduct GitHub](https://github.com/python/pycon-code-of-conduct)
 * [PyCon 2019 Website](https://us.pycon.org/2019), [PyCon 2018 Website](https://us.pycon.org/2018), and [PyCon 2017 Website](https://us.pycon.org/2017)
 * [PyCon 2018 YouTube](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos)
 * [PyCon Website GitHub](https://github.com/PyCon/pycon)
 
 <!--
+https://www.youtube.com/watch?v=iyV1NUaSt0k | (1) Ernest W. Durbin III - Keynote - PyCon 2019 - YouTube
+
 https://twitter.com/pycon | PyCon (@pycon) | Twitter
 
 https://twitter.com/JackieKazil/status/1131018686150656001 | Jackie Kazil on Twitter: "PyCon 2019 welcomed 3393 attendees from 59 countries, a new record! Thanks to our sponsors & donations, we awarded $137,200 in financial aid to 143 attendees. Help us continue our efforts by donating - https://t.co/UiP6hv3H10. #idonatedtothepsf"
