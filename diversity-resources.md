@@ -1,6 +1,8 @@
 # Diversity Resources
 
 <!--
+https://www.pyladies.com/blog/Important-PyLadies-Update/important-pyladies-update/
+
 https://twitter.com/chrisjrn/status/1009078036421988355 | Christopher Neugebauer 🇦🇺️‍ on Twitter: "Next year is the 10th Anniversary of the PSF diversity statement. What a long way we've come.… "
 
 https://twitter.com/jessejiryudavis/status/1113482033983107072
