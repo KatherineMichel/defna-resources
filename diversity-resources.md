@@ -1,26 +1,8 @@
 # Diversity Resources
 
 <!--
-https://www.pyladies.com/blog/Important-PyLadies-Update/important-pyladies-update/
-
 https://twitter.com/chrisjrn/status/1009078036421988355 | Christopher Neugebauer 🇦🇺️‍ on Twitter: "Next year is the 10th Anniversary of the PSF diversity statement. What a long way we've come.… "
 
-https://twitter.com/jessejiryudavis/status/1113482033983107072
-
-https://twitter.com/joshsimmons/status/1111292871594774529
-
-https://nedbatchelder.com/blog/201711/toxic_experts.html
-https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside | After Years of Abusive E-mails, the Creator of Linux Steps Aside | The New Yorker
-
-Broken stair
-
-https://www.ncwit.org/resources/ncwit-tips-13-tips-make-technical-conferences-more-inclusive/ncwit-tips-13-tips-make | NCWIT Tips: 13 Tips to Make Technical Conferences More Inclusive | National Center for Women & Information Technology
-
-http://incl.ca/excluded-confoo-speaker-dinner-happened-made-feel/ | Excluded from Confoo speaker dinner - what happened and how it made me feel. - Part of a Whole
-https://twitter.com/ubernostrum/status/1077032766657548288 | James Bennett on Twitter: "The only possible thing this requirement does for PyCon is privilege experienced members of the regular conference-circuit clique over less-experienced speakers. Is that the message they want to send? Especially since a tutorial pays $1000+ to the speaker?… https://t.co/lFhO38gcpI"
--->
-
-<!--
 https://2016.djangocon.us/diversity/ | Diversity
 https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/
 https://2016.djangocon.us/blog/2016/07/19/thank-you-diversity-sponsors/
@@ -35,12 +17,25 @@ http://ericholscher.com/blog/2018/feb/13/conference-mentorship/ | Conference Men
 http://ericholscher.com/blog/2017/dec/2/breaking-cliques-at-events/
 http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ | The Pac-Man Rule at Conferences — Eric Holscher - Surfing in Kansas
 
-https://dev.to/binarycodess/women-in-tech-we-need-you
+https://nedbatchelder.com/blog/201711/toxic_experts.html
+https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside | After Years of Abusive E-mails, the Creator of Linux Steps Aside | The New Yorker
+
+Broken stair
 
 http://melissacollom.com/info/ | About — Melissa Collom
 https://emptysqua.re/blog/coaching-for-first-time-pygotham-speakers/ | Help Me Offer Coaching to First-Time PyGotham Speakers
+https://twitter.com/jessejiryudavis/status/1113482033983107072
 
 http://heats.life/blog/2017/08/04/conferences
+
+https://www.ncwit.org/resources/ncwit-tips-13-tips-make-technical-conferences-more-inclusive/ncwit-tips-13-tips-make | NCWIT Tips: 13 Tips to Make Technical Conferences More Inclusive | National Center for Women & Information Technology
+https://dev.to/binarycodess/women-in-tech-we-need-you
+
+http://incl.ca/excluded-confoo-speaker-dinner-happened-made-feel/ | Excluded from Confoo speaker dinner - what happened and how it made me feel. - Part of a Whole
+
+https://twitter.com/ubernostrum/status/1077032766657548288 | James Bennett on Twitter: "The only possible thing this requirement does for PyCon is privilege experienced members of the regular conference-circuit clique over less-experienced speakers. Is that the message they want to send? Especially since a tutorial pays $1000+ to the speaker?… https://t.co/lFhO38gcpI"
+
+https://twitter.com/joshsimmons/status/1111292871594774529
 -->
 
 ## Diversity Stats
@@ -61,6 +56,8 @@ PyLadies and PyLadies Remote
 * [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
 <!--
+https://www.pyladies.com/blog/Important-PyLadies-Update/important-pyladies-update/
+
 PyLadies History
 https://twitter.com/pydanny/status/1008828986787430402 | Daniel Roy Greenfeld on Twitter: "There was an enormous amount of early resistance to PyLadies, including by people (of all genders/backgrounds) who now are stalwarts of diversity. It's wonderful to see how many people have come around.… https://t.co/IL1IEpxJuu"
 https://www.flickr.com/photos/pydanny/5670718476/in/dateposted-public/ | Pyladies inception moment! | Daniel Roy Greenfeld | Flickr
