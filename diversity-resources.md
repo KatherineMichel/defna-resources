@@ -1,8 +1,6 @@
 # Diversity Resources
 
 <!--
-https://twitter.com/chrisjrn/status/1009078036421988355 | Christopher Neugebauer 🇦🇺️‍ on Twitter: "Next year is the 10th Anniversary of the PSF diversity statement. What a long way we've come.… "
-
 https://2016.djangocon.us/diversity/ | Diversity
 https://2016.djangocon.us/blog/2016/08/31/code-conduct-transparency-report-youtube-comments/
 https://2016.djangocon.us/blog/2016/07/19/thank-you-diversity-sponsors/
