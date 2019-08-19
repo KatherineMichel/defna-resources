@@ -200,6 +200,7 @@ https://twitter.com/JackieKazil/status/1131018686150656001 | Jackie Kazil on Twi
 
 https://twitter.com/EWDurbin/status/1097854170961534977 | ernest w. durbin iii on Twitter: "If you could take a moment to share what @pycon has meant to you in the past and what you look forward to in the future, I would sincerely appreciate it: https://t.co/oksVGb8Y2G Please share/retweet, I want to have way too much to read and process <3"
 
+https://twitter.com/chrisjrn/status/1009078036421988355 | Christopher Neugebauer 🇦🇺️‍ on Twitter: "Next year is the 10th Anniversary of the PSF diversity statement. What a long way we've come.… "
 https://twitter.com/chrisjrn/status/1111830614850715649 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Apropos of nothing: @PyCon's "Everyone Pays" policy hasn't existed for several years. The current policy 1) Reduces, and sometimes even waives ticket prices for everyone who needs it 2) Makes the PSF as viable as possible. The returns go to things like our $250k grants program."
 
 PyCon Adafruit
