@@ -1,6 +1,25 @@
 # Other Conferences and Events
 
 <!--
+http://mxmicodigo.com/ | .: MxMiCodigo :.
+https://glasnt.com/talks
+
+http://www.kcdc.info/ | KCDC | 2019
+
+PyData Track
+https://www.meetup.com/pro/pydata/ | PyData | Meetup Pro - Meetup
+
+https://github.com/PyLadiesCZ/roboprojekt | PyLadiesCZ/roboprojekt: Projekt PyLadies Brno 2018
+https://github.com/DutchDjangoAssociation/djangovereniging.nl
+https://twitter.com/pythonpizzaconf | Python Pizza (@pythonpizzaconf) | Twitter
+
+https://rixx.de/blog/day-1-of-pycon-au-2019-djangocon/
+
+EuroPython 2019
+http://michal.karzynski.pl/blog/2019/07/15/top-20-talks-from-europython-2019/
+
+https://www.caktusgroup.com/blog/2019/08/05/making-space-wagtail/
+
 https://eng.uber.com/uber-technology-day/ | Presenting the Engineering Behind Uber at Our Technology Day | Uber Engineering Blog
 
 https://www.writethedocs.org/
@@ -19,6 +38,8 @@ http://ela.community
 http://elaconf.com
 https://medium.com/@elaconf/elas-retirement-an-open-letter-6125321b4602 | Ela’s Retirement: An Open Letter – Ela Organizers – Medium
 
+https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg/playlists | (1) White October Events - YouTube - YouTube
+
 People
 https://www.jonafato.com | Tips for Conference Sponsors | jonafato
 https://github.com/joshsimmons?tab=repositories | joshsimmons (Josh Simmons) / Repositories
@@ -34,8 +55,7 @@ General
 * [Tech Yaks](https://techyaks.com)
 
 <!--
-https://github.com/SaraVieira/awesome-talks | SaraVieira/awesome-talks: Awesome Talks Curated By the Community
-https://github.com/JanVanRyswyck/awesome-talks | JanVanRyswyck/awesome-talks: Awesome online talks and screencasts
+https://web.archive.org/web/20180129122307/https://www.python.org/events/ | Our Events | Python.org
 -->
 
 Python
@@ -64,7 +84,10 @@ Meetups- Python and Django
 <!--
 Conferences and meetups
 
+https://github.com/pythonkc
+
 NYC, San Diego, San Francisco, LA, St. Louis, Las Vegas, Washington DC
+https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg/videos | San Diego Python - YouTube - YouTube
 https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
 https://www.meetup.com/sfpython/ | San Francisco Python Meetup Group (San Francisco, CA) | Meetup
 https://www.meetup.com/PyLadiesSF/events/258901277/ | Massages, Smoothies, and Projects Night | Meetup
@@ -102,6 +125,11 @@ PyCon UK
 * [PyCon UK 2018](https://2018.pyconuk.org)
 * [PyCon UK 2017](http://2017.pyconuk.org)
 * [PyCon UK 2016 Website GitHub](https://github.com/PyconUK/2016.pyconuk.org)
+
+<!--
+PyCon UK
+https://twitter.com/PyConUK | PyCon UK (@PyConUK) | Twitter
+-->
 
 PyCon International- Australia
 * [PyCon AU](https://pycon-au.org) and [PyCon AU GitHub](https://github.com/pyconau)
@@ -192,6 +220,8 @@ Python Latin America
 * [Python Tijuana](https://pythontijuana.com/) and [Python Tijuana GitHub](https://github.com/PythonTijuana)
 
 <!--
+https://www.flickr.com/photos/pyconcolombia/sets/72157708907716751/ | Keynotes | Flickr
+
 https://twitter.com/__PyMX__ | PyMX (@__PyMX__) | Twitter
 https://twitter.com/PyConES | PyCon España (@PyConES) | Twitter
 https://www.facebook.com/groups/pythontijuana
@@ -245,6 +275,9 @@ PyCon International- Middle East and Asia
 * [PyCon Korea](https://www.pycon.kr/)
 
 <!--
+PyCon Philippines 2016
+https://github.com/pythonph/pycon-2016
+
 https://github.com/tzangms/PyConTW
 -->
 
