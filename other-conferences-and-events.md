@@ -32,6 +32,7 @@ https://reactjs.org/community/conferences.html | Conferences – React
 https://reactjsgirls.com/ | ReactJS Girls Conference
 
 https://githubuniverse.com/
+https://github.blog/2019-08-12-github-maintainer-scholarships-are-now-available-for-github-universe/
 
 Ela
 http://ela.community
