@@ -192,6 +192,8 @@ https://www.flickr.com/photos/kennethreitz | Kenneth Reitz | Flickr
 * [PyCon Website GitHub](https://github.com/PyCon/pycon)
 
 <!--
+https://us.pycon.org/2020/
+https://mailchi.mp/4799450df928/pycon-news
 https://pycon.blogspot.com/2019/09/call-for-proposals-for-pycon-2020-is.html
 
 https://www.youtube.com/watch?v=iyV1NUaSt0k | (1) Ernest W. Durbin III - Keynote - PyCon 2019 - YouTube
