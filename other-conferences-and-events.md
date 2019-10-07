@@ -184,6 +184,8 @@ Python US- Bay Area and California
 * [San Diego Python GitHub](http://www.pythonsd.org) and [San Diego Python GitHub](https://github.com/pythonsd)
 
 <!--
+https://2020.pybeach.org/
+
 https://pybay.com/volunteer-and-scholarships/#worktrade
 https://docs.google.com/forms/d/e/1FAIpQLSepQy9xDYrx0GrViFQcYf_pbw7uWiMx2QitXcC6AvBzScOEaQ/viewform
 https://docs.google.com/document/d/1Lm7IMwRfIwInqRR_uO4aVSVg4Tz-7E1ThABy5102M-w/edit
@@ -206,6 +208,9 @@ Python US- Midwest
 * [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
 
 <!--
+https://2020.pytennessee.org/
+https://www.eventbrite.com/e/pytennessee-2020-tickets-70582617509?aff=erelexpmlt
+
 @PyCarolinas, June 2020
 https://mailchi.mp/8ad40e1455a4/pycarolinas-news | PyCarolinas News Updates
 https://www.pyohio.org/2018/
@@ -241,7 +246,9 @@ Python North America- Canada
 * [PyCascades 2019 Website](https://2019.pycascades.com)
 
 <!--
+https://2020.pycascades.com/
 https://2019.pycascades.com/grants/
+https://docs.google.com/forms/d/e/1FAIpQLSdfXmBqCbtDQFuiJzNQaHoiCTLDyu2eGQlXdTN6lgXpjkf9cg/viewform
 https://docs.google.com/forms/d/e/1FAIpQLSfE1Cn_n4dfYFDi64mVKR4NggD1Lcqw4fhtlviRONlMtM4UOw/viewform | PyCascades 2019 - Diversity Scholarships
 PyCascades Volunteer Sign Up
 http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
@@ -264,6 +271,10 @@ PyCon International- Eastern Europe
 * [PyCon Ukraine 2018 Website](https://2018.uapycon.org)
 * [PyDays Vienna](https://www.pydays.at/)
 
+<!--
+https://pyconbalkan.com/
+-->
+
 PyCon International- Middle East and Asia
 * [PyDelhi GitHub](https://github.com/pydelhi) and [PyDelhi Website GitHub](https://github.com/pydelhi/conference)
 * [Pune PyCon GitHub](https://github.com/PyConPune/pune.pycon.org)
@@ -276,6 +287,8 @@ PyCon International- Middle East and Asia
 * [PyCon Korea](https://www.pycon.kr/)
 
 <!--
+https://in.pycon.org/cfp/2019/proposals/
+
 PyCon Philippines 2016
 https://github.com/pythonph/pycon-2016
 
@@ -290,6 +303,9 @@ PyCon International- Africa
 * [PyConZA](https://za.pycon.org)
 
 <!--
+https://africa.pycon.org/report/
+https://www.youtube.com/watch?v=43wJnYZ6Zd0&feature=youtu.be
+
 https://africa.pycon.org/travel/guidance-international-visitors/
 https://www.gofundme.com/f/pycon-africa-financial-assistance
 https://2019.djangocon.eu/talks/building-a-django-community-in-africa/
