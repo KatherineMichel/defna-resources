@@ -288,6 +288,7 @@ PyCon International- Middle East and Asia
 * [PyCon Korea](https://www.pycon.kr/)
 
 <!--
+https://www.townscript.com/e/pyconf-hyderabad-2019
 https://in.pycon.org/cfp/2019/proposals/
 
 PyCon Philippines 2016
