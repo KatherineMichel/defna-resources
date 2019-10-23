@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+http://www.openstenoproject.org/ | Home | Open Steno Project
+
 https://www.facebook.com/heather.marie.5686/posts/10161966629050573
 
 https://github.com/andrewgodwin/grorg | GitHub - andrewgodwin/grorg
@@ -216,6 +218,10 @@ DjangoCon US 2017 Feedback
 * ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
 
 <!--
+https://www.youtube.com/playlist?list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX- | DjangoCon US 2019 - YouTube
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
+https://www.flickr.com/photos/djangocon/galleries | DjangoCon’s galleries | Flickr
+
 https://2019.pycon-au.org/news/deep-dive-talks/
 
 Blog posts
