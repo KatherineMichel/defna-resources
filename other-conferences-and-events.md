@@ -3,6 +3,8 @@
 <!--
 https://allthingsopen.org/ | All Things Open 2019 - Raleigh NC October 13-15
 
+https://twitter.com/Samson_Goddy/status/1180824521328214016 | Samson Goddy on Twitter: "Come February 20th - 22nd, we(@oscafrica) are hosting the first-ever Open Source Festival in Lagos, Nigeria. Calling for speakers and sponsors, come let's make this a great experience!!!! 🎉🎊 #oscafest #opensource #sustainAfrica https://t.co/mbENf3pkNr https://t.co/1lu5mqD6II" / Twitter
+
 http://mxmicodigo.com/ | .: MxMiCodigo :.
 https://glasnt.com/talks
 
