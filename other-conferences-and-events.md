@@ -1,6 +1,8 @@
 # Other Conferences and Events
 
 <!--
+https://allthingsopen.org/ | All Things Open 2019 - Raleigh NC October 13-15
+
 http://mxmicodigo.com/ | .: MxMiCodigo :.
 https://glasnt.com/talks
 
@@ -185,6 +187,7 @@ Python US- Bay Area and California
 
 <!--
 https://2020.pybeach.org/
+https://twitter.com/PyBeachLA
 
 https://pybay.com/volunteer-and-scholarships/#worktrade
 https://docs.google.com/forms/d/e/1FAIpQLSepQy9xDYrx0GrViFQcYf_pbw7uWiMx2QitXcC6AvBzScOEaQ/viewform
@@ -264,6 +267,12 @@ PyCon International- Western Europe
 * [PyCon Italia Website](https://www.pycon.it), [Python Italia GitHub](https://github.com/pythonitalia), and [PyCon Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
 * [PyLondinium](https://pylondinium.org)
 
+<!--
+https://python.ie/ | Python Ireland
+https://de.pycon.org/ | PyConDE & PyData Berlin 2019 | Berlin, 9-13 October 2019
+https://hamburg.python.pizza/ | Python Pizza Hamburg
+-->
+
 PyCon International- Eastern Europe
 * [PyCon Czech Website](https://cz.pycon.org)
 * [PyCon Czech User Group Homepage](https://python.cz/) and [PyCon Czech User Group Homepage GitHub](https://github.com/pyvec/python.cz)
@@ -288,6 +297,9 @@ PyCon International- Middle East and Asia
 * [PyCon Korea](https://www.pycon.kr/)
 
 <!--
+https://tr.pycon.org/ | PyCon Turkey - May 2020
+https://in.pycon.org/2019/ | PyCon India 2019 in Chennai | October 12th to 15th
+
 https://www.townscript.com/e/pyconf-hyderabad-2019
 https://in.pycon.org/cfp/2019/proposals/
 
