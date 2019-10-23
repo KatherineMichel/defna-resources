@@ -87,6 +87,10 @@ Meetups- Python and Django
 * [Meetup Topic Python](http://www.meetup.com/topics/python) and [Meetup Topic Python All](https://www.meetup.com/topics/django/all)
 
 <!--
+https://forum.djangoproject.com/t/django-meetups/376/2 | Django Meetups - Events - Django Forum
+https://wiki.python.org/moin/PythonEventsCalendar | PythonEventsCalendar - Python Wiki
+https://wiki.python.org/moin/LocalUserGroups | LocalUserGroups - Python Wiki
+
 Conferences and meetups
 
 https://github.com/pythonkc
