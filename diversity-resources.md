@@ -54,9 +54,9 @@ PyLadies and PyLadies Remote
 * [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
 <!--
+https://twitter.com/pyladies/status/1172228140724293632
 https://github.com/pyladies/global-organizing/issues/32 | RFC: PyLadies Global Council Selection Process · Issue #32 · pyladies/global-organizing
 https://github.com/pyladies/global-organizing/issues/33 | RFC: PyLadies Projects · Issue #33 · pyladies/global-organizing
-
 https://www.pyladies.com/blog/Important-PyLadies-Update/important-pyladies-update/
 
 PyLadies History
