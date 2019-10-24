@@ -1,6 +1,14 @@
 # DEFNA Resources
 
 <!--
+https://static1.squarespace.com/static/5ab1d4f7506fbe65840ffd71/t/5d6bc8fbf37f24000183ade8/1567344891793/RR+Menus+2019+%281%29.pdf
+
+"Magical evening in Little Italy in downtown San Diego that ended with a breathtaking view in the distance of boats and water illuminated by a pastel sunset. I had alfredo and zucchini for supper. It was delicious. #djangocon"
+https://twitter.com/KatiMichel/status/1175249812536455168
+
+https://www.youtube.com/DjangoConUS
+https://twitter.com/hashtag/djangocon
+
 http://www.openstenoproject.org/ | Home | Open Steno Project
 
 https://www.facebook.com/heather.marie.5686/posts/10161966629050573
