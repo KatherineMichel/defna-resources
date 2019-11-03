@@ -1,6 +1,28 @@
 # DEFNA Resources
 
 <!--
+PyCon Africa
+http://lorenamesa.com/akwaaba-a-pan-african-python-conference-and-the-year-of-return.html | Akwaaba! A Pan-African Python Conference and The Year of Return
+https://twitter.com/loooorenanicole/status/1160498140790829057 | Loooorena 🐯 "La Tigresa" 🐯 Mesa @ #PyConAfrica on Twitter: "Wow what a beautiful collection. Humbled to be in the presence of this amazing crew. 💖 https://t.co/539HM70OXw" / Twitter
+
+Jeff Interview
+https://twitter.com/i/web/status/1156629486168956929 | Django Chat Podcast on Twitter: "Episode 24 - Testing with Jeff Triplett (@webology) is now live! Jeff is a consultant at REVSYS, Director of the PSF, and President of DEFNA. We discuss testing Django applications, community, conferences, parenting, and more. https://t.co/obnwcPXcGc" / Twitter
+
+Conference Organizing
+https://twitter.com/webology/status/1186835913890041856 | 🎃 Jeff O'Lantern 🎃 on Twitter: "@jonafato I have been debating some type of weekly or bi-weekly type of thing too. I am happy to join in from time-to-time or plan. Whatever you are up for." / Twitter
+https://twitter.com/KelvinOyanna/status/1160207755443146752 | Kelvin Oyanna on Twitter: "Very useful &amp; exhaustive information shared by @evildmp today on how to organize &amp; manage Python community Conferences. The idea of localizing Code of Conduct is spot on! Thank you @evildmp for the inspiration. #PyConAfrica19 @pyconafrica https://t.co/QIHb5se2xA" / Twitter
+https://mike.pirnat.com/2019/08/04/inside-the-pyohio-program-process/ | Mike Pirnat: Inside the PyOhio Program Process
+
+Diversity and Other Stuff
+https://github.com/joshsimmons/inclusion-rider | joshsimmons/inclusion-rider: An as-yet UNTESTED sample speaker's rider to share with event organizers.
+twitter handle slide - Google Search
+https://geekfeminism.wikia.org/wiki/Richard_Stallman | Richard Stallman | Geek Feminism Wiki | FANDOM powered by Wikia
+http://kojoidrissa.com/conferences/community/pycon%20africa/noramgt/2019/08/11/post_conference_depression.html | A Beginner’s Guide to Post Conference Depression | Kojo Idrissa ONLINE
+
+DjangoCon US Website
+https://twitter.com/webology/status/1166445232591949826 | ✨ Jeff Triplett ✨ on Twitter: "👋 Hi, friends. What's your best trick for generating social media friendsly preview images (aka open graph/summary images)? 🖼 This feels like it should be a solved problem by now." / Twitter
+http://jonibologna.work | Joni Bologna’s Portfolio
+
 A Chat with Ewa
 https://twitter.com/TerraMeijar/status/1189487136115957761
 
@@ -234,6 +256,8 @@ DjangoCon US 2017 Feedback
 * ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
 
 <!--
+https://bartpawlik.format.com/ | Overview - Bartosz's Portfolio
+
 https://www.youtube.com/playlist?list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX- | DjangoCon US 2019 - YouTube
 https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
 https://www.flickr.com/photos/djangocon/galleries | DjangoCon’s galleries | Flickr
