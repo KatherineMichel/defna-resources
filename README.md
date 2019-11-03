@@ -1,6 +1,14 @@
 # DEFNA Resources
 
 <!--
+A Chat with Ewa
+https://twitter.com/TerraMeijar/status/1189487136115957761
+
+https://www.python.org/psf/get-involved/ | 👋 Hey PyColorado! | Python Software Foundation
+https://discuss.python.org/c/python-software-foundation/pypi-q4-rfi | Latest Python Software Foundation/PyPI Q4 RFI topics - Discussions on Python.org
+https://www.python.org/jobs/
+http://pythoncalendar.com/ | Python Events
+
 https://static1.squarespace.com/static/5ab1d4f7506fbe65840ffd71/t/5d6bc8fbf37f24000183ade8/1567344891793/RR+Menus+2019+%281%29.pdf
 
 "Magical evening in Little Italy in downtown San Diego that ended with a breathtaking view in the distance of boats and water illuminated by a pastel sunset. I had alfredo and zucchini for supper. It was delicious. #djangocon"
