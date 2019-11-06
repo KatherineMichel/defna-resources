@@ -1,6 +1,11 @@
-# DjangoCon US Website
+# DEFNA and DjangoCon US Website
 
-## Archive
+## DEFNA Website
+
+* [DEFNA Squarespace Website](https://www.defna.org/)
+* [DEFNA Jekyll Repo](https://github.com/katialira/defna_jekyll)
+
+## DjangoCon US Website Archive Project
 
 * [DjangoCon Archive Project](https://github.com/djangocon/djangocon-archive-project)
 
