@@ -1,12 +1,23 @@
 # DEFNA Resources
 
 <!--
+https://www.europython-society.org/post/188741002380/europython-2020-venue-and-location-selected | EuroPython Society — EuroPython 2020: Venue and location selected
+
+https://2019.pygotham.org/sponsors/ | Sponsors - PyGotham 2019
+https://twitter.com/jonafato/status/1190707241768378368 | Jon Banafato on Twitter: "Update: everyone that told me about their availability should have gotten a calendar invite for Wednesday, November 6th at 9:00PM EST. If you'd like to join, let me know, and we'll also work on scheduling more of these soon." / Twitter
+
+https://tinyletter.com/northbaypython/letters/2019-videos-available-and-the-future-of-north-bay-python | 2019 videos available, and the future of North Bay Python
+https://gist.github.com/chrisjrn/51f0e8d2c00a343df37704372e98057a | North Bay Python -- Kincade Fire Update Oct 28
+
 PyCon Africa
+https://twitter.com/PyconTanzania/status/1193192798780100610 | PyCon Tanzania on Twitter: "Happening soon this December 2019... #pycontz2019 @pyconafrica @PyconTanzania @PyNBO @pythontz @py_zim @pyconza @pycon_zim @PyConNA https://t.co/pMRYuHyLjN" / Twitter
+https://realpython.com/pycon-africa-2019-recap/ | PyCon Africa 2019 (Recap) – Real Python
 http://lorenamesa.com/akwaaba-a-pan-african-python-conference-and-the-year-of-return.html | Akwaaba! A Pan-African Python Conference and The Year of Return
 https://twitter.com/loooorenanicole/status/1160498140790829057 | Loooorena 🐯 "La Tigresa" 🐯 Mesa @ #PyConAfrica on Twitter: "Wow what a beautiful collection. Humbled to be in the presence of this amazing crew. 💖 https://t.co/539HM70OXw" / Twitter
 
-Jeff Interview
+Jeff
 https://twitter.com/i/web/status/1156629486168956929 | Django Chat Podcast on Twitter: "Episode 24 - Testing with Jeff Triplett (@webology) is now live! Jeff is a consultant at REVSYS, Director of the PSF, and President of DEFNA. We discuss testing Django applications, community, conferences, parenting, and more. https://t.co/obnwcPXcGc" / Twitter
+https://twitter.com/webology/status/1188930811451596801 | 🍂 Jeff Triplett 🍂 on Twitter: "👋 Dear friends who ask me to review/give feedback on your slides/presentations: 1️⃣ I am happy to. I get asked quite a bit and I watch quite a bit. 2️⃣ consider using https://t.co/0dfnYYFBFP or https://t.co/F9DOQ5jgOz to save yourself a ton of time and formatting issues." / Twitter
 
 Conference Organizing
 https://twitter.com/webology/status/1186835913890041856 | 🎃 Jeff O'Lantern 🎃 on Twitter: "@jonafato I have been debating some type of weekly or bi-weekly type of thing too. I am happy to join in from time-to-time or plan. Whatever you are up for." / Twitter
@@ -256,6 +267,9 @@ DjangoCon US 2017 Feedback
 * ["DjangoCon 2017 Videos are up and a question!"](https://www.reddit.com/r/django/comments/6yio1q/djangocon_2017_videos_are_up_and_a_question)
 
 <!--
+https://twitter.com/jacobian/status/1194030792856539136 | jacobian on Twitter: "@webology @djangocon @helloyupgup ooh, I love this." / Twitter
+https://2019.djangocon.us/news/Conference-Wrap-Up/ | 2019 Conference Wrap Up | DjangoCon US
+
 https://bartpawlik.format.com/ | Overview - Bartosz's Portfolio
 
 https://www.youtube.com/playlist?list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX- | DjangoCon US 2019 - YouTube
