@@ -176,7 +176,8 @@ DjangoCon Europe
 * [DjangoCon Europe 2019 Website](https://2019.djangocon.eu) and [DjangoCon Europe 2019 GitHub](https://github.com/djangocon/2019.djangocon.eu)
 * [DjangoCon Europe 2018 Website](https://2018.djangocon.eu) and [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
 * [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
-* [DjangoCon Europe 2016 Website](https://2016.djangocon.eu)
+* [DjangoCon Europe 2016 Website](https://2016.djangocon.eu) and [DjangoCon Europe 2016 GitHub](https://github.com/djangocon/2016.djangocon.eu)
+* [DjangoCon Europe 2015 GitHub](https://github.com/djangocon/2015.djangocon.us)
 
 DjangoCon Europe Photos
 * [DjangoCon Europe Photos (Bartek Pawlik)](https://www.flickr.com/photos/140681500@N07/albums)
@@ -262,6 +263,9 @@ Python North America- Canada
 * [PyCascades 2019 Website](https://2019.pycascades.com)
 
 <!--
+https://github.com/pyconca/2017-web
+https://github.com/pyconca/websites-archive | pyconca/websites-archive: An Git archive of the old PyConCA websites.
+
 https://2020.pycascades.com/volunteer/
 https://2020.pycascades.com/
 https://2019.pycascades.com/grants/
