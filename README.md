@@ -245,8 +245,13 @@ Websites
 * [DjangoCon US 2019 Website](https://2019.djangocon.us)
 * [DjangoCon US 2018 Website](https://2018.djangocon.us) and [DjangoCon US 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.us)
 * [DjangoCon US 2017 Website](https://2017.djangocon.us) and [DjangoCon US 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.us)
-* [DjangoCon US 2016 Website](https://2016.djangocon.us)
+* [DjangoCon US 2016 Website](https://2016.djangocon.us) and [DjangoCon U.S. 2016 GitHub](https://github.com/djangocon/2016.djangocon.us)
 * [DjangoCon US 2015 Website](https://2015.djangocon.us)
+
+<!--
+* [DjangoCon Website Archive GitHub](https://github.com/djangocon/djangocon-backups)
+https://github.com/djangocon/2016.djangocon.us-archived
+-->
 
 DjangoCon Photos
 * [DjangoCon 2018 Photos (Adam Gregory, Bartek Pawlik)](https://www.flickr.com/photos/144080672@N05)
@@ -306,6 +311,8 @@ https://www.flickr.com/photos/kennethreitz | Kenneth Reitz | Flickr
 * [PyCon Website GitHub](https://github.com/PyCon/pycon)
 
 <!--
+* [PyCon Read the Docs](https://pycon.readthedocs.org/en/latest)
+
 https://us.pycon.org/2020/
 https://mailchi.mp/4799450df928/pycon-news
 https://pycon.blogspot.com/2019/09/call-for-proposals-for-pycon-2020-is.html
