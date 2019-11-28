@@ -9,9 +9,14 @@
 
 * [DjangoCon Archive Project](https://github.com/djangocon/djangocon-archive-project)
 
-## DjangoCon US 2019 Website Notes
+## DjangoCon US 2020 Website Notes
 
 My Role: 2017, 2018 Website Chair and Maintainer, 2019 Website Co-Chair and Maintainer (Website and Technical Lead): https://github.com/djangocon/djangocon-us-docs/blob/0afd4cfc6fb17ffddf732cf3b7a6189f3312b748/volunteers/roles.md
+
+Code
+* [Website Repo](https://github.com/djangocon/2020.djangocon.us)
+
+## DjangoCon US 2019 Website Notes
 
 Code
 * [Website](https://2019.djangocon.us) and [Website Repo](https://github.com/djangocon/2019.djangocon.us)
