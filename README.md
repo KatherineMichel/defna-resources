@@ -9,6 +9,11 @@ https://twitter.com/jonafato/status/1190707241768378368 | Jon Banafato on Twitte
 https://tinyletter.com/northbaypython/letters/2019-videos-available-and-the-future-of-north-bay-python | 2019 videos available, and the future of North Bay Python
 https://gist.github.com/chrisjrn/51f0e8d2c00a343df37704372e98057a | North Bay Python -- Kincade Fire Update Oct 28
 
+DjangoCon Africa
+https://www.djangoproject.com/weblog/2019/nov/18/introducing-djangocon-africa/
+
+procida python and pycons across africa
+
 PyCon Africa
 https://twitter.com/PyconTanzania/status/1193192798780100610 | PyCon Tanzania on Twitter: "Happening soon this December 2019... #pycontz2019 @pyconafrica @PyconTanzania @PyNBO @pythontz @py_zim @pyconza @pycon_zim @PyConNA https://t.co/pMRYuHyLjN" / Twitter
 https://realpython.com/pycon-africa-2019-recap/ | PyCon Africa 2019 (Recap) – Real Python
@@ -332,6 +337,8 @@ PyCon Adafruit
 https://blog.adafruit.com/2019/02/23/digi-key-and-adafruit-at-pycon-all-attendees-will-receive-a-circuit-playground-express-digikey-adafruit-pycon-pycon2019/ | Digi-Key and Adafruit at PyCon – All attendees will receive a Circuit Playground Express! @digikey @adafruit @pycon #pycon2019 « Adafruit Industries – Makers, hackers, artists, designers and engineers!
 https://github.com/adafruit/circuitpython_kernel | adafruit/circuitpython_kernel: Jupyter kernel to interact with CircuitPython board over USB
 
+Maintainer's Summit
+https://twitter.com/JackieKazil/status/1191796784399572993
 https://www.papercall.io/pycon-maintainers-summit | PaperCall.io - Pycon 2019 Maintainers Summit
 
 https://twitter.com/pycon/status/1108467001515749377 | PyCon on Twitter: "We have some awesome open source projects in the expo hall - @pyladies, @NumFOCUS, @pybeeware, @djangogirls, @scikit-yb, @amjithr, @indypy, @ps_python, @codeandsupply, @hiddengeniuspro, @plone, @OSMIhelp. Come and talk to them about what they're working on!"
