@@ -1,6 +1,14 @@
 # DEFNA Resources
 
 <!--
+https://github.com/pyladies/pyladies-bot
+
+https://twitter.com/joshsimmons/status/1204588565537050629
+https://twitter.com/ewa_jodlowska/status/1204424407915077632
+https://twitter.com/_sagesharp_/status/1202616094327881734
+https://twitter.com/pycon/status/1205573168846557184
+https://twitter.com/aidanfeldman/status/1204579466896384001
+
 https://www.europython-society.org/post/188741002380/europython-2020-venue-and-location-selected | EuroPython Society — EuroPython 2020: Venue and location selected
 
 https://2019.pygotham.org/sponsors/ | Sponsors - PyGotham 2019
