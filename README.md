@@ -1,6 +1,10 @@
 # DEFNA Resources
 
 <!--
+https://github.com/pytexas/pytexas.github.io
+https://2020.pycascades.com/schedule/
+https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg
+
 https://github.com/pyladies/pyladies-bot
 
 https://twitter.com/joshsimmons/status/1204588565537050629
