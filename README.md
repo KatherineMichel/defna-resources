@@ -113,6 +113,9 @@ Sponsor Python
 * [Brett Cannon Tweet](https://twitter.com/brettsky/status/1141114303736475648)
 
 <!--
+The Python Software Foundation- has updated its Code of Conduct
+https://twitter.com/chrisjrn/status/1176553315888295936
+
 https://twitter.com/ewa_jodlowska/status/1143609630528081921 | Ewa Jodlowska on Twitter: "Thank you @Podcast__init__ for letting me promote the PSF & how I've grown right along with it! I discuss history, operations, future PSF projects, challenges with fundraising & other resources, & how we can all continue to grow to be a healthy and strong community. Check it out!… https://t.co/7NtTWmKDZT"
 
 https://twitter.com/ThePSF/lists | Python Software (@ThePSF) | Twitter
