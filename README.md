@@ -1,22 +1,28 @@
 # DEFNA Resources
 
 <!--
-https://github.com/pytexas/pytexas.github.io
-https://2020.pycascades.com/schedule/
-https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg
-
-https://github.com/pyladies/pyladies-bot
-
-https://twitter.com/joshsimmons/status/1204588565537050629
-https://twitter.com/ewa_jodlowska/status/1204424407915077632
-https://twitter.com/_sagesharp_/status/1202616094327881734
-https://twitter.com/pycon/status/1205573168846557184
+Inclusion Riders
 https://twitter.com/aidanfeldman/status/1204579466896384001
+https://afeld.me/rider
+https://github.com/joshsimmons/inclusion-rider | joshsimmons/inclusion-rider: An as-yet UNTESTED sample speaker's rider to share with event organizers.
+https://twitter.com/joshsimmons/status/1204588565537050629
 
-https://www.europython-society.org/post/188741002380/europython-2020-venue-and-location-selected | EuroPython Society — EuroPython 2020: Venue and location selected
+PyCon
+https://twitter.com/pycon/status/1205573168846557184
+https://twitter.com/_sagesharp_/status/1202616094327881734
 
-https://2019.pygotham.org/sponsors/ | Sponsors - PyGotham 2019
-https://twitter.com/jonafato/status/1190707241768378368 | Jon Banafato on Twitter: "Update: everyone that told me about their availability should have gotten a calendar invite for Wednesday, November 6th at 9:00PM EST. If you'd like to join, let me know, and we'll also work on scheduling more of these soon." / Twitter
+https://www.python.org/psf/get-involved/ | 👋 Hey PyColorado! | Python Software Foundation
+https://discuss.python.org/c/python-software-foundation/pypi-q4-rfi | Latest Python Software Foundation/PyPI Q4 RFI topics - Discussions on Python.org
+https://www.python.org/jobs/
+http://pythoncalendar.com/ | Python Events
+
+https://github.com/andrewgodwin/grorg | GitHub - andrewgodwin/grorg
+https://gitlab.com/bigapplepy/yak-bak/ | Big Apple Py / yak-bak · GitLab
+
+PyLadies
+https://github.com/pyladies/pyladies-bot
+https://twitter.com/gvanrossum/status/1233895366078021633 | Guido van Rossum on Twitter: "I ❤️ @PyLadies! Thank you all so much for making Python's community more diverse (and not just qua gender!). I fancy myself a feminist and an ally but you do the hard work and make it stick. Way to go #pyladies https://t.co/uss1EhdR9W" / Twitter
+https://slackin.pyladies.com/ | Join PyLadies on Slack!
 
 https://tinyletter.com/northbaypython/letters/2019-videos-available-and-the-future-of-north-bay-python | 2019 videos available, and the future of North Bay Python
 https://gist.github.com/chrisjrn/51f0e8d2c00a343df37704372e98057a | North Bay Python -- Kincade Fire Update Oct 28
@@ -32,53 +38,24 @@ https://realpython.com/pycon-africa-2019-recap/ | PyCon Africa 2019 (Recap) – 
 http://lorenamesa.com/akwaaba-a-pan-african-python-conference-and-the-year-of-return.html | Akwaaba! A Pan-African Python Conference and The Year of Return
 https://twitter.com/loooorenanicole/status/1160498140790829057 | Loooorena 🐯 "La Tigresa" 🐯 Mesa @ #PyConAfrica on Twitter: "Wow what a beautiful collection. Humbled to be in the presence of this amazing crew. 💖 https://t.co/539HM70OXw" / Twitter
 
-Jeff
-https://twitter.com/i/web/status/1156629486168956929 | Django Chat Podcast on Twitter: "Episode 24 - Testing with Jeff Triplett (@webology) is now live! Jeff is a consultant at REVSYS, Director of the PSF, and President of DEFNA. We discuss testing Django applications, community, conferences, parenting, and more. https://t.co/obnwcPXcGc" / Twitter
-https://twitter.com/webology/status/1188930811451596801 | 🍂 Jeff Triplett 🍂 on Twitter: "👋 Dear friends who ask me to review/give feedback on your slides/presentations: 1️⃣ I am happy to. I get asked quite a bit and I watch quite a bit. 2️⃣ consider using https://t.co/0dfnYYFBFP or https://t.co/F9DOQ5jgOz to save yourself a ton of time and formatting issues." / Twitter
+https://www.europython-society.org/post/188741002380/europython-2020-venue-and-location-selected | EuroPython Society — EuroPython 2020: Venue and location selected
 
 Conference Organizing
+https://twitter.com/jonafato/status/1190707241768378368 | Jon Banafato on Twitter: "Update: everyone that told me about their availability should have gotten a calendar invite for Wednesday, November 6th at 9:00PM EST. If you'd like to join, let me know, and we'll also work on scheduling more of these soon." / Twitter
 https://twitter.com/webology/status/1186835913890041856 | 🎃 Jeff O'Lantern 🎃 on Twitter: "@jonafato I have been debating some type of weekly or bi-weekly type of thing too. I am happy to join in from time-to-time or plan. Whatever you are up for." / Twitter
 https://twitter.com/KelvinOyanna/status/1160207755443146752 | Kelvin Oyanna on Twitter: "Very useful &amp; exhaustive information shared by @evildmp today on how to organize &amp; manage Python community Conferences. The idea of localizing Code of Conduct is spot on! Thank you @evildmp for the inspiration. #PyConAfrica19 @pyconafrica https://t.co/QIHb5se2xA" / Twitter
 https://mike.pirnat.com/2019/08/04/inside-the-pyohio-program-process/ | Mike Pirnat: Inside the PyOhio Program Process
 
-Diversity and Other Stuff
-https://github.com/joshsimmons/inclusion-rider | joshsimmons/inclusion-rider: An as-yet UNTESTED sample speaker's rider to share with event organizers.
-twitter handle slide - Google Search
-https://geekfeminism.wikia.org/wiki/Richard_Stallman | Richard Stallman | Geek Feminism Wiki | FANDOM powered by Wikia
-http://kojoidrissa.com/conferences/community/pycon%20africa/noramgt/2019/08/11/post_conference_depression.html | A Beginner’s Guide to Post Conference Depression | Kojo Idrissa ONLINE
-
-DjangoCon US Website
-https://twitter.com/webology/status/1166445232591949826 | ✨ Jeff Triplett ✨ on Twitter: "👋 Hi, friends. What's your best trick for generating social media friendsly preview images (aka open graph/summary images)? 🖼 This feels like it should be a solved problem by now." / Twitter
-http://jonibologna.work | Joni Bologna’s Portfolio
-
-A Chat with Ewa
-https://twitter.com/TerraMeijar/status/1189487136115957761
-
-https://www.python.org/psf/get-involved/ | 👋 Hey PyColorado! | Python Software Foundation
-https://discuss.python.org/c/python-software-foundation/pypi-q4-rfi | Latest Python Software Foundation/PyPI Q4 RFI topics - Discussions on Python.org
-https://www.python.org/jobs/
-http://pythoncalendar.com/ | Python Events
-
-https://static1.squarespace.com/static/5ab1d4f7506fbe65840ffd71/t/5d6bc8fbf37f24000183ade8/1567344891793/RR+Menus+2019+%281%29.pdf
-
-"Magical evening in Little Italy in downtown San Diego that ended with a breathtaking view in the distance of boats and water illuminated by a pastel sunset. I had alfredo and zucchini for supper. It was delicious. #djangocon"
-https://twitter.com/KatiMichel/status/1175249812536455168
-
-https://www.youtube.com/DjangoConUS
-https://twitter.com/hashtag/djangocon
-
-http://www.openstenoproject.org/ | Home | Open Steno Project
-
-https://www.facebook.com/heather.marie.5686/posts/10161966629050573
-
-https://github.com/andrewgodwin/grorg | GitHub - andrewgodwin/grorg
-https://gitlab.com/bigapplepy/yak-bak/ | Big Apple Py / yak-bak · GitLab
-
 https://twitter.com/jonafato/status/1130556611318157313 | Jon Banafato on Twitter: "Just in case you're wondering what keeps me up at night. It's pretty late in the game before we know we have enough talks for a full schedules. If you're running a CFP, refer to graphs like this when you need reassurance that it'll all work out.… https://t.co/3K504Yr8Oq"
 https://twitter.com/PyOhio/status/996605491051683841 | PyOhio on Twitter: "With the number of just-in-time proposals you'd think we're running a PyPy conference 😂 🐍… "
 
-PyLadies
-https://slackin.pyladies.com/ | Join PyLadies on Slack!
+Jeff
+https://twitter.com/i/web/status/1156629486168956929 | Django Chat Podcast on Twitter: "Episode 24 - Testing with Jeff Triplett (@webology) is now live! Jeff is a consultant at REVSYS, Director of the PSF, and President of DEFNA. We discuss testing Django applications, community, conferences, parenting, and more. https://t.co/obnwcPXcGc" / Twitter
+https://twitter.com/webology/status/1188930811451596801 | 🍂 Jeff Triplett 🍂 on Twitter: "👋 Dear friends who ask me to review/give feedback on your slides/presentations: 1️⃣ I am happy to. I get asked quite a bit and I watch quite a bit. 2️⃣ consider using https://t.co/0dfnYYFBFP or https://t.co/F9DOQ5jgOz to save yourself a ton of time and formatting issues." / Twitter
+
+http://kojoidrissa.com/conferences/community/pycon%20africa/noramgt/2019/08/11/post_conference_depression.html | A Beginner’s Guide to Post Conference Depression | Kojo Idrissa ONLINE
+
+http://www.openstenoproject.org/ | Home | Open Steno Project
 
 https://www.amazon.com/Zoom-H1n-Handy-Recorder-Model/dp/B078PTM82R
 -->
