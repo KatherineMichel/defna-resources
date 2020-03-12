@@ -17,6 +17,11 @@ Code
 * [Website Repo](https://github.com/djangocon/2020.djangocon.us)
 
 <!--
+DjangoCon US Website
+https://twitter.com/webology/status/1166445232591949826 | ✨ Jeff Triplett ✨ on Twitter: "👋 Hi, friends. What's your best trick for generating social media friendsly preview images (aka open graph/summary images)? 🖼 This feels like it should be a solved problem by now." / Twitter
+
+http://jonibologna.work | Joni Bologna’s Portfolio
+
 https://github.com/djangocon/2019.djangocon.us/actions/new
 -->
 
