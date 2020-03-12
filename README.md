@@ -1,6 +1,9 @@
 # DEFNA Resources
 
 <!--
+Heather- DjangoCon US
+https://www.facebook.com/heather.marie.5686/posts/10161966629050573
+
 Inclusion Riders
 https://twitter.com/aidanfeldman/status/1204579466896384001
 https://afeld.me/rider
