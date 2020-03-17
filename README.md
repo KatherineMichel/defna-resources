@@ -1,14 +1,20 @@
 # DEFNA Resources
 
 <!--
+https://www.youtube.com/channel/UCfW2SBqLpcfXS1c3_1ZOoxw
+https://www.pyladies.com/
+https://app.slack.com/client/T03HT05JZ/C03HT05KF
+Membership survey
+https://docs.google.com/forms/d/e/1FAIpQLSfknZgGu8HRA9UXiKoD0MWZ-vxOMHKRK5kJ_iK67tZq2pV6Qg/viewform
+
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
 Heather- DjangoCon US
 https://www.facebook.com/heather.marie.5686/posts/10161966629050573
-
-Inclusion Riders
-https://twitter.com/aidanfeldman/status/1204579466896384001
-https://afeld.me/rider
-https://github.com/joshsimmons/inclusion-rider | joshsimmons/inclusion-rider: An as-yet UNTESTED sample speaker's rider to share with event organizers.
-https://twitter.com/joshsimmons/status/1204588565537050629
 
 PyCon
 https://twitter.com/pycon/status/1205573168846557184
