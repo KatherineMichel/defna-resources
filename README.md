@@ -29,6 +29,9 @@ https://github.com/andrewgodwin/grorg | GitHub - andrewgodwin/grorg
 https://gitlab.com/bigapplepy/yak-bak/ | Big Apple Py / yak-bak · GitLab
 
 PyLadies
+https://twitter.com/pyladies/lists/pyladies-locations | @pyladies/PyLadies Locations on Twitter
+https://twitter.com/aaronbassett/status/1252273006094794752 | Aaron Bassett - Developer Advocate 🥑 on Twitter: "I'm not going to @mention anyone to take part publicly, as I know some people still find it difficult to talk publicly about their achievements. But, there are SOOO many women I know have done amazing things this past year and deserve to be shouting about them! #pyladies #pycon https://t.co/JcjGZcoEnU" / Twitter
+https://twitter.com/JackieKazil/status/1251928450983776258 | Jackie Kazil on Twitter: "Are you all in the virtual @pyladies lunch mic line this year? @roguelynn, @loooorenanicole, @mariatta, @marlene_zw, @kcunning, @amcasari, @KatiMichel, @elliewix? If you are not, that is fine. Please encourage others to get in line and share. ‍♀️ ️" / Twitter
 https://github.com/pyladies/pyladies-bot
 https://twitter.com/gvanrossum/status/1233895366078021633 | Guido van Rossum on Twitter: "I ❤️ @PyLadies! Thank you all so much for making Python's community more diverse (and not just qua gender!). I fancy myself a feminist and an ally but you do the hard work and make it stick. Way to go #pyladies https://t.co/uss1EhdR9W" / Twitter
 https://slackin.pyladies.com/ | Join PyLadies on Slack!
