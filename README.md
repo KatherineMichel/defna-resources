@@ -1,6 +1,10 @@
 # DEFNA Resources
 
 <!--
+PyLadies Registration
+https://twitter.com/pyladies/status/1236357624871845888
+https://docs.google.com/forms/u/0/d/e/1FAIpQLSfknZgGu8HRA9UXiKoD0MWZ-vxOMHKRK5kJ_iK67tZq2pV6Qg/formResponse
+
 https://www.youtube.com/channel/UCfW2SBqLpcfXS1c3_1ZOoxw
 https://www.pyladies.com/
 https://app.slack.com/client/T03HT05JZ/C03HT05KF
