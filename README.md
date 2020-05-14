@@ -1,6 +1,24 @@
 # DEFNA Resources
 
 <!--
+Heather- DjangoCon US
+https://www.facebook.com/heather.marie.5686/posts/10161966629050573
+
+PyCon
+https://twitter.com/pycon/status/1205573168846557184
+https://twitter.com/_sagesharp_/status/1202616094327881734
+
+https://naomiceder.tech/posts/stepping_back/ | Stepping back from the board | Naomi Ceder
+
+https://www.python.org/psf/get-involved/ | 👋 Hey PyColorado! | Python Software Foundation
+https://discuss.python.org/c/python-software-foundation/pypi-q4-rfi | Latest Python Software Foundation/PyPI Q4 RFI topics - Discussions on Python.org
+https://www.python.org/jobs/
+http://pythoncalendar.com/ | Python Events
+
+https://github.com/pretix | pretix
+https://github.com/andrewgodwin/grorg | GitHub - andrewgodwin/grorg
+https://gitlab.com/bigapplepy/yak-bak/ | Big Apple Py / yak-bak · GitLab
+
 PyLadies Registration
 https://twitter.com/pyladies/status/1236357624871845888
 https://docs.google.com/forms/u/0/d/e/1FAIpQLSfknZgGu8HRA9UXiKoD0MWZ-vxOMHKRK5kJ_iK67tZq2pV6Qg/formResponse
@@ -10,27 +28,6 @@ https://www.pyladies.com/
 https://app.slack.com/client/T03HT05JZ/C03HT05KF
 Membership survey
 https://docs.google.com/forms/d/e/1FAIpQLSfknZgGu8HRA9UXiKoD0MWZ-vxOMHKRK5kJ_iK67tZq2pV6Qg/viewform
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
-Heather- DjangoCon US
-https://www.facebook.com/heather.marie.5686/posts/10161966629050573
-
-PyCon
-https://twitter.com/pycon/status/1205573168846557184
-https://twitter.com/_sagesharp_/status/1202616094327881734
-
-https://www.python.org/psf/get-involved/ | 👋 Hey PyColorado! | Python Software Foundation
-https://discuss.python.org/c/python-software-foundation/pypi-q4-rfi | Latest Python Software Foundation/PyPI Q4 RFI topics - Discussions on Python.org
-https://www.python.org/jobs/
-http://pythoncalendar.com/ | Python Events
-
-https://github.com/andrewgodwin/grorg | GitHub - andrewgodwin/grorg
-https://gitlab.com/bigapplepy/yak-bak/ | Big Apple Py / yak-bak · GitLab
 
 PyLadies
 https://twitter.com/pyladies/lists/pyladies-locations | @pyladies/PyLadies Locations on Twitter
