@@ -1,7 +1,8 @@
 # DEFNA Resources
 
 <!--
-PyLadies
+https://anweshadas.in/pyladies-india-embarked-its-journey/ | PyLadies India embarked its journey
+
 https://twitter.com/loooorenanicole/status/1274913218352353287 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "#PyLadies first online hack highlights 🏾: - https://t.co/OBCXBsOyQQ is officially #Python 3 powered! - 12 issues closed - dependabot alerts gone - netlify bootstrapped - lots work on @pyladies Global Council Election (website launching soon) - logo refresh I'm beat. https://t.co/vOkzPnRGEA" / Twitter
 
 PSF Election reform
