@@ -1,6 +1,16 @@
 # DEFNA Resources
 
 <!--
+PyLadies
+https://twitter.com/loooorenanicole/status/1274913218352353287 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "#PyLadies first online hack highlights 🏾: - https://t.co/OBCXBsOyQQ is officially #Python 3 powered! - 12 issues closed - dependabot alerts gone - netlify bootstrapped - lots work on @pyladies Global Council Election (website launching soon) - logo refresh I'm beat. https://t.co/vOkzPnRGEA" / Twitter
+
+PSF Election reform
+https://twitter.com/ronn_zw/status/1276419058901155840 | Ronald Maravanyika on Twitter: "I was really disappointed that no African made it to the @ThePSF board. So next year l will be running for one of those seats. I’m currently threading through the conversation going on about geographical location n voting." / Twitter
+https://thefortunate.blog/en/diversification-is-the-future-for-the-psf.html | Diversification is the future for the Python Software Foundation (PSF) - The Fortunate
+https://discuss.python.org/t/psf-board-election-reform/4527 | (1) PSF Board Election Reform - Python Software Foundation / PSF Board Elections - Discussions on Python.org
+https://pyfound.blogspot.com/2020/06/2020-python-software-foundation-board_26.html | Python Software Foundation News: 2020 Python Software Foundation Board of Directors Election Retrospective and Next Steps
+
+
 Heather- DjangoCon US
 https://www.facebook.com/heather.marie.5686/posts/10161966629050573
 
