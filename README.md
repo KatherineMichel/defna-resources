@@ -1,6 +1,28 @@
 # DEFNA Resources
 
 <!--
+https://dev.to/lakatialira/la-reformas-necesarias-para-la-psf-1hk | La reformas necesarias para la PSF - DEV
+https://twitter.com/loooorenanicole/status/1283121082225106945 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "Reminder that @thepsf will be reviewing the feedback on @thepsf Board of Director election reform for our July 29th meeting. The thread will therefore be closing at 23:59:59 Anywhere on Earth July 28 2020! Weigh in today at https://t.co/0Epj78fEWj. Thank you all! https://t.co/AfXY9n1gRM" / Twitter
+
+PyLadies
+https://github.com/pyladies/project-communications | pyladies/project-communications: PyLadies Project Communications: https://github.com/pyladies/global-organizing/issues/42
+https://github.com/pyladies/global-organizing | pyladies/global-organizing: Repository to track global organizing
+https://github.com/pyladies/pyladies-twitter-image-action | pyladies/pyladies-twitter-image-action: GitHub Action to change PyLadies Twitter image
+https://github.com/pyladies/pyladies-elections-website/runs/875137643?check_suite_focus=true | Update build_deploy.yml · pyladies/pyladies-elections-website@72f2be4
+
+PSF CoC
+https://mobile.twitter.com/webology/status/1248998642234597377
+
+https://mail.python.org/archives/list/python-dev@python.org/thread/PJPZBLXM3ERJP66O5IEZYLRSBDN66HI5/ | Mailman 3 Recent PEP-8 change - Python-Dev - python.org
+https://github.com/python/peps/commit/0c6427dcec1e98ca0bd46a876a7219ee4a9347f4 | PEP 8: Change requirement to adhere to Standard English (#1470) · python/peps@0c6427d
+https://mail.python.org/archives/list/python-ideas@python.org/thread/AE2M7KOIQR37K3XSQW7FSV5KO4LMYHWX/ | Mailman 3 Amend PEP-8 to require clear, understandable comments instead of Strunk & White Standard English comments - Python-ideas - python.org
+https://mail.python.org/archives/list/python-dev@python.org/thread/PJPZBLXM3ERJP66O5IEZYLRSBDN66HI5/ | Mailman 3 Recent PEP-8 change - Python-Dev - python.org
+
+https://twitter.com/jackdied/status/1284976608953217024 | Jack Diederich on Twitter: "@dabeaz @raymondh @ThePSF I resigned from the PSF a couple weeks ago. sig was """ may-your-chains-set-lightly-upon-you-ly """ goodbye, god bless." / Twitter
+
+https://twitter.com/loooorenanicole/status/1283403165363208192 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "Quite topical Espacios Abiertos con @webology discuss as part of the episode @ThePSF election, which I then encourage you to go over to https://t.co/81cC16QLBe to weigh in on @thepsf Board of Directors election reform! #Python #OSS 🐍🐍🐍🐍" / Twitter
+
+
 https://anweshadas.in/pyladies-india-embarked-its-journey/ | PyLadies India embarked its journey
 
 https://twitter.com/loooorenanicole/status/1274913218352353287 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "#PyLadies first online hack highlights 🏾: - https://t.co/OBCXBsOyQQ is officially #Python 3 powered! - 12 issues closed - dependabot alerts gone - netlify bootstrapped - lots work on @pyladies Global Council Election (website launching soon) - logo refresh I'm beat. https://t.co/vOkzPnRGEA" / Twitter
