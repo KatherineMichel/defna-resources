@@ -1,17 +1,16 @@
 # DEFNA Resources
 
 <!--
+https://twitter.com/ThePSF/status/1291477652931588097 | Python Software Foundation on Twitter: "Our grants program will be re-launching soon! In the meantime, we put together a list of free (some limited) resources our community can use to host virtual conferences, user group meetings &amp; sprints! https://t.co/glk2tc8ZRo. Check it out!" / Twitter
+https://www.python.org/psf/grants/free-resources/ | Resources for virtual events | Python.org
+
+PSF Election reform
 https://dev.to/lakatialira/la-reformas-necesarias-para-la-psf-1hk | La reformas necesarias para la PSF - DEV
 https://twitter.com/loooorenanicole/status/1283121082225106945 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "Reminder that @thepsf will be reviewing the feedback on @thepsf Board of Director election reform for our July 29th meeting. The thread will therefore be closing at 23:59:59 Anywhere on Earth July 28 2020! Weigh in today at https://t.co/0Epj78fEWj. Thank you all! https://t.co/AfXY9n1gRM" / Twitter
-
-PyLadies
-https://github.com/pyladies/project-communications | pyladies/project-communications: PyLadies Project Communications: https://github.com/pyladies/global-organizing/issues/42
-https://github.com/pyladies/global-organizing | pyladies/global-organizing: Repository to track global organizing
-https://github.com/pyladies/pyladies-twitter-image-action | pyladies/pyladies-twitter-image-action: GitHub Action to change PyLadies Twitter image
-https://github.com/pyladies/pyladies-elections-website/runs/875137643?check_suite_focus=true | Update build_deploy.yml · pyladies/pyladies-elections-website@72f2be4
-
-PSF CoC
-https://mobile.twitter.com/webology/status/1248998642234597377
+https://twitter.com/ronn_zw/status/1276419058901155840 | Ronald Maravanyika on Twitter: "I was really disappointed that no African made it to the @ThePSF board. So next year l will be running for one of those seats. I’m currently threading through the conversation going on about geographical location n voting." / Twitter
+https://thefortunate.blog/en/diversification-is-the-future-for-the-psf.html | Diversification is the future for the Python Software Foundation (PSF) - The Fortunate
+https://discuss.python.org/t/psf-board-election-reform/4527 | (1) PSF Board Election Reform - Python Software Foundation / PSF Board Elections - Discussions on Python.org
+https://pyfound.blogspot.com/2020/06/2020-python-software-foundation-board_26.html | Python Software Foundation News: 2020 Python Software Foundation Board of Directors Election Retrospective and Next Steps
 
 https://mail.python.org/archives/list/python-dev@python.org/thread/PJPZBLXM3ERJP66O5IEZYLRSBDN66HI5/ | Mailman 3 Recent PEP-8 change - Python-Dev - python.org
 https://github.com/python/peps/commit/0c6427dcec1e98ca0bd46a876a7219ee4a9347f4 | PEP 8: Change requirement to adhere to Standard English (#1470) · python/peps@0c6427d
@@ -20,19 +19,8 @@ https://mail.python.org/archives/list/python-dev@python.org/thread/PJPZBLXM3ERJP
 
 https://twitter.com/jackdied/status/1284976608953217024 | Jack Diederich on Twitter: "@dabeaz @raymondh @ThePSF I resigned from the PSF a couple weeks ago. sig was """ may-your-chains-set-lightly-upon-you-ly """ goodbye, god bless." / Twitter
 
-https://twitter.com/loooorenanicole/status/1283403165363208192 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "Quite topical Espacios Abiertos con @webology discuss as part of the episode @ThePSF election, which I then encourage you to go over to https://t.co/81cC16QLBe to weigh in on @thepsf Board of Directors election reform! #Python #OSS 🐍🐍🐍🐍" / Twitter
-
-
-https://anweshadas.in/pyladies-india-embarked-its-journey/ | PyLadies India embarked its journey
-
-https://twitter.com/loooorenanicole/status/1274913218352353287 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "#PyLadies first online hack highlights 🏾: - https://t.co/OBCXBsOyQQ is officially #Python 3 powered! - 12 issues closed - dependabot alerts gone - netlify bootstrapped - lots work on @pyladies Global Council Election (website launching soon) - logo refresh I'm beat. https://t.co/vOkzPnRGEA" / Twitter
-
-PSF Election reform
-https://twitter.com/ronn_zw/status/1276419058901155840 | Ronald Maravanyika on Twitter: "I was really disappointed that no African made it to the @ThePSF board. So next year l will be running for one of those seats. I’m currently threading through the conversation going on about geographical location n voting." / Twitter
-https://thefortunate.blog/en/diversification-is-the-future-for-the-psf.html | Diversification is the future for the Python Software Foundation (PSF) - The Fortunate
-https://discuss.python.org/t/psf-board-election-reform/4527 | (1) PSF Board Election Reform - Python Software Foundation / PSF Board Elections - Discussions on Python.org
-https://pyfound.blogspot.com/2020/06/2020-python-software-foundation-board_26.html | Python Software Foundation News: 2020 Python Software Foundation Board of Directors Election Retrospective and Next Steps
-
+PSF CoC
+https://mobile.twitter.com/webology/status/1248998642234597377
 
 Heather- DjangoCon US
 https://www.facebook.com/heather.marie.5686/posts/10161966629050573
@@ -48,28 +36,36 @@ https://discuss.python.org/c/python-software-foundation/pypi-q4-rfi | Latest Pyt
 https://www.python.org/jobs/
 http://pythoncalendar.com/ | Python Events
 
-https://github.com/pretix | pretix
-https://github.com/andrewgodwin/grorg | GitHub - andrewgodwin/grorg
-https://gitlab.com/bigapplepy/yak-bak/ | Big Apple Py / yak-bak · GitLab
+https://twitter.com/loooorenanicole/status/1274913218352353287 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "#PyLadies first online hack highlights 🏾: - https://t.co/OBCXBsOyQQ is officially #Python 3 powered! - 12 issues closed - dependabot alerts gone - netlify bootstrapped - lots work on @pyladies Global Council Election (website launching soon) - logo refresh I'm beat. https://t.co/vOkzPnRGEA" / Twitter
+
+PyLadies
+https://www.pyladies.com/
+https://github.com/pyladies/pyladies.github.io
+https://twitter.com/pyladies/lists/pyladies-locations | @pyladies/PyLadies Locations on Twitter
+https://github.com/pyladies/pyladies-bot
+https://slackin.pyladies.com/ | Join PyLadies on Slack!
+
+PyLadies
+https://github.com/pyladies/project-communications | pyladies/project-communications: PyLadies Project Communications: https://github.com/pyladies/global-organizing/issues/42
+https://github.com/pyladies/global-organizing | pyladies/global-organizing: Repository to track global organizing
+https://github.com/pyladies/pyladies-twitter-image-action | pyladies/pyladies-twitter-image-action: GitHub Action to change PyLadies Twitter image
+https://github.com/pyladies/pyladies-elections-website/runs/875137643?check_suite_focus=true | Update build_deploy.yml · pyladies/pyladies-elections-website@72f2be4
 
 PyLadies Registration
 https://twitter.com/pyladies/status/1236357624871845888
 https://docs.google.com/forms/u/0/d/e/1FAIpQLSfknZgGu8HRA9UXiKoD0MWZ-vxOMHKRK5kJ_iK67tZq2pV6Qg/formResponse
-
-https://www.youtube.com/channel/UCfW2SBqLpcfXS1c3_1ZOoxw
-https://www.pyladies.com/
-https://app.slack.com/client/T03HT05JZ/C03HT05KF
 Membership survey
 https://docs.google.com/forms/d/e/1FAIpQLSfknZgGu8HRA9UXiKoD0MWZ-vxOMHKRK5kJ_iK67tZq2pV6Qg/viewform
 
-PyLadies
-https://github.com/pyladies/pyladies.github.io
-https://twitter.com/pyladies/lists/pyladies-locations | @pyladies/PyLadies Locations on Twitter
+https://anweshadas.in/pyladies-india-embarked-its-journey/ | PyLadies India embarked its journey
+https://www.meetup.com/__PyMX__/events/272386679/ | Reunión Agosto: Qué es la Python Software Foundation? y Qué es PyLadies global? | Meetup
+
+Guido
+https://twitter.com/gvanrossum/status/1233895366078021633 | Guido van Rossum on Twitter: "I ❤️ @PyLadies! Thank you all so much for making Python's community more diverse (and not just qua gender!). I fancy myself a feminist and an ally but you do the hard work and make it stick. Way to go #pyladies https://t.co/uss1EhdR9W" / Twitter
+
+Mic Line
 https://twitter.com/aaronbassett/status/1252273006094794752 | Aaron Bassett - Developer Advocate 🥑 on Twitter: "I'm not going to @mention anyone to take part publicly, as I know some people still find it difficult to talk publicly about their achievements. But, there are SOOO many women I know have done amazing things this past year and deserve to be shouting about them! #pyladies #pycon https://t.co/JcjGZcoEnU" / Twitter
 https://twitter.com/JackieKazil/status/1251928450983776258 | Jackie Kazil on Twitter: "Are you all in the virtual @pyladies lunch mic line this year? @roguelynn, @loooorenanicole, @mariatta, @marlene_zw, @kcunning, @amcasari, @KatiMichel, @elliewix? If you are not, that is fine. Please encourage others to get in line and share. ‍♀️ ️" / Twitter
-https://github.com/pyladies/pyladies-bot
-https://twitter.com/gvanrossum/status/1233895366078021633 | Guido van Rossum on Twitter: "I ❤️ @PyLadies! Thank you all so much for making Python's community more diverse (and not just qua gender!). I fancy myself a feminist and an ally but you do the hard work and make it stick. Way to go #pyladies https://t.co/uss1EhdR9W" / Twitter
-https://slackin.pyladies.com/ | Join PyLadies on Slack!
 
 https://tinyletter.com/northbaypython/letters/2019-videos-available-and-the-future-of-north-bay-python | 2019 videos available, and the future of North Bay Python
 https://gist.github.com/chrisjrn/51f0e8d2c00a343df37704372e98057a | North Bay Python -- Kincade Fire Update Oct 28
@@ -87,6 +83,10 @@ https://twitter.com/loooorenanicole/status/1160498140790829057 | Loooorena 🐯 
 
 https://www.europython-society.org/post/188741002380/europython-2020-venue-and-location-selected | EuroPython Society — EuroPython 2020: Venue and location selected
 
+https://github.com/pretix | pretix
+https://github.com/andrewgodwin/grorg | GitHub - andrewgodwin/grorg
+https://gitlab.com/bigapplepy/yak-bak/ | Big Apple Py / yak-bak · GitLab
+
 Conference Organizing
 https://twitter.com/jonafato/status/1190707241768378368 | Jon Banafato on Twitter: "Update: everyone that told me about their availability should have gotten a calendar invite for Wednesday, November 6th at 9:00PM EST. If you'd like to join, let me know, and we'll also work on scheduling more of these soon." / Twitter
 https://twitter.com/webology/status/1186835913890041856 | 🎃 Jeff O'Lantern 🎃 on Twitter: "@jonafato I have been debating some type of weekly or bi-weekly type of thing too. I am happy to join in from time-to-time or plan. Whatever you are up for." / Twitter
@@ -97,6 +97,7 @@ https://twitter.com/jonafato/status/1130556611318157313 | Jon Banafato on Twitte
 https://twitter.com/PyOhio/status/996605491051683841 | PyOhio on Twitter: "With the number of just-in-time proposals you'd think we're running a PyPy conference 😂 🐍… "
 
 Jeff
+https://twitter.com/loooorenanicole/status/1283403165363208192 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "Quite topical Espacios Abiertos con @webology discuss as part of the episode @ThePSF election, which I then encourage you to go over to https://t.co/81cC16QLBe to weigh in on @thepsf Board of Directors election reform! #Python #OSS 🐍🐍🐍🐍" / Twitter
 https://twitter.com/i/web/status/1156629486168956929 | Django Chat Podcast on Twitter: "Episode 24 - Testing with Jeff Triplett (@webology) is now live! Jeff is a consultant at REVSYS, Director of the PSF, and President of DEFNA. We discuss testing Django applications, community, conferences, parenting, and more. https://t.co/obnwcPXcGc" / Twitter
 https://twitter.com/webology/status/1188930811451596801 | 🍂 Jeff Triplett 🍂 on Twitter: "👋 Dear friends who ask me to review/give feedback on your slides/presentations: 1️⃣ I am happy to. I get asked quite a bit and I watch quite a bit. 2️⃣ consider using https://t.co/0dfnYYFBFP or https://t.co/F9DOQ5jgOz to save yourself a ton of time and formatting issues." / Twitter
 
