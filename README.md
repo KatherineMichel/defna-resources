@@ -21,6 +21,7 @@ https://twitter.com/jackdied/status/1284976608953217024 | Jack Diederich on Twit
 
 PSF CoC
 https://mobile.twitter.com/webology/status/1248998642234597377
+https://github.com/psf/community-code-of-conduct | psf/community-code-of-conduct: The Python Software Foundation Community Code of Conduct
 
 Heather- DjangoCon US
 https://www.facebook.com/heather.marie.5686/posts/10161966629050573
@@ -39,6 +40,7 @@ http://pythoncalendar.com/ | Python Events
 https://twitter.com/loooorenanicole/status/1274913218352353287 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "#PyLadies first online hack highlights 🏾: - https://t.co/OBCXBsOyQQ is officially #Python 3 powered! - 12 issues closed - dependabot alerts gone - netlify bootstrapped - lots work on @pyladies Global Council Election (website launching soon) - logo refresh I'm beat. https://t.co/vOkzPnRGEA" / Twitter
 
 PyLadies
+https://twitter.com/pyladies | PyLadies (@pyladies) / Twitter
 https://www.pyladies.com/
 https://github.com/pyladies/pyladies.github.io
 https://twitter.com/pyladies/lists/pyladies-locations | @pyladies/PyLadies Locations on Twitter
@@ -46,9 +48,13 @@ https://github.com/pyladies/pyladies-bot
 https://slackin.pyladies.com/ | Join PyLadies on Slack!
 
 PyLadies
+https://www.youtube.com/watch?time_continue=3&v=Gg7qyY3xvyQ&feature=emb_logo | PyLadies Working Session: Showcasing our PyLadies Global community on Twitter with Zapier - YouTube
+
+PyLadies
 https://github.com/pyladies/project-communications | pyladies/project-communications: PyLadies Project Communications: https://github.com/pyladies/global-organizing/issues/42
 https://github.com/pyladies/global-organizing | pyladies/global-organizing: Repository to track global organizing
 https://github.com/pyladies/pyladies-twitter-image-action | pyladies/pyladies-twitter-image-action: GitHub Action to change PyLadies Twitter image
+https://github.com/pyladies/pyladies-blank-github-pages-website-template | pyladies/pyladies-blank-github-pages-website-template: Blank PyLadies Website template
 https://github.com/pyladies/pyladies-elections-website/runs/875137643?check_suite_focus=true | Update build_deploy.yml · pyladies/pyladies-elections-website@72f2be4
 
 PyLadies Registration
