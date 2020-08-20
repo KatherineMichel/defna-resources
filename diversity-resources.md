@@ -51,7 +51,6 @@ PyLadies and PyLadies Remote
 * [PyLadies Maintainers GitHub](https://github.com/pyladies/pyladies-maintainers)
 * [PyLadies Remote Twitter](https://twitter.com/pyladiesremote)
 * [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
-* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
 <!--
 https://github.com/pyladies/project-admin-logisitics
