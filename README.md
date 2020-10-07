@@ -1,6 +1,8 @@
 # DEFNA Resources
 
 <!--
+https://pyladies.com/blog/Announcing-the-Inaugural-PyLadies-Global-Council/inaugural-pyladies-council/ | Announcing the Inaugural PyLadies Global Council – PyLadies
+
 https://twitter.com/ThePSF/status/1291477652931588097 | Python Software Foundation on Twitter: "Our grants program will be re-launching soon! In the meantime, we put together a list of free (some limited) resources our community can use to host virtual conferences, user group meetings &amp; sprints! https://t.co/glk2tc8ZRo. Check it out!" / Twitter
 https://www.python.org/psf/grants/free-resources/ | Resources for virtual events | Python.org
 
