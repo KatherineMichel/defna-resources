@@ -29,7 +29,7 @@ Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
 * [Slides](https://docs.google.com/presentation/d/1vgYS-STJl9epz7_RiRGSKnnf4vYi4rtaF3zbJc8S1yA/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [Replay](https://www.youtube.com/watch?v=OAQAXVU1jIo)
 
-# Diversity Resources
+## Diversity Resources
 
 <!--
 https://2016.djangocon.us/diversity/ | Diversity
@@ -72,28 +72,6 @@ https://twitter.com/joshsimmons/status/1111292871594774529
 * [DjangoCon US 2017: 47% talks women (Proposal Stats)](https://2017.djangocon.us/news/proposal-statistics)
 * [DjangoCon US 2015: 30% talks women (Proposal Stats)](https://2015.djangocon.us/blog/2015/07/20/proposal-stats)
 * ["Python increased female speakers from 1% to 40% in 5 years. <3 <3 <3 <3 @pyladies @djangogirls major change agents in this. #OSSummit"](https://twitter.com/drnikki/status/908465327234629632)
-
-## PyLadies
-
-PyLadies and PyLadies Remote
-* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
-* [PyLadies Website GitHub](https://github.com/pyladies/pyladies)
-* [PyLadies Blog GitHub](https://github.com/pyladies/pyladies-blog)
-* [PyLadies Maintainers GitHub](https://github.com/pyladies/pyladies-maintainers)
-* [PyLadies Remote Twitter](https://twitter.com/pyladiesremote)
-* [PyLadies Remote Website GitHub](https://github.com/pyladies-remote/website)
-
-<!--
-https://github.com/pyladies/project-admin-logisitics
-https://twitter.com/pyladies/status/1172228140724293632
-https://github.com/pyladies/global-organizing/issues/32 | RFC: PyLadies Global Council Selection Process · Issue #32 · pyladies/global-organizing
-https://github.com/pyladies/global-organizing/issues/33 | RFC: PyLadies Projects · Issue #33 · pyladies/global-organizing
-https://www.pyladies.com/blog/Important-PyLadies-Update/important-pyladies-update/
-
-PyLadies History
-https://twitter.com/pydanny/status/1008828986787430402 | Daniel Roy Greenfeld on Twitter: "There was an enormous amount of early resistance to PyLadies, including by people (of all genders/backgrounds) who now are stalwarts of diversity. It's wonderful to see how many people have come around.… https://t.co/IL1IEpxJuu"
-https://www.flickr.com/photos/pydanny/5670718476/in/dateposted-public/ | Pyladies inception moment! | Daniel Roy Greenfeld | Flickr
--->
 
 ## Django Girls
 
