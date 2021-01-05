@@ -1,4 +1,4 @@
-# DEFNA Resources
+# Event Resources
 
 <!--
 https://pyladies.com/blog/Announcing-the-Inaugural-PyLadies-Global-Council/inaugural-pyladies-council/ | Announcing the Inaugural PyLadies Global Council – PyLadies
