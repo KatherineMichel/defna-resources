@@ -1,6 +1,8 @@
 # Events
 
 <!--
+https://www.meetup.com/BAyPIGgies/
+
 https://twitter.com/hashtag/djangocon
 
 PyData
