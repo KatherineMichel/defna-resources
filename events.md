@@ -1,16 +1,11 @@
 # Events
 
 <!--
-https://www.meetup.com/BAyPIGgies/
+Bazel
+https://opensourcelive.withgoogle.com/events/bazelcon2020 | Home - BazelCon 2020
 
-https://twitter.com/hashtag/djangocon
-
-PyData
-https://global.pydata.org/pages/schedule | PyData Global 2020
-https://global.pydata.org/pages/program | PyData Global 2020
-https://global.pydata.org/pages/talk_release_schedule#nov-11 | PyData Global 2020
-https://forum.numfocus.org/pydata-global/channels/town-square | (26) * General - PyData Global NumFOCUS Forum
-https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
+Important
+https://www.globaldiversitycfpday.com/ | Global Diversity CFP Day
 
 https://www.ces.tech/
 https://websummit.com/speakers| Web Summit | Lisbon | Meet Web Summit's 2020 speakers | December 2-4, 2020
@@ -33,6 +28,15 @@ https://www.docker.com/events/women-at-dockercon-summit | Women@DockerCon Summit
 
 
 <!--
+https://twitter.com/hashtag/djangocon
+
+PyData
+https://global.pydata.org/pages/schedule | PyData Global 2020
+https://global.pydata.org/pages/program | PyData Global 2020
+https://global.pydata.org/pages/talk_release_schedule#nov-11 | PyData Global 2020
+https://forum.numfocus.org/pydata-global/channels/town-square | (26) * General - PyData Global NumFOCUS Forum
+https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
+
 Cuba
 Python Pizza Conf
 https://remote.python.pizza/
@@ -47,8 +51,10 @@ https://na.pycon.org/programme/
 DJUGL404: A Night of F*&k Ups
 https://www.eventbrite.co.uk/e/djugl404-a-night-of-fk-ups-tickets-91303614569?aff=jessica
 
+Big
+https://python.geekle.us/ | Python Universe WEB Edition Global Summit online by Geekle
 Python Mega Meetup
-https://twitter.com/abhicantdraw/status/1307236581854470144 | https://twitter.com/abhicantdraw/status/1307236581854470144
+https://community-z.com/events/python-mega-meetup
 
 https://djangoday.dk/talks/evolution-of-a-view-point/
 
@@ -57,19 +63,10 @@ https://github.com/PyLadiesCZ/roboprojekt | PyLadiesCZ/roboprojekt: Projekt PyLa
 https://github.com/DutchDjangoAssociation/djangovereniging.nl
 
 
-Important
-https://www.globaldiversitycfpday.com/ | Global Diversity CFP Day
-
 Pretty Website
 http://belpy.in/ | BelPy 2021 | Home
 
-https://python.geekle.us/ | Python Universe WEB Edition Global Summit online by Geekle
-
 https://speakerdeck.com/pycon2018?page=2
-
-Bazel
-https://bazel.build/ | Bazel - a fast, scalable, multi-language and extensible build system" - Bazel
-https://opensourcelive.withgoogle.com/events/bazelcon2020 | Home - BazelCon 2020
 -->
 
 
@@ -148,7 +145,7 @@ PyLadies
 PyCascades
 https://2021.pycascades.com/
 
-PyCon
+PyCon (Talk proposals due by February 12, 2021 AoE)
 https://pycon.blogspot.com/2020/12/announcing-pycon-us-2021.html | Announcing PyCon US 2021
 https://us.pycon.org/2020/schedule/talks/ | PyCon US
 https://us.pycon.org/2020/hatchery/maintainers/ | PyCon US
@@ -207,6 +204,8 @@ https://sfpythonmeetup.slack.com/
 SF Django
 https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/
 https://twitter.com/sfdjangomeetup
+
+https://www.meetup.com/BAyPIGgies/
 
 Django London
 https://www.meetup.com/djangolondon/ | The Django London Meetup Group (London, United Kingdom) | Meetup
@@ -313,6 +312,8 @@ https://2020.allthingsopen.org/sessions/getting-started-with-ci-cd-using-github-
 FOSDEM
 https://www.facebook.com/fosdem | FOSDEM | Facebook
 https://fosdem.org/2021/ | FOSDEM 2021 - Home
+https://fosdem.org/2021/schedule/tracks/
+
 https://fosdem.org/2020/schedule/
 
 https://fosdem.org/2018/schedule/track/community/ | FOSDEM 2018 - Community devroom
