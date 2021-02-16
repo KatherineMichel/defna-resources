@@ -260,6 +260,7 @@ http://www.kcdc.info/ | KCDC | 2019
 
 DevICT
 https://www.meetup.com/devict/
+https://www.grooverlabs.org/events/
 
 https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
 https://www.wichitaswe.org/calendar?view=calendar&month=01-2021
